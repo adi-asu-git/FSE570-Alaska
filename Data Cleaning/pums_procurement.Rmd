@@ -1,0 +1,97 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+
+library(tidycensus)
+library(tidyverse)
+
+census_api_key("", overwrite = TRUE)
+```
+
+## Variable Selection
+
+```{r variables}
+PUMS_VARS <- c(
+  "SEX",    # _SEX: 1=Male, 2=Female
+  "AGEP",   # _AGEG5YR: continuous age, binned to 13 five-year groups below
+  "RAC1P",  # _RACE: race alone (combined with HISP for NH categories)
+  "HISP",   # _RACE: hispanic origin (01=Not Hispanic, 02-24=Hispanic)
+  "SCHL",   # _EDUCAG: educational attainment (collapsed to 4 levels)
+  "HINCP",  # _INCOMG1: household income (inflation-adjusted, collapsed to 7 levels)
+  "ADJINC", # income inflation adjustment factor 
+  "PUMA"    # substate geography for county crosswalk 
+  # PWGTP (person weight) and ST (state) are always returned automatically
+)
+
+states_list <- c(state.abb, "DC")
+
+cat("Variables to pull:", paste(PUMS_VARS, collapse = ", "), "\n")
+cat("States to pull:   ", length(states_list), "\n")
+```
+
+---
+
+## Pull PUMS Data
+
+```{r pull-pums, cache=TRUE}
+message("Pulling 2020-2024 ACS 5-year PUMS for all states")
+
+pums_raw <- map_dfr(states_list, function(st) {
+  message("  Pulling: ", st)
+  tryCatch(
+    get_pums(
+      variables   = PUMS_VARS,
+      state       = st,
+      survey      = "acs5",
+      year        = 2024,
+      rep_weights = FALSE  # set TRUE if you need SDR standard errors on cell counts
+    ),
+    error = function(e) {
+      message("  ERROR on ", st, ": ", e$message)
+      NULL
+    }
+  )
+})
+
+cat("Raw PUMS rows pulled:", nrow(pums_raw), "\n")
+```
+
+---
+
+## Filter to Adults 18+
+
+BRFSS only surveys non-institutionalized adults 18 and older.
+
+```{r}
+pums_adults <- pums_raw %>%
+  filter(as.integer(AGEP) >= 18)
+
+cat("Adult rows (18+):", nrow(pums_adults), "\n")
+```
+
+---
+
+## Inflation-Adjust Household Income
+
+The PUMS User Guide says to divide `ADJINC` by 1,000,000 and multiply by `HINCP`
+to convert to 2024 dollars. Group quarters residents (nursing homes, dorms)
+have blank `HINCP` and are dropped in the NA filter downstream.
+
+```{r}
+pums_adults <- pums_adults %>%
+  mutate(HINCP_adj = as.numeric(HINCP) * (as.numeric(ADJINC) / 1e6))
+
+cat("Income range (2024 dollars):",
+    range(pums_adults$HINCP_adj, na.rm = TRUE), "\n")
+```
+```{r}
+# write_csv(pums_adults, "pums_adults.csv")
+head(pums_adults,10)
+```
+
