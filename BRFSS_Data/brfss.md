@@ -6,6 +6,13 @@ Years: 2020–2024
 
 ---
 
+## Cleaned Dataset
+The main cleaned dataset (`brfss_clean_2020_2024.csv`) is too large for GitHub and is hosted on Kaggle:
+[BRFSS 2020-2024 Cleaned Dataset](https://www.kaggle.com/datasets/adiailsinghani17/brfss-2020-2024?select=brfss_group_summary.csv)
+
+
+---
+
 ## Files in This Folder
 
 | File | Description |
