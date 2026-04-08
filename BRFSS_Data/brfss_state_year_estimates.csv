@@ -1,0 +1,266 @@
+_STATE,year,weighted_obesity_rate,state_name
+1.0,2020,0.4017,Alabama
+1.0,2021,0.4125,Alabama
+1.0,2022,0.3956,Alabama
+1.0,2023,0.4024,Alabama
+1.0,2024,0.4009,Alabama
+2.0,2020,0.3239,Alaska
+2.0,2021,0.337,Alaska
+2.0,2022,0.3326,Alaska
+2.0,2023,0.3661,Alaska
+2.0,2024,0.3513,Alaska
+4.0,2020,0.3196,Arizona
+4.0,2021,0.3213,Arizona
+4.0,2022,0.3407,Arizona
+4.0,2023,0.3325,Arizona
+4.0,2024,0.3514,Arizona
+5.0,2020,0.3767,Arkansas
+5.0,2021,0.3976,Arkansas
+5.0,2022,0.3842,Arkansas
+5.0,2023,0.4124,Arkansas
+5.0,2024,0.3935,Arkansas
+6.0,2020,0.3096,California
+6.0,2021,0.2842,California
+6.0,2022,0.2908,California
+6.0,2023,0.2811,California
+6.0,2024,0.2984,California
+8.0,2020,0.246,Colorado
+8.0,2021,0.2608,Colorado
+8.0,2022,0.2563,Colorado
+8.0,2023,0.2537,Colorado
+8.0,2024,0.2578,Colorado
+9.0,2020,0.3064,Connecticut
+9.0,2021,0.3133,Connecticut
+9.0,2022,0.3172,Connecticut
+9.0,2023,0.3044,Connecticut
+9.0,2024,0.3322,Connecticut
+10.0,2020,0.3675,Delaware
+10.0,2021,0.3411,Delaware
+10.0,2022,0.3814,Delaware
+10.0,2023,0.3583,Delaware
+10.0,2024,0.3753,Delaware
+11.0,2020,0.2438,District of Columbia
+11.0,2021,0.2432,District of Columbia
+11.0,2022,0.2336,District of Columbia
+11.0,2023,0.2435,District of Columbia
+11.0,2024,0.2537,District of Columbia
+12.0,2020,0.293,Florida
+12.0,2022,0.3304,Florida
+12.0,2023,0.3127,Florida
+12.0,2024,0.3005,Florida
+13.0,2020,0.3512,Georgia
+13.0,2021,0.3488,Georgia
+13.0,2022,0.382,Georgia
+13.0,2023,0.3638,Georgia
+13.0,2024,0.3599,Georgia
+15.0,2020,0.2461,Hawaii
+15.0,2021,0.2586,Hawaii
+15.0,2022,0.2631,Hawaii
+15.0,2023,0.2642,Hawaii
+15.0,2024,0.2784,Hawaii
+16.0,2020,0.3205,Idaho
+16.0,2021,0.3283,Idaho
+16.0,2022,0.3301,Idaho
+16.0,2023,0.3186,Idaho
+16.0,2024,0.3383,Idaho
+17.0,2020,0.3415,Illinois
+17.0,2021,0.3568,Illinois
+17.0,2022,0.342,Illinois
+17.0,2023,0.3665,Illinois
+17.0,2024,0.3473,Illinois
+18.0,2020,0.3761,Indiana
+18.0,2021,0.3752,Indiana
+18.0,2022,0.3879,Indiana
+18.0,2023,0.3891,Indiana
+18.0,2024,0.3966,Indiana
+19.0,2020,0.3778,Iowa
+19.0,2021,0.3723,Iowa
+19.0,2022,0.3825,Iowa
+19.0,2023,0.3847,Iowa
+19.0,2024,0.3756,Iowa
+20.0,2020,0.3631,Kansas
+20.0,2021,0.3696,Kansas
+20.0,2022,0.3683,Kansas
+20.0,2023,0.3634,Kansas
+20.0,2024,0.3859,Kansas
+21.0,2020,0.3737,Kentucky
+21.0,2021,0.4215,Kentucky
+21.0,2022,0.3883,Kentucky
+21.0,2024,0.3773,Kentucky
+22.0,2020,0.389,Louisiana
+22.0,2021,0.4015,Louisiana
+22.0,2022,0.4042,Louisiana
+22.0,2023,0.4048,Louisiana
+22.0,2024,0.4011,Louisiana
+23.0,2020,0.3231,Maine
+23.0,2021,0.3339,Maine
+23.0,2022,0.3434,Maine
+23.0,2023,0.3367,Maine
+23.0,2024,0.3372,Maine
+24.0,2020,0.3145,Maryland
+24.0,2021,0.3593,Maryland
+24.0,2022,0.3457,Maryland
+24.0,2023,0.3543,Maryland
+24.0,2024,0.3378,Maryland
+25.0,2020,0.2556,Massachusetts
+25.0,2021,0.286,Massachusetts
+25.0,2022,0.2882,Massachusetts
+25.0,2023,0.2854,Massachusetts
+25.0,2024,0.2772,Massachusetts
+26.0,2020,0.3643,Michigan
+26.0,2021,0.3535,Michigan
+26.0,2022,0.3509,Michigan
+26.0,2023,0.3661,Michigan
+26.0,2024,0.3685,Michigan
+27.0,2020,0.3143,Minnesota
+27.0,2021,0.3369,Minnesota
+27.0,2022,0.3431,Minnesota
+27.0,2023,0.3435,Minnesota
+27.0,2024,0.3335,Minnesota
+28.0,2020,0.408,Mississippi
+28.0,2021,0.4066,Mississippi
+28.0,2022,0.4018,Mississippi
+28.0,2023,0.4197,Mississippi
+28.0,2024,0.4303,Mississippi
+29.0,2020,0.3497,Missouri
+29.0,2021,0.3883,Missouri
+29.0,2022,0.384,Missouri
+29.0,2023,0.3721,Missouri
+29.0,2024,0.3535,Missouri
+30.0,2020,0.2912,Montana
+30.0,2021,0.3247,Montana
+30.0,2022,0.3093,Montana
+30.0,2023,0.3054,Montana
+30.0,2024,0.3165,Montana
+31.0,2020,0.3467,Nebraska
+31.0,2021,0.3677,Nebraska
+31.0,2022,0.3579,Nebraska
+31.0,2023,0.3749,Nebraska
+31.0,2024,0.3846,Nebraska
+32.0,2020,0.3035,Nevada
+32.0,2021,0.3296,Nevada
+32.0,2022,0.3531,Nevada
+32.0,2023,0.3233,Nevada
+32.0,2024,0.3698,Nevada
+33.0,2020,0.3114,New Hampshire
+33.0,2021,0.3143,New Hampshire
+33.0,2022,0.3214,New Hampshire
+33.0,2023,0.3335,New Hampshire
+33.0,2024,0.3179,New Hampshire
+34.0,2020,0.2887,New Jersey
+34.0,2021,0.293,New Jersey
+34.0,2022,0.3106,New Jersey
+34.0,2023,0.296,New Jersey
+34.0,2024,0.2859,New Jersey
+35.0,2020,0.3176,New Mexico
+35.0,2021,0.3547,New Mexico
+35.0,2022,0.334,New Mexico
+35.0,2023,0.3576,New Mexico
+35.0,2024,0.3543,New Mexico
+36.0,2020,0.2676,New York
+36.0,2021,0.2988,New York
+36.0,2022,0.3061,New York
+36.0,2023,0.2929,New York
+36.0,2024,0.3062,New York
+37.0,2020,0.3485,North Carolina
+37.0,2021,0.3658,North Carolina
+37.0,2022,0.3529,North Carolina
+37.0,2023,0.3551,North Carolina
+37.0,2024,0.3622,North Carolina
+38.0,2020,0.3433,North Dakota
+38.0,2021,0.3698,North Dakota
+38.0,2022,0.3652,North Dakota
+38.0,2023,0.3652,North Dakota
+38.0,2024,0.3796,North Dakota
+39.0,2020,0.3655,Ohio
+39.0,2021,0.3871,Ohio
+39.0,2022,0.3922,Ohio
+39.0,2023,0.3741,Ohio
+39.0,2024,0.3815,Ohio
+40.0,2020,0.3764,Oklahoma
+40.0,2021,0.4082,Oklahoma
+40.0,2022,0.4088,Oklahoma
+40.0,2023,0.3927,Oklahoma
+40.0,2024,0.3845,Oklahoma
+41.0,2020,0.2877,Oregon
+41.0,2021,0.3145,Oregon
+41.0,2022,0.3168,Oregon
+41.0,2023,0.3494,Oregon
+41.0,2024,0.3478,Oregon
+42.0,2020,0.3212,Pennsylvania
+42.0,2021,0.345,Pennsylvania
+42.0,2022,0.3477,Pennsylvania
+42.0,2024,0.3509,Pennsylvania
+44.0,2020,0.3126,Rhode Island
+44.0,2021,0.3111,Rhode Island
+44.0,2022,0.3118,Rhode Island
+44.0,2023,0.3192,Rhode Island
+44.0,2024,0.3208,Rhode Island
+45.0,2020,0.3795,South Carolina
+45.0,2021,0.3823,South Carolina
+45.0,2022,0.3675,South Carolina
+45.0,2023,0.3672,South Carolina
+45.0,2024,0.3569,South Carolina
+46.0,2020,0.3413,South Dakota
+46.0,2021,0.3984,South Dakota
+46.0,2022,0.3752,South Dakota
+46.0,2023,0.372,South Dakota
+46.0,2024,0.3912,South Dakota
+47.0,2020,0.3696,Tennessee
+47.0,2021,0.3574,Tennessee
+47.0,2022,0.4049,Tennessee
+47.0,2023,0.3803,Tennessee
+48.0,2020,0.3651,Texas
+48.0,2021,0.3704,Texas
+48.0,2022,0.3664,Texas
+48.0,2023,0.3534,Texas
+48.0,2024,0.3667,Texas
+49.0,2020,0.2941,Utah
+49.0,2021,0.3189,Utah
+49.0,2022,0.3197,Utah
+49.0,2023,0.3103,Utah
+49.0,2024,0.3206,Utah
+50.0,2020,0.2676,Vermont
+50.0,2021,0.2964,Vermont
+50.0,2022,0.2814,Vermont
+50.0,2023,0.2963,Vermont
+50.0,2024,0.2942,Vermont
+51.0,2020,0.3347,Virginia
+51.0,2021,0.3571,Virginia
+51.0,2022,0.364,Virginia
+51.0,2023,0.3609,Virginia
+51.0,2024,0.3353,Virginia
+53.0,2020,0.2854,Washington
+53.0,2021,0.2967,Washington
+53.0,2022,0.3276,Washington
+53.0,2023,0.3145,Washington
+53.0,2024,0.3254,Washington
+54.0,2020,0.4046,West Virginia
+54.0,2021,0.4245,West Virginia
+54.0,2022,0.4131,West Virginia
+54.0,2023,0.4218,West Virginia
+54.0,2024,0.419,West Virginia
+55.0,2020,0.3279,Wisconsin
+55.0,2021,0.3456,Wisconsin
+55.0,2022,0.3894,Wisconsin
+55.0,2023,0.3731,Wisconsin
+55.0,2024,0.3843,Wisconsin
+56.0,2020,0.3094,Wyoming
+56.0,2021,0.3221,Wyoming
+56.0,2022,0.3455,Wyoming
+56.0,2023,0.3423,Wyoming
+56.0,2024,0.3326,Wyoming
+66.0,2020,0.3495,Guam
+66.0,2021,0.3464,Guam
+66.0,2022,0.3474,Guam
+66.0,2023,0.3664,Guam
+66.0,2024,0.4511,Guam
+72.0,2020,0.3212,Puerto Rico
+72.0,2021,0.3734,Puerto Rico
+72.0,2022,0.3545,Puerto Rico
+72.0,2023,0.3679,Puerto Rico
+72.0,2024,0.3802,Puerto Rico
+78.0,2021,0.4006,Virgin Islands
+78.0,2022,0.3323,Virgin Islands
+78.0,2023,0.3341,Virgin Islands
+78.0,2024,0.4028,Virgin Islands
