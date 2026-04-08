@@ -1,0 +1,2061 @@
+age_group,sex,education,income_group,race_group,obesity_rate,n,reliable
+55-59,Female,Did not graduate high school,200k+,NH-Black,0.0,1,0
+80+,Male,Graduated college or technical school,200k+,NHOPI,0.0,1,0
+75-79,Male,Did not graduate high school,200k+,Hispanic,0.0,1,0
+30-34,Female,Did not graduate high school,100k-200k,NHOPI,1.0,1,0
+55-59,Female,Did not graduate high school,200k+,AIAN,0.0,1,0
+45-49,Female,Did not graduate high school,200k+,Hispanic,0.0,1,0
+55-59,Female,Did not graduate high school,35k-50k,NHOPI,1.0,1,0
+18-24,Female,Did not graduate high school,50k-100k,NHOPI,0.0,1,0
+75-79,Male,Did not graduate high school,100k-200k,AIAN,0.0,1,0
+30-34,Male,Attended college or technical school,200k+,NHOPI,0.0,1,0
+55-59,Female,Did not graduate high school,100k-200k,Other/Multiracial,1.0,1,0
+18-24,Female,Did not graduate high school,200k+,NH-Black,0.0,1,0
+60-64,Male,Did not graduate high school,200k+,NHOPI,0.0,1,0
+18-24,Female,Did not graduate high school,35k-50k,NHOPI,0.0,1,0
+80+,Male,Graduated high school,200k+,Hispanic,0.0,1,0
+30-34,Female,Did not graduate high school,35k-50k,NHOPI,1.0,1,0
+18-24,Female,Did not graduate high school,200k+,Asian,0.0,1,0
+18-24,Female,Did not graduate high school,200k+,AIAN,1.0,1,0
+70-74,Female,Attended college or technical school,200k+,Hispanic,1.0,1,0
+40-44,Male,Graduated high school,200k+,NHOPI,1.0,1,0
+30-34,Male,Did not graduate high school,25k-35k,Asian,0.0,1,0
+75-79,Male,Attended college or technical school,<15k,NHOPI,1.0,1,0
+40-44,Female,Did not graduate high school,100k-200k,AIAN,1.0,1,0
+80+,Female,Graduated high school,200k+,NHOPI,0.0,1,0
+80+,Female,Graduated high school,200k+,Hispanic,0.0,1,0
+80+,Female,Graduated high school,200k+,Asian,1.0,1,0
+80+,Female,Did not graduate high school,50k-100k,Asian,0.0,1,0
+50-54,Female,Did not graduate high school,200k+,Asian,0.0,1,0
+25-29,Female,Graduated college or technical school,15k-25k,NHOPI,1.0,1,0
+50-54,Female,Did not graduate high school,200k+,Hispanic,0.0,1,0
+75-79,Male,Did not graduate high school,50k-100k,NHOPI,0.0,1,0
+80+,Female,Did not graduate high school,50k-100k,NHOPI,0.0,1,0
+75-79,Female,Did not graduate high school,25k-35k,NHOPI,0.0,1,0
+75-79,Male,Attended college or technical school,<15k,Asian,0.0,1,0
+75-79,Male,Did not graduate high school,200k+,AIAN,0.0,1,0
+30-34,Male,Did not graduate high school,200k+,Other/Multiracial,0.0,1,0
+75-79,Male,Did not graduate high school,<15k,NHOPI,1.0,1,0
+75-79,Male,Did not graduate high school,200k+,Asian,0.0,1,0
+45-49,Female,Did not graduate high school,200k+,NHOPI,1.0,1,0
+70-74,Female,Attended college or technical school,200k+,NHOPI,0.0,1,0
+75-79,Male,Graduated college or technical school,35k-50k,NHOPI,0.0,1,0
+30-34,Male,Did not graduate high school,100k-200k,Asian,0.0,1,0
+75-79,Male,Did not graduate high school,100k-200k,Hispanic,0.0,1,0
+75-79,Male,Did not graduate high school,100k-200k,Asian,1.0,1,0
+30-34,Female,Did not graduate high school,<15k,Asian,0.0,1,0
+65-69,Male,Attended college or technical school,200k+,AIAN,0.0,1,0
+80+,Male,Graduated high school,100k-200k,NHOPI,0.0,1,0
+75-79,Female,Graduated high school,200k+,Asian,0.0,1,0
+80+,Male,Graduated college or technical school,15k-25k,NHOPI,0.0,1,0
+55-59,Female,Did not graduate high school,200k+,Asian,0.0,1,0
+55-59,Female,Did not graduate high school,25k-35k,NHOPI,0.0,1,0
+70-74,Female,Did not graduate high school,100k-200k,Asian,0.0,1,0
+75-79,Male,Attended college or technical school,200k+,AIAN,1.0,1,0
+18-24,Female,Graduated college or technical school,200k+,AIAN,0.0,1,0
+18-24,Female,Graduated college or technical school,200k+,NHOPI,0.0,1,0
+45-49,Male,Did not graduate high school,200k+,AIAN,0.0,1,0
+30-34,Male,Did not graduate high school,25k-35k,NHOPI,1.0,1,0
+30-34,Female,Graduated high school,200k+,NHOPI,0.0,1,0
+75-79,Male,Attended college or technical school,15k-25k,NHOPI,1.0,1,0
+45-49,Male,Did not graduate high school,200k+,Asian,1.0,1,0
+65-69,Female,Graduated high school,200k+,AIAN,0.0,1,0
+75-79,Male,Did not graduate high school,35k-50k,NHOPI,0.0,1,0
+45-49,Male,Did not graduate high school,200k+,NH-Black,1.0,1,0
+80+,Female,Did not graduate high school,25k-35k,NHOPI,0.0,1,0
+55-59,Female,Did not graduate high school,200k+,Other/Multiracial,0.0,1,0
+30-34,Male,Did not graduate high school,<15k,NHOPI,1.0,1,0
+30-34,Male,Did not graduate high school,15k-25k,NHOPI,0.0,1,0
+30-34,Male,Did not graduate high school,200k+,AIAN,0.0,1,0
+70-74,Female,Graduated college or technical school,200k+,NHOPI,0.0,1,0
+30-34,Female,Did not graduate high school,100k-200k,AIAN,0.0,1,0
+70-74,Female,Attended college or technical school,200k+,AIAN,0.0,1,0
+70-74,Female,Did not graduate high school,100k-200k,AIAN,0.0,1,0
+65-69,Male,Attended college or technical school,200k+,NHOPI,1.0,1,0
+70-74,Female,Graduated college or technical school,15k-25k,NHOPI,0.0,1,0
+45-49,Female,Graduated college or technical school,25k-35k,NHOPI,0.0,1,0
+18-24,Female,Attended college or technical school,200k+,NHOPI,0.0,1,0
+70-74,Female,Did not graduate high school,100k-200k,NHOPI,0.0,1,0
+50-54,Male,Graduated college or technical school,15k-25k,NHOPI,1.0,1,0
+70-74,Female,Graduated high school,200k+,AIAN,0.0,1,0
+70-74,Female,Did not graduate high school,200k+,AIAN,0.0,1,0
+18-24,Female,Attended college or technical school,200k+,AIAN,0.0,1,0
+30-34,Male,Attended college or technical school,<15k,NHOPI,0.0,1,0
+75-79,Male,Did not graduate high school,25k-35k,NHOPI,0.0,1,0
+18-24,Female,Graduated college or technical school,<15k,NHOPI,0.0,1,0
+75-79,Male,Graduated college or technical school,200k+,NHOPI,0.0,1,0
+35-39,Male,Did not graduate high school,100k-200k,Asian,0.0,1,0
+75-79,Female,Did not graduate high school,100k-200k,Other/Multiracial,0.0,1,0
+18-24,Male,Graduated college or technical school,<15k,NHOPI,1.0,1,0
+35-39,Female,Did not graduate high school,100k-200k,Other/Multiracial,0.0,1,0
+65-69,Male,Did not graduate high school,200k+,Asian,0.0,1,0
+30-34,Male,Graduated high school,200k+,AIAN,1.0,1,0
+80+,Male,Did not graduate high school,35k-50k,NHOPI,0.0,1,0
+40-44,Male,Did not graduate high school,35k-50k,NHOPI,0.0,1,0
+65-69,Male,Did not graduate high school,100k-200k,Asian,1.0,1,0
+45-49,Male,Did not graduate high school,50k-100k,Asian,0.0,1,0
+50-54,Male,Did not graduate high school,200k+,NHOPI,1.0,1,0
+35-39,Female,Attended college or technical school,200k+,NHOPI,0.0,1,0
+40-44,Male,Did not graduate high school,25k-35k,NHOPI,0.0,1,0
+45-49,Male,Did not graduate high school,<15k,Asian,1.0,1,0
+75-79,Female,Did not graduate high school,35k-50k,NHOPI,0.0,1,0
+80+,Male,Did not graduate high school,200k+,NH-Black,0.0,1,0
+40-44,Male,Did not graduate high school,200k+,AIAN,0.0,1,0
+75-79,Male,Graduated high school,200k+,AIAN,0.0,1,0
+75-79,Male,Graduated high school,200k+,Hispanic,0.0,1,0
+55-59,Male,Did not graduate high school,100k-200k,Asian,1.0,1,0
+70-74,Male,Did not graduate high school,200k+,Other/Multiracial,1.0,1,0
+50-54,Male,Did not graduate high school,100k-200k,NHOPI,0.0,1,0
+65-69,Female,Attended college or technical school,200k+,NHOPI,1.0,1,0
+60-64,Female,Did not graduate high school,100k-200k,Other/Multiracial,0.0,1,0
+35-39,Male,Did not graduate high school,100k-200k,AIAN,0.0,1,0
+45-49,Male,Graduated college or technical school,<15k,NHOPI,0.0,1,0
+70-74,Male,Attended college or technical school,200k+,NHOPI,1.0,1,0
+65-69,Male,Did not graduate high school,200k+,NHOPI,1.0,1,0
+25-29,Male,Did not graduate high school,200k+,NH-Black,1.0,1,0
+18-24,Male,Did not graduate high school,200k+,Asian,0.0,1,0
+55-59,Male,Did not graduate high school,200k+,NHOPI,0.0,1,0
+60-64,Female,Did not graduate high school,200k+,Hispanic,0.0,1,0
+75-79,Female,Did not graduate high school,200k+,Other/Multiracial,1.0,1,0
+60-64,Female,Did not graduate high school,200k+,Asian,0.0,1,0
+35-39,Female,Did not graduate high school,200k+,NH-Black,1.0,1,0
+70-74,Male,Did not graduate high school,100k-200k,AIAN,0.0,1,0
+80+,Male,Attended college or technical school,200k+,Asian,1.0,1,0
+25-29,Male,Did not graduate high school,100k-200k,AIAN,0.0,1,0
+80+,Male,Attended college or technical school,15k-25k,NHOPI,0.0,1,0
+40-44,Female,Did not graduate high school,35k-50k,NHOPI,0.0,1,0
+25-29,Male,Attended college or technical school,<15k,NHOPI,0.0,1,0
+50-54,Female,Did not graduate high school,100k-200k,Asian,0.0,1,0
+60-64,Female,Did not graduate high school,200k+,AIAN,1.0,1,0
+75-79,Female,Did not graduate high school,200k+,Hispanic,0.0,1,0
+55-59,Male,Did not graduate high school,200k+,Asian,0.0,1,0
+75-79,Female,Did not graduate high school,200k+,AIAN,0.0,1,0
+25-29,Female,Did not graduate high school,200k+,Hispanic,0.0,1,0
+80+,Female,Graduated college or technical school,200k+,AIAN,0.0,1,0
+25-29,Female,Did not graduate high school,200k+,Other/Multiracial,1.0,1,0
+35-39,Male,Did not graduate high school,35k-50k,NHOPI,0.0,1,0
+25-29,Female,Did not graduate high school,25k-35k,AIAN,0.0,1,0
+50-54,Female,Did not graduate high school,25k-35k,NHOPI,1.0,1,0
+75-79,Female,Attended college or technical school,200k+,AIAN,1.0,1,0
+50-54,Female,Did not graduate high school,200k+,NHOPI,1.0,1,0
+25-29,Female,Did not graduate high school,200k+,Asian,0.0,1,0
+50-54,Female,Did not graduate high school,200k+,NH-Black,0.0,1,0
+80+,Female,Did not graduate high school,100k-200k,Asian,0.0,1,0
+18-24,Male,Graduated college or technical school,15k-25k,NHOPI,0.0,1,0
+80+,Female,Did not graduate high school,100k-200k,Hispanic,0.0,1,0
+35-39,Female,Graduated college or technical school,<15k,NHOPI,0.0,1,0
+80+,Female,Did not graduate high school,100k-200k,NHOPI,0.0,1,0
+50-54,Female,Did not graduate high school,100k-200k,NHOPI,0.0,1,0
+35-39,Female,Graduated high school,200k+,NHOPI,1.0,1,0
+80+,Male,Did not graduate high school,100k-200k,Asian,0.0,1,0
+80+,Female,Did not graduate high school,100k-200k,AIAN,0.0,1,0
+65-69,Female,Did not graduate high school,100k-200k,Other/Multiracial,0.0,1,0
+35-39,Female,Graduated high school,200k+,AIAN,0.0,1,0
+65-69,Female,Did not graduate high school,100k-200k,NHOPI,0.0,1,0
+75-79,Male,Attended college or technical school,200k+,NHOPI,0.0,1,0
+80+,Male,Attended college or technical school,<15k,NHOPI,0.0,1,0
+35-39,Female,Did not graduate high school,100k-200k,NH-Black,1.0,1,0
+30-34,Male,Graduated college or technical school,<15k,NHOPI,1.0,1,0
+75-79,Female,Attended college or technical school,200k+,NHOPI,0.0,1,0
+25-29,Female,Graduated high school,200k+,AIAN,1.0,1,0
+35-39,Male,Graduated high school,200k+,NHOPI,0.0,1,0
+70-74,Male,Graduated college or technical school,200k+,NHOPI,0.0,1,0
+65-69,Male,Graduated college or technical school,15k-25k,NHOPI,0.0,1,0
+65-69,Male,Did not graduate high school,200k+,AIAN,1.0,1,0
+50-54,Female,Did not graduate high school,35k-50k,NHOPI,0.0,1,0
+65-69,Male,Graduated college or technical school,25k-35k,NHOPI,1.0,1,0
+65-69,Female,Did not graduate high school,100k-200k,AIAN,1.0,1,0
+65-69,Female,Did not graduate high school,100k-200k,Asian,0.0,1,0
+35-39,Male,Did not graduate high school,200k+,AIAN,0.0,1,0
+55-59,Male,Graduated college or technical school,15k-25k,NHOPI,0.0,1,0
+25-29,Female,Did not graduate high school,<15k,Asian,0.0,1,0
+80+,Female,Graduated college or technical school,<15k,NHOPI,0.0,1,0
+35-39,Male,Did not graduate high school,200k+,NHOPI,0.0,1,0
+40-44,Female,Did not graduate high school,100k-200k,Other/Multiracial,0.0,2,0
+40-44,Female,Did not graduate high school,100k-200k,NH-Black,0.7572993084342473,2,0
+18-24,Female,Did not graduate high school,25k-35k,Asian,0.5609553777298704,2,0
+60-64,Female,Did not graduate high school,100k-200k,Asian,0.0,2,0
+70-74,Male,Did not graduate high school,50k-100k,NHOPI,1.0,2,0
+60-64,Male,Did not graduate high school,100k-200k,Asian,0.1306055995375853,2,0
+40-44,Male,Did not graduate high school,100k-200k,NHOPI,0.6693930236561456,2,0
+45-49,Male,Did not graduate high school,200k+,Other/Multiracial,0.1308254098696745,2,0
+60-64,Female,Graduated high school,200k+,Other/Multiracial,0.0,2,0
+40-44,Male,Did not graduate high school,<15k,NHOPI,0.1260295119423831,2,0
+40-44,Female,Graduated college or technical school,15k-25k,NHOPI,1.0,2,0
+70-74,Female,Graduated high school,200k+,NHOPI,0.1687134936767923,2,0
+70-74,Male,Did not graduate high school,15k-25k,NHOPI,0.0,2,0
+40-44,Male,Graduated college or technical school,25k-35k,NHOPI,0.5911764779510225,2,0
+60-64,Female,Graduated high school,200k+,Asian,0.0,2,0
+70-74,Male,Did not graduate high school,200k+,Hispanic,0.0,2,0
+80+,Male,Attended college or technical school,200k+,NHOPI,0.0,2,0
+60-64,Male,Graduated high school,200k+,NHOPI,0.1735502976014592,2,0
+18-24,Male,Graduated college or technical school,25k-35k,NHOPI,0.0,2,0
+60-64,Female,Did not graduate high school,35k-50k,Asian,0.9416289454703332,2,0
+75-79,Female,Attended college or technical school,<15k,NHOPI,0.1020938070564384,2,0
+18-24,Female,Graduated high school,200k+,AIAN,0.0,2,0
+75-79,Male,Graduated high school,<15k,NHOPI,1.0,2,0
+30-34,Female,Did not graduate high school,25k-35k,NHOPI,1.0,2,0
+50-54,Female,Did not graduate high school,50k-100k,Other/Multiracial,0.9009181748117596,2,0
+25-29,Female,Did not graduate high school,35k-50k,Asian,0.5344294474759813,2,0
+60-64,Male,Did not graduate high school,200k+,Asian,0.8899248132988277,2,0
+40-44,Female,Did not graduate high school,200k+,Asian,0.0,2,0
+60-64,Male,Did not graduate high school,100k-200k,NHOPI,0.0,2,0
+60-64,Female,Did not graduate high school,100k-200k,AIAN,0.0,2,0
+45-49,Female,Did not graduate high school,15k-25k,Asian,0.0,2,0
+70-74,Male,Did not graduate high school,35k-50k,NHOPI,1.0,2,0
+18-24,Female,Did not graduate high school,25k-35k,NHOPI,0.6303130536684176,2,0
+18-24,Male,Graduated college or technical school,35k-50k,NHOPI,0.0,2,0
+18-24,Female,Graduated high school,200k+,NHOPI,0.0,2,0
+45-49,Male,Graduated high school,200k+,NHOPI,1.0,2,0
+60-64,Male,Graduated college or technical school,<15k,NHOPI,0.8891010016590065,2,0
+18-24,Male,Did not graduate high school,100k-200k,NHOPI,0.0487983101762289,2,0
+50-54,Female,Attended college or technical school,200k+,NHOPI,1.0,2,0
+35-39,Male,Did not graduate high school,<15k,NHOPI,0.5507587116750069,2,0
+40-44,Male,Graduated college or technical school,<15k,NHOPI,1.0,2,0
+70-74,Female,Did not graduate high school,35k-50k,Asian,0.0,2,0
+80+,Male,Graduated high school,200k+,NHOPI,0.0,2,0
+80+,Female,Graduated high school,100k-200k,AIAN,0.5781520367003192,2,0
+50-54,Female,Did not graduate high school,100k-200k,Other/Multiracial,1.0,2,0
+45-49,Female,Did not graduate high school,35k-50k,Asian,0.9390606741083972,2,0
+60-64,Male,Did not graduate high school,200k+,NH-Black,1.0,2,0
+55-59,Male,Graduated high school,200k+,NHOPI,0.1680665119638989,2,0
+60-64,Female,Did not graduate high school,50k-100k,Other/Multiracial,0.3107865593715201,2,0
+25-29,Female,Attended college or technical school,100k-200k,NHOPI,0.0097529641693893,2,0
+70-74,Female,Did not graduate high school,200k+,Asian,0.0,2,0
+60-64,Male,Did not graduate high school,50k-100k,NHOPI,1.0,2,0
+80+,Male,Graduated high school,200k+,AIAN,0.0,2,0
+25-29,Female,Attended college or technical school,200k+,NHOPI,0.8450651101875116,2,0
+35-39,Male,Graduated high school,200k+,AIAN,0.0,2,0
+50-54,Female,Did not graduate high school,35k-50k,Asian,0.0,2,0
+25-29,Male,Did not graduate high school,15k-25k,NHOPI,1.0,2,0
+18-24,Female,Did not graduate high school,200k+,Other/Multiracial,0.0,2,0
+80+,Male,Did not graduate high school,100k-200k,Other/Multiracial,0.3841022266151405,2,0
+60-64,Female,Did not graduate high school,50k-100k,NHOPI,0.0711626704468117,2,0
+80+,Male,Did not graduate high school,200k+,Other/Multiracial,0.0,2,0
+45-49,Male,Did not graduate high school,15k-25k,NHOPI,0.0870958075305567,2,0
+70-74,Male,Did not graduate high school,25k-35k,Asian,0.0934383343972192,2,0
+60-64,Male,Attended college or technical school,200k+,NHOPI,1.0,2,0
+40-44,Male,Did not graduate high school,50k-100k,NHOPI,1.0,2,0
+45-49,Male,Graduated college or technical school,25k-35k,NHOPI,0.9753918959609436,2,0
+80+,Male,Attended college or technical school,200k+,NH-Black,0.323504746450599,2,0
+45-49,Female,Did not graduate high school,25k-35k,NHOPI,0.1368547386659247,2,0
+60-64,Male,Did not graduate high school,25k-35k,Asian,0.0,2,0
+70-74,Female,Did not graduate high school,<15k,NHOPI,0.0,2,0
+45-49,Female,Graduated high school,200k+,AIAN,0.0,2,0
+25-29,Female,Did not graduate high school,100k-200k,Hispanic,0.0,2,0
+40-44,Male,Did not graduate high school,200k+,Asian,0.0,2,0
+70-74,Female,Did not graduate high school,100k-200k,Hispanic,0.0,2,0
+45-49,Female,Did not graduate high school,<15k,Asian,0.896749585431721,2,0
+80+,Male,Did not graduate high school,25k-35k,Asian,0.0060226722959414,2,0
+80+,Male,Did not graduate high school,100k-200k,AIAN,0.0,2,0
+80+,Male,Did not graduate high school,100k-200k,Hispanic,0.0,2,0
+60-64,Female,Did not graduate high school,200k+,NH-Black,0.4140897636548953,2,0
+55-59,Male,Did not graduate high school,25k-35k,NHOPI,0.2724997558850733,2,0
+18-24,Female,Did not graduate high school,100k-200k,NH-Black,0.0,2,0
+55-59,Female,Did not graduate high school,50k-100k,NHOPI,0.9308586647240236,2,0
+35-39,Male,Attended college or technical school,<15k,NHOPI,0.4610568301541075,2,0
+65-69,Female,Did not graduate high school,200k+,NH-White,0.5993833716593666,2,0
+80+,Female,Did not graduate high school,35k-50k,NHOPI,0.0337515851260513,2,0
+25-29,Female,Graduated college or technical school,200k+,NHOPI,1.0,2,0
+65-69,Female,Graduated high school,200k+,Asian,0.0,2,0
+65-69,Female,Did not graduate high school,50k-100k,NHOPI,1.0,2,0
+55-59,Male,Did not graduate high school,50k-100k,NHOPI,0.3132701586332523,2,0
+70-74,Male,Graduated high school,200k+,AIAN,1.0,2,0
+25-29,Male,Did not graduate high school,200k+,Other/Multiracial,0.0,2,0
+55-59,Male,Did not graduate high school,200k+,AIAN,1.0,2,0
+75-79,Female,Did not graduate high school,15k-25k,NHOPI,0.0,2,0
+75-79,Female,Graduated high school,200k+,NH-Black,0.5033524496559173,2,0
+75-79,Female,Graduated high school,200k+,Hispanic,0.0,2,0
+75-79,Female,Did not graduate high school,200k+,NH-Black,0.0,2,0
+35-39,Female,Did not graduate high school,100k-200k,Asian,0.7920266033548686,2,0
+25-29,Male,Did not graduate high school,50k-100k,NHOPI,0.0,2,0
+75-79,Female,Graduated high school,200k+,Other/Multiracial,0.0,2,0
+75-79,Male,Did not graduate high school,100k-200k,Other/Multiracial,0.0,2,0
+75-79,Male,Did not graduate high school,100k-200k,NH-Black,0.0,2,0
+80+,Female,Did not graduate high school,50k-100k,Other/Multiracial,0.3080384194895731,2,0
+80+,Female,Attended college or technical school,100k-200k,NHOPI,0.4987501275142508,2,0
+75-79,Female,Attended college or technical school,100k-200k,AIAN,0.040230593848868,2,0
+35-39,Male,Attended college or technical school,200k+,NHOPI,1.0,2,0
+65-69,Female,Did not graduate high school,200k+,Other/Multiracial,0.0,2,0
+55-59,Female,Did not graduate high school,100k-200k,NH-Black,1.0,2,0
+30-34,Female,Did not graduate high school,35k-50k,Asian,1.0,2,0
+75-79,Male,Attended college or technical school,200k+,Hispanic,0.0,2,0
+70-74,Male,Graduated college or technical school,<15k,NHOPI,0.0,2,0
+55-59,Female,Did not graduate high school,25k-35k,Asian,0.7805976353398695,2,0
+80+,Female,Graduated college or technical school,15k-25k,NHOPI,0.0,2,0
+70-74,Male,Graduated high school,100k-200k,AIAN,1.0,2,0
+25-29,Female,Did not graduate high school,<15k,NHOPI,1.0,2,0
+35-39,Male,Did not graduate high school,200k+,Asian,1.0,2,0
+65-69,Female,Graduated high school,200k+,Other/Multiracial,0.0,2,0
+65-69,Female,Did not graduate high school,200k+,AIAN,0.0,2,0
+65-69,Female,Did not graduate high school,200k+,Asian,0.0,2,0
+30-34,Female,Did not graduate high school,50k-100k,AIAN,1.0,2,0
+35-39,Female,Did not graduate high school,100k-200k,AIAN,1.0,2,0
+80+,Female,Graduated college or technical school,200k+,NHOPI,0.0,2,0
+50-54,Male,Did not graduate high school,<15k,Asian,0.0,2,0
+30-34,Female,Did not graduate high school,15k-25k,NHOPI,1.0,2,0
+55-59,Female,Did not graduate high school,100k-200k,AIAN,0.2614643960202748,2,0
+35-39,Female,Did not graduate high school,50k-100k,NHOPI,1.0,2,0
+75-79,Male,Did not graduate high school,35k-50k,Asian,0.9026627106452167,2,0
+65-69,Female,Did not graduate high school,50k-100k,Asian,0.0,2,0
+75-79,Female,Attended college or technical school,25k-35k,NHOPI,0.0,2,0
+30-34,Female,Did not graduate high school,200k+,NH-Black,1.0,2,0
+30-34,Male,Graduated college or technical school,15k-25k,NHOPI,0.4984816598614554,2,0
+35-39,Female,Did not graduate high school,50k-100k,AIAN,0.1639652780838066,2,0
+65-69,Male,Did not graduate high school,25k-35k,NHOPI,0.6878273219508434,2,0
+75-79,Male,Did not graduate high school,50k-100k,AIAN,1.0,2,0
+75-79,Male,Did not graduate high school,50k-100k,Asian,0.0,2,0
+55-59,Female,Did not graduate high school,50k-100k,Asian,0.6510688121200804,2,0
+80+,Female,Attended college or technical school,200k+,Hispanic,0.9430255792323377,2,0
+25-29,Male,Did not graduate high school,100k-200k,NH-Black,0.0,2,0
+35-39,Female,Did not graduate high school,200k+,NHOPI,0.2820678336396223,2,0
+30-34,Female,Did not graduate high school,200k+,Hispanic,0.0148760430805753,2,0
+25-29,Male,Did not graduate high school,<15k,Asian,0.7621375505391117,2,0
+25-29,Female,Graduated high school,200k+,Other/Multiracial,1.0,2,0
+25-29,Female,Graduated high school,200k+,NHOPI,0.823392103964546,2,0
+50-54,Male,Did not graduate high school,100k-200k,Asian,0.9454242467107872,2,0
+25-29,Female,Graduated high school,200k+,Asian,0.0,2,0
+25-29,Female,Graduated high school,200k+,NH-Black,0.0,2,0
+75-79,Female,Did not graduate high school,50k-100k,AIAN,0.0,2,0
+75-79,Male,Graduated high school,100k-200k,NHOPI,0.0,2,0
+75-79,Female,Graduated high school,100k-200k,Asian,0.0,2,0
+50-54,Male,Graduated college or technical school,<15k,NHOPI,1.0,2,0
+50-54,Male,Did not graduate high school,200k+,Other/Multiracial,0.9592543930761166,2,0
+25-29,Male,Graduated college or technical school,200k+,NHOPI,0.0,2,0
+75-79,Female,Graduated college or technical school,15k-25k,NHOPI,0.0,2,0
+65-69,Male,Did not graduate high school,100k-200k,Other/Multiracial,1.0,2,0
+75-79,Female,Graduated college or technical school,200k+,NHOPI,0.0,2,0
+25-29,Male,Did not graduate high school,200k+,AIAN,0.7578717734035019,2,0
+35-39,Female,Did not graduate high school,15k-25k,Asian,0.0,2,0
+30-34,Male,Did not graduate high school,<15k,Asian,0.1260386857497102,2,0
+30-34,Male,Did not graduate high school,200k+,Asian,0.0,2,0
+50-54,Male,Did not graduate high school,200k+,AIAN,0.0,2,0
+25-29,Male,Graduated high school,200k+,AIAN,0.0868755247743073,2,0
+25-29,Male,Did not graduate high school,<15k,NHOPI,1.0,2,0
+75-79,Female,Graduated college or technical school,25k-35k,NHOPI,0.0,2,0
+70-74,Male,Graduated high school,200k+,Hispanic,0.5329335044331762,3,0
+70-74,Male,Graduated high school,200k+,Asian,0.0,3,0
+35-39,Male,Did not graduate high school,50k-100k,NHOPI,0.1242987799043164,3,0
+35-39,Male,Did not graduate high school,<15k,Asian,0.6744077747813405,3,0
+35-39,Male,Did not graduate high school,25k-35k,NHOPI,1.0,3,0
+25-29,Female,Did not graduate high school,200k+,NH-White,0.1590244257903109,3,0
+35-39,Male,Did not graduate high school,100k-200k,Other/Multiracial,0.9491094657505592,3,0
+55-59,Male,Graduated college or technical school,25k-35k,NHOPI,1.0,3,0
+25-29,Female,Did not graduate high school,200k+,NH-Black,0.7020218222827115,3,0
+80+,Female,Graduated college or technical school,100k-200k,NHOPI,0.0,3,0
+25-29,Female,Did not graduate high school,50k-100k,AIAN,0.0,3,0
+50-54,Female,Graduated college or technical school,15k-25k,NHOPI,0.744583648584876,3,0
+50-54,Female,Did not graduate high school,35k-50k,Other/Multiracial,0.0,3,0
+25-29,Female,Did not graduate high school,50k-100k,NHOPI,0.1147104720227011,3,0
+25-29,Female,Did not graduate high school,15k-25k,Asian,0.1130757224332746,3,0
+70-74,Male,Did not graduate high school,25k-35k,NHOPI,0.7166400896347712,3,0
+65-69,Female,Attended college or technical school,200k+,AIAN,0.0132553890156701,3,0
+40-44,Female,Did not graduate high school,15k-25k,NHOPI,0.9359783133575666,3,0
+65-69,Female,Did not graduate high school,15k-25k,NHOPI,0.8336207129710177,3,0
+50-54,Female,Did not graduate high school,100k-200k,NH-Black,0.1615583509945799,3,0
+65-69,Male,Did not graduate high school,35k-50k,NHOPI,0.0977077188908289,3,0
+35-39,Female,Graduated college or technical school,25k-35k,NHOPI,0.3087288646582641,3,0
+70-74,Male,Did not graduate high school,50k-100k,Asian,0.9197842975366924,3,0
+25-29,Female,Graduated high school,200k+,Hispanic,0.1710182903499119,3,0
+45-49,Male,Did not graduate high school,<15k,NHOPI,0.9013987703126092,3,0
+40-44,Female,Did not graduate high school,25k-35k,Asian,0.0,3,0
+75-79,Female,Attended college or technical school,200k+,Hispanic,0.1096186726917466,3,0
+18-24,Male,Did not graduate high school,<15k,Asian,0.0,3,0
+75-79,Female,Attended college or technical school,200k+,Other/Multiracial,0.0,3,0
+25-29,Male,Attended college or technical school,200k+,NHOPI,0.5123585623467077,3,0
+80+,Male,Attended college or technical school,100k-200k,NHOPI,0.0,3,0
+75-79,Female,Attended college or technical school,200k+,Asian,0.8672952030854589,3,0
+25-29,Female,Attended college or technical school,<15k,NHOPI,0.4863377787259351,3,0
+70-74,Male,Attended college or technical school,<15k,NHOPI,0.0,3,0
+55-59,Male,Graduated college or technical school,<15k,NHOPI,0.6266800970676195,3,0
+35-39,Female,Did not graduate high school,200k+,Other/Multiracial,0.1141844633474011,3,0
+25-29,Male,Did not graduate high school,100k-200k,Asian,0.3986348119535291,3,0
+40-44,Female,Graduated college or technical school,<15k,NHOPI,0.3881089758063818,3,0
+80+,Female,Attended college or technical school,200k+,AIAN,0.0,3,0
+25-29,Female,Did not graduate high school,25k-35k,NHOPI,0.0,3,0
+80+,Female,Attended college or technical school,200k+,Other/Multiracial,0.0347232641808901,3,0
+80+,Male,Attended college or technical school,<15k,Asian,0.0,3,0
+70-74,Male,Did not graduate high school,15k-25k,Asian,0.0,3,0
+70-74,Male,Attended college or technical school,100k-200k,NHOPI,0.1315589282502348,3,0
+25-29,Male,Did not graduate high school,200k+,Hispanic,0.0,3,0
+80+,Male,Did not graduate high school,15k-25k,Asian,0.0,3,0
+40-44,Male,Attended college or technical school,<15k,NHOPI,1.0,3,0
+75-79,Male,Graduated high school,200k+,Other/Multiracial,0.4527696449511524,3,0
+50-54,Male,Attended college or technical school,200k+,NHOPI,0.9828083842976774,3,0
+35-39,Female,Did not graduate high school,25k-35k,NHOPI,0.9875296453179876,3,0
+55-59,Male,Did not graduate high school,200k+,NH-Black,0.8488262387185815,3,0
+55-59,Male,Did not graduate high school,200k+,Other/Multiracial,0.0,3,0
+75-79,Female,Did not graduate high school,100k-200k,NH-Black,0.2097826208032926,3,0
+40-44,Female,Attended college or technical school,200k+,NHOPI,0.0,3,0
+65-69,Female,Did not graduate high school,200k+,NH-Black,0.7814728083197992,3,0
+35-39,Male,Did not graduate high school,15k-25k,NHOPI,1.0,3,0
+70-74,Male,Did not graduate high school,<15k,NHOPI,0.0,3,0
+80+,Female,Graduated high school,200k+,NH-Black,0.0,3,0
+35-39,Female,Did not graduate high school,35k-50k,Asian,0.9597078874942366,3,0
+55-59,Male,Did not graduate high school,35k-50k,NHOPI,0.0,3,0
+65-69,Male,Graduated college or technical school,<15k,NHOPI,0.7235441624899024,3,0
+40-44,Female,Graduated high school,200k+,NHOPI,0.0,3,0
+60-64,Female,Did not graduate high school,50k-100k,Asian,0.0386038872471671,3,0
+55-59,Male,Did not graduate high school,15k-25k,NHOPI,0.226300464324254,3,0
+18-24,Male,Did not graduate high school,100k-200k,AIAN,0.0,3,0
+25-29,Male,Did not graduate high school,35k-50k,Asian,0.0,3,0
+18-24,Male,Attended college or technical school,<15k,NHOPI,1.0,3,0
+40-44,Female,Did not graduate high school,<15k,Asian,0.1478524068222284,3,0
+35-39,Male,Graduated college or technical school,<15k,NHOPI,0.2572143767708397,3,0
+65-69,Female,Did not graduate high school,25k-35k,NHOPI,0.760124228677979,3,0
+80+,Male,Graduated college or technical school,35k-50k,NHOPI,0.3068686998682841,3,0
+18-24,Male,Graduated college or technical school,<15k,AIAN,0.2346807881118209,3,0
+75-79,Female,Graduated college or technical school,100k-200k,NHOPI,0.9597958389765042,3,0
+45-49,Male,Did not graduate high school,35k-50k,NHOPI,0.6176600017048217,3,0
+40-44,Male,Did not graduate high school,200k+,NH-Black,0.3616094840425002,3,0
+50-54,Female,Did not graduate high school,50k-100k,NHOPI,0.410740577472674,3,0
+45-49,Male,Did not graduate high school,15k-25k,Asian,0.8462148690968259,3,0
+70-74,Female,Graduated high school,200k+,Asian,0.9403130909528444,3,0
+75-79,Male,Graduated high school,100k-200k,Asian,0.0,3,0
+55-59,Female,Did not graduate high school,100k-200k,Asian,0.0,3,0
+45-49,Female,Did not graduate high school,35k-50k,NHOPI,0.1329447159731568,3,0
+30-34,Female,Did not graduate high school,35k-50k,AIAN,0.4883715161207563,3,0
+30-34,Male,Attended college or technical school,200k+,AIAN,0.7621642404082096,3,0
+80+,Male,Graduated high school,200k+,NH-Black,0.3760340011241189,3,0
+70-74,Female,Did not graduate high school,50k-100k,Other/Multiracial,0.9896463836624076,3,0
+55-59,Female,Did not graduate high school,15k-25k,NHOPI,0.8020499729942518,3,0
+65-69,Female,Graduated high school,200k+,Hispanic,0.0,3,0
+45-49,Female,Did not graduate high school,25k-35k,Asian,0.0,3,0
+60-64,Female,Graduated college or technical school,<15k,NHOPI,0.0147368194151762,3,0
+75-79,Female,Did not graduate high school,50k-100k,Other/Multiracial,0.8891083033689782,3,0
+40-44,Male,Did not graduate high school,15k-25k,Asian,0.446724213725003,3,0
+55-59,Female,Graduated high school,200k+,AIAN,0.0,3,0
+80+,Male,Did not graduate high school,<15k,Asian,0.2006006241187622,3,0
+50-54,Male,Did not graduate high school,15k-25k,NHOPI,1.0,3,0
+60-64,Female,Attended college or technical school,200k+,NHOPI,0.4509923268717064,3,0
+30-34,Male,Graduated college or technical school,25k-35k,NHOPI,1.0,3,0
+80+,Male,Did not graduate high school,25k-35k,NHOPI,0.0,3,0
+30-34,Male,Graduated college or technical school,<15k,AIAN,0.8222085938401918,3,0
+60-64,Female,Graduated high school,200k+,AIAN,0.2814786972011286,3,0
+40-44,Male,Did not graduate high school,200k+,Other/Multiracial,0.3925921027861092,3,0
+45-49,Male,Did not graduate high school,50k-100k,NHOPI,0.3173456438459169,3,0
+45-49,Male,Did not graduate high school,25k-35k,NHOPI,0.6477314960275077,3,0
+30-34,Male,Graduated high school,200k+,NHOPI,0.0541238778296683,3,0
+75-79,Male,Graduated college or technical school,<15k,AIAN,0.0377870331578156,3,0
+75-79,Female,Graduated college or technical school,200k+,AIAN,0.0,3,0
+30-34,Female,Did not graduate high school,50k-100k,NH-Black,0.0725729897285772,3,0
+50-54,Male,Did not graduate high school,50k-100k,NHOPI,0.1891674290923847,3,0
+60-64,Male,Did not graduate high school,35k-50k,NHOPI,0.1316597519428678,3,0
+80+,Male,Graduated college or technical school,200k+,AIAN,0.8345836296049141,3,0
+18-24,Female,Graduated college or technical school,15k-25k,NHOPI,0.6150013107672546,3,0
+30-34,Female,Did not graduate high school,100k-200k,Asian,0.0,3,0
+30-34,Male,Did not graduate high school,200k+,Hispanic,0.3708926817394854,3,0
+45-49,Male,Did not graduate high school,100k-200k,Asian,0.6396162376077986,3,0
+60-64,Male,Attended college or technical school,<15k,NHOPI,0.1888938174868397,3,0
+30-34,Female,Attended college or technical school,<15k,NHOPI,0.1380070773315511,3,0
+45-49,Male,Attended college or technical school,35k-50k,NHOPI,0.451236498411339,3,0
+30-34,Male,Did not graduate high school,100k-200k,AIAN,0.0,3,0
+50-54,Male,Did not graduate high school,<15k,NHOPI,0.3376956287183951,3,0
+65-69,Male,Did not graduate high school,15k-25k,NHOPI,0.0,3,0
+75-79,Male,Graduated high school,200k+,Asian,0.6601033091523286,3,0
+50-54,Female,Graduated high school,200k+,Asian,0.0580035290119196,3,0
+30-34,Female,Did not graduate high school,50k-100k,NHOPI,0.3211769238535381,3,0
+45-49,Female,Did not graduate high school,15k-25k,NHOPI,0.0769173328892713,3,0
+30-34,Male,Did not graduate high school,35k-50k,Asian,0.0,3,0
+35-39,Male,Did not graduate high school,200k+,Other/Multiracial,0.3890018548027876,3,0
+75-79,Female,Graduated high school,100k-200k,NHOPI,0.0,3,0
+80+,Male,Graduated college or technical school,100k-200k,NHOPI,0.5386116665299984,3,0
+70-74,Female,Did not graduate high school,50k-100k,Asian,0.3079248974600782,3,0
+45-49,Female,Graduated college or technical school,15k-25k,NHOPI,0.25098687654126,3,0
+45-49,Female,Graduated college or technical school,<15k,NHOPI,0.4389905310675633,3,0
+30-34,Female,Graduated high school,200k+,Asian,0.0,3,0
+75-79,Male,Attended college or technical school,100k-200k,NHOPI,0.0,3,0
+30-34,Female,Did not graduate high school,25k-35k,Asian,0.0,3,0
+30-34,Female,Graduated college or technical school,15k-25k,NHOPI,0.0,3,0
+60-64,Male,Did not graduate high school,200k+,AIAN,0.9574871644966284,3,0
+30-34,Male,Did not graduate high school,35k-50k,NHOPI,0.2964363087574906,3,0
+45-49,Female,Did not graduate high school,200k+,NH-White,0.3418164119142631,3,0
+18-24,Female,Graduated college or technical school,35k-50k,NHOPI,0.0,3,0
+18-24,Female,Did not graduate high school,100k-200k,AIAN,0.3874904401292748,3,0
+75-79,Female,Graduated high school,100k-200k,AIAN,0.1810048032551638,3,0
+30-34,Female,Attended college or technical school,200k+,AIAN,0.6339910815344237,3,0
+60-64,Female,Graduated high school,200k+,NHOPI,0.7859114922980146,3,0
+80+,Male,Graduated college or technical school,25k-35k,NHOPI,0.0335057765783358,4,0
+60-64,Female,Attended college or technical school,200k+,Asian,0.0,4,0
+60-64,Female,Attended college or technical school,200k+,AIAN,0.3621756771840381,4,0
+80+,Female,Graduated high school,100k-200k,Hispanic,0.0,4,0
+65-69,Female,Did not graduate high school,35k-50k,Other/Multiracial,0.9106758819688956,4,0
+60-64,Female,Did not graduate high school,50k-100k,AIAN,0.3258905709406946,4,0
+18-24,Male,Attended college or technical school,200k+,NHOPI,0.2612790499229505,4,0
+80+,Female,Attended college or technical school,100k-200k,AIAN,0.6613614771188119,4,0
+80+,Male,Graduated high school,100k-200k,AIAN,0.0488202739146234,4,0
+18-24,Female,Did not graduate high school,35k-50k,AIAN,0.0457959430441031,4,0
+55-59,Female,Graduated college or technical school,<15k,NHOPI,0.1407822440393732,4,0
+60-64,Female,Did not graduate high school,100k-200k,Hispanic,0.964092581082555,4,0
+65-69,Female,Did not graduate high school,35k-50k,NHOPI,0.1513088034884695,4,0
+65-69,Female,Graduated college or technical school,200k+,NHOPI,0.3930844893008332,4,0
+25-29,Male,Graduated college or technical school,<15k,AIAN,0.988134628135679,4,0
+18-24,Female,Graduated college or technical school,100k-200k,NHOPI,0.1578498505167621,4,0
+18-24,Female,Graduated college or technical school,<15k,AIAN,0.0675704066714376,4,0
+25-29,Male,Graduated college or technical school,15k-25k,AIAN,0.0,4,0
+60-64,Female,Graduated high school,200k+,NH-Black,0.3655105127025047,4,0
+80+,Male,Did not graduate high school,<15k,NHOPI,0.5622359862563289,4,0
+75-79,Male,Graduated high school,200k+,NH-Black,0.3700578534970903,4,0
+55-59,Male,Did not graduate high school,100k-200k,AIAN,0.4662384096475038,4,0
+80+,Male,Did not graduate high school,35k-50k,Asian,0.0,4,0
+80+,Male,Did not graduate high school,200k+,Hispanic,0.0130183898240162,4,0
+25-29,Male,Did not graduate high school,25k-35k,NHOPI,0.0817751252503671,4,0
+80+,Male,Did not graduate high school,15k-25k,NHOPI,0.0,4,0
+80+,Female,Graduated college or technical school,200k+,Other/Multiracial,0.2195205402938295,4,0
+75-79,Male,Graduated college or technical school,25k-35k,NHOPI,0.1148608420521889,4,0
+75-79,Male,Attended college or technical school,200k+,Other/Multiracial,0.3068726224261236,4,0
+55-59,Female,Graduated college or technical school,15k-25k,NHOPI,0.3780044085020536,4,0
+25-29,Female,Did not graduate high school,50k-100k,NH-Black,0.2866544530774969,4,0
+80+,Male,Graduated high school,15k-25k,NHOPI,0.5265823398766476,4,0
+80+,Male,Graduated high school,<15k,NHOPI,0.3194854190130435,4,0
+75-79,Male,Did not graduate high school,15k-25k,NHOPI,0.0,4,0
+75-79,Male,Did not graduate high school,15k-25k,Asian,0.6186308671189146,4,0
+75-79,Male,Did not graduate high school,200k+,NH-Black,0.2820968148158499,4,0
+55-59,Female,Did not graduate high school,50k-100k,Other/Multiracial,0.2537951456098966,4,0
+75-79,Male,Did not graduate high school,50k-100k,Other/Multiracial,0.3876841903997983,4,0
+75-79,Male,Did not graduate high school,25k-35k,Asian,0.0,4,0
+30-34,Female,Graduated college or technical school,15k-25k,AIAN,0.1498509049132964,4,0
+30-34,Female,Did not graduate high school,100k-200k,Other/Multiracial,0.4255988972852969,4,0
+30-34,Female,Graduated college or technical school,200k+,NHOPI,0.2379627106940474,4,0
+18-24,Female,Did not graduate high school,15k-25k,NHOPI,0.962988985259504,4,0
+25-29,Female,Attended college or technical school,200k+,Other/Multiracial,0.0806991477569617,4,0
+25-29,Female,Did not graduate high school,50k-100k,Asian,0.0727552396649923,4,0
+80+,Male,Attended college or technical school,200k+,Hispanic,0.0,4,0
+25-29,Female,Graduated high school,100k-200k,NHOPI,0.7359737024793267,4,0
+60-64,Female,Did not graduate high school,25k-35k,NHOPI,0.0373397081847255,4,0
+18-24,Male,Did not graduate high school,15k-25k,NHOPI,0.0,4,0
+25-29,Female,Graduated high school,100k-200k,AIAN,0.4092417249712261,4,0
+80+,Female,Did not graduate high school,15k-25k,NHOPI,0.129982450582935,4,0
+60-64,Female,Did not graduate high school,25k-35k,Asian,0.0,4,0
+80+,Male,Attended college or technical school,25k-35k,NHOPI,0.0,4,0
+25-29,Female,Graduated college or technical school,<15k,AIAN,0.8868222872404914,4,0
+80+,Male,Attended college or technical school,200k+,Other/Multiracial,0.3308261107890866,4,0
+25-29,Female,Graduated college or technical school,200k+,AIAN,0.2535707010815178,4,0
+80+,Male,Graduated high school,100k-200k,Hispanic,0.0,4,0
+18-24,Male,Did not graduate high school,35k-50k,NHOPI,0.486517755295611,4,0
+60-64,Female,Did not graduate high school,15k-25k,Asian,0.0724170278523589,4,0
+65-69,Female,Did not graduate high school,35k-50k,Asian,0.0,4,0
+25-29,Male,Did not graduate high school,15k-25k,Asian,0.4345737058797122,4,0
+65-69,Female,Graduated college or technical school,<15k,NHOPI,0.1415046920218716,4,0
+70-74,Female,Did not graduate high school,15k-25k,NHOPI,0.6901220844709877,4,0
+45-49,Male,Attended college or technical school,<15k,NHOPI,0.9690613366068864,4,0
+45-49,Female,Did not graduate high school,100k-200k,NH-Black,0.0,4,0
+45-49,Male,Did not graduate high school,35k-50k,Asian,0.0,4,0
+50-54,Female,Did not graduate high school,15k-25k,Asian,0.628035594794724,4,0
+70-74,Female,Attended college or technical school,<15k,NHOPI,0.131105992345179,4,0
+35-39,Male,Did not graduate high school,200k+,Hispanic,0.7306287315607386,4,0
+50-54,Female,Did not graduate high school,50k-100k,Asian,0.0,4,0
+70-74,Female,Did not graduate high school,25k-35k,NHOPI,0.375464552164046,4,0
+75-79,Male,Attended college or technical school,200k+,Asian,0.0,4,0
+40-44,Male,Did not graduate high school,100k-200k,AIAN,0.0,4,0
+30-34,Female,Graduated high school,200k+,Hispanic,0.0,4,0
+30-34,Female,Graduated high school,200k+,NH-Black,0.2264665457959785,4,0
+75-79,Female,Did not graduate high school,50k-100k,Asian,0.0,4,0
+70-74,Female,Did not graduate high school,50k-100k,AIAN,0.9771740938201968,4,0
+30-34,Female,Graduated high school,200k+,Other/Multiracial,0.8675481816890583,4,0
+35-39,Male,Did not graduate high school,25k-35k,Asian,0.0,4,0
+50-54,Female,Did not graduate high school,50k-100k,AIAN,1.0,4,0
+70-74,Male,Graduated high school,100k-200k,NHOPI,0.0864525904035242,4,0
+45-49,Female,Did not graduate high school,<15k,NHOPI,0.3402522559925547,4,0
+50-54,Male,Did not graduate high school,100k-200k,AIAN,0.8001087985599462,4,0
+70-74,Male,Graduated college or technical school,25k-35k,NHOPI,0.0014536126598206,4,0
+35-39,Male,Graduated college or technical school,35k-50k,NHOPI,0.1236883381827958,4,0
+75-79,Female,Did not graduate high school,<15k,NHOPI,0.6292814745536077,4,0
+55-59,Female,Did not graduate high school,15k-25k,Asian,0.095645259697322,4,0
+45-49,Male,Graduated college or technical school,<15k,AIAN,0.7762483778261942,4,0
+65-69,Male,Did not graduate high school,100k-200k,AIAN,0.0,4,0
+40-44,Male,Attended college or technical school,200k+,NHOPI,0.027165369014376,4,0
+45-49,Female,Did not graduate high school,50k-100k,Other/Multiracial,0.5165546546171358,4,0
+65-69,Female,Graduated college or technical school,15k-25k,NHOPI,0.1289707356136863,4,0
+30-34,Male,Graduated college or technical school,15k-25k,AIAN,0.6618346014600514,4,0
+45-49,Female,Attended college or technical school,200k+,AIAN,0.6522493371985171,4,0
+40-44,Female,Did not graduate high school,35k-50k,AIAN,0.0414254093574223,4,0
+70-74,Female,Attended college or technical school,200k+,Other/Multiracial,0.6488679480810908,4,0
+40-44,Male,Did not graduate high school,100k-200k,Asian,0.0,4,0
+45-49,Female,Graduated high school,200k+,NHOPI,0.0414040617910167,4,0
+35-39,Female,Did not graduate high school,200k+,Hispanic,0.5377814622706839,4,0
+40-44,Female,Graduated college or technical school,25k-35k,NHOPI,0.268459013556321,4,0
+40-44,Female,Graduated college or technical school,35k-50k,NHOPI,0.9187266878382928,4,0
+45-49,Male,Attended college or technical school,200k+,NHOPI,0.3786764900698179,4,0
+40-44,Male,Did not graduate high school,<15k,Asian,0.4799564898514532,4,0
+65-69,Male,Did not graduate high school,50k-100k,NHOPI,0.073240825971205,4,0
+65-69,Male,Did not graduate high school,<15k,Asian,0.815145568572292,4,0
+35-39,Female,Did not graduate high school,15k-25k,NHOPI,1.0,4,0
+50-54,Female,Attended college or technical school,200k+,AIAN,0.0747220662160692,4,0
+70-74,Male,Graduated high school,200k+,NHOPI,0.3628525816367278,4,0
+70-74,Male,Graduated high school,200k+,NH-Black,0.592621766133354,4,0
+40-44,Female,Did not graduate high school,35k-50k,Asian,0.0443274341965712,4,0
+70-74,Male,Did not graduate high school,50k-100k,AIAN,0.964647848715524,4,0
+75-79,Female,Graduated high school,<15k,NHOPI,0.0,4,0
+65-69,Male,Graduated high school,200k+,Asian,0.0,4,0
+70-74,Male,Did not graduate high school,35k-50k,Asian,0.0,4,0
+70-74,Male,Did not graduate high school,100k-200k,NH-Black,0.910505883637234,4,0
+30-34,Male,Did not graduate high school,50k-100k,Asian,0.5709419897818743,4,0
+70-74,Female,Attended college or technical school,100k-200k,NHOPI,0.1778245324385958,4,0
+35-39,Female,Did not graduate high school,<15k,Asian,0.3082705582858536,4,0
+70-74,Female,Graduated college or technical school,<15k,NHOPI,0.01211846801853,4,0
+70-74,Female,Graduated high school,200k+,NH-Black,0.6534357947725045,4,0
+35-39,Female,Graduated college or technical school,15k-25k,NHOPI,0.3398034082098092,4,0
+65-69,Male,Did not graduate high school,25k-35k,Asian,0.0,4,0
+45-49,Female,Did not graduate high school,100k-200k,Other/Multiracial,0.2402938986583091,4,0
+30-34,Male,Did not graduate high school,15k-25k,Asian,0.0266641051869006,4,0
+40-44,Female,Did not graduate high school,25k-35k,NHOPI,0.5216455235681472,4,0
+25-29,Female,Attended college or technical school,200k+,NH-Black,0.5415309460396377,5,0
+35-39,Male,Graduated college or technical school,<15k,AIAN,0.1104782614586924,5,0
+25-29,Female,Attended college or technical school,25k-35k,NHOPI,0.8172633801766713,5,0
+75-79,Male,Graduated college or technical school,200k+,AIAN,0.6344324166101021,5,0
+80+,Male,Graduated college or technical school,<15k,Other/Multiracial,0.0,5,0
+70-74,Female,Graduated college or technical school,200k+,AIAN,0.2318914493807152,5,0
+80+,Male,Graduated college or technical school,<15k,AIAN,0.0136476324933557,5,0
+40-44,Female,Attended college or technical school,<15k,NHOPI,1.0,5,0
+55-59,Female,Graduated high school,200k+,Asian,0.0,5,0
+45-49,Female,Attended college or technical school,25k-35k,NHOPI,0.9602265750577036,5,0
+25-29,Female,Did not graduate high school,25k-35k,Asian,0.0218856166684929,5,0
+70-74,Female,Did not graduate high school,200k+,NH-Black,0.908272997141431,5,0
+75-79,Male,Did not graduate high school,<15k,Asian,0.002000196568455,5,0
+40-44,Female,Did not graduate high school,15k-25k,Asian,0.3268866657946973,5,0
+45-49,Female,Did not graduate high school,50k-100k,Asian,0.6194713375976312,5,0
+65-69,Male,Did not graduate high school,100k-200k,NH-Black,0.1016986653738036,5,0
+25-29,Male,Graduated high school,200k+,Asian,0.0,5,0
+18-24,Female,Graduated college or technical school,25k-35k,NHOPI,0.4000813203931127,5,0
+65-69,Female,Attended college or technical school,15k-25k,NHOPI,0.8276770496759278,5,0
+40-44,Male,Graduated college or technical school,15k-25k,NHOPI,0.2137986777430028,5,0
+18-24,Female,Did not graduate high school,200k+,Hispanic,0.0441249375256174,5,0
+25-29,Female,Did not graduate high school,100k-200k,Other/Multiracial,0.0976012250580787,5,0
+80+,Male,Graduated high school,100k-200k,Other/Multiracial,0.1685881499083601,5,0
+50-54,Male,Did not graduate high school,25k-35k,NHOPI,0.9535015872922,5,0
+50-54,Male,Graduated high school,200k+,Asian,0.0058782596493119,5,0
+35-39,Female,Attended college or technical school,200k+,AIAN,0.017602331670211,5,0
+60-64,Female,Did not graduate high school,100k-200k,NH-Black,0.8345697104755269,5,0
+70-74,Female,Graduated high school,100k-200k,AIAN,0.0306774316404536,5,0
+25-29,Female,Did not graduate high school,35k-50k,AIAN,0.2054947790476689,5,0
+45-49,Female,Graduated college or technical school,200k+,NHOPI,0.0503414905954027,5,0
+18-24,Female,Attended college or technical school,100k-200k,NHOPI,0.1523475942391411,5,0
+18-24,Male,Did not graduate high school,50k-100k,NHOPI,0.0311030347249425,5,0
+40-44,Male,Graduated high school,15k-25k,NHOPI,0.8113710631063004,5,0
+40-44,Female,Graduated high school,200k+,Asian,0.0,5,0
+25-29,Female,Did not graduate high school,50k-100k,Other/Multiracial,0.697408854490724,5,0
+60-64,Male,Graduated high school,200k+,Asian,0.4486682437978544,5,0
+70-74,Female,Graduated high school,100k-200k,NHOPI,0.2842982788703524,5,0
+55-59,Male,Attended college or technical school,15k-25k,NHOPI,0.2602958863963672,5,0
+30-34,Male,Graduated high school,<15k,NHOPI,0.3529643908611987,5,0
+55-59,Female,Attended college or technical school,200k+,AIAN,0.0,5,0
+50-54,Male,Did not graduate high school,50k-100k,Asian,0.029484316761575,5,0
+50-54,Female,Did not graduate high school,100k-200k,Hispanic,1.0,5,0
+70-74,Female,Did not graduate high school,200k+,NH-White,0.037195648598565,5,0
+60-64,Female,Attended college or technical school,<15k,NHOPI,0.1652581372615463,5,0
+50-54,Female,Did not graduate high school,15k-25k,NHOPI,0.9223392417310994,5,0
+45-49,Female,Did not graduate high school,35k-50k,AIAN,1.0,5,0
+45-49,Female,Graduated high school,200k+,Other/Multiracial,0.615647053727652,5,0
+18-24,Male,Did not graduate high school,200k+,Other/Multiracial,0.2696700424091542,5,0
+18-24,Female,Did not graduate high school,<15k,Asian,0.0,5,0
+75-79,Male,Graduated high school,100k-200k,AIAN,0.1144278661166328,5,0
+45-49,Female,Graduated high school,200k+,Asian,0.0,5,0
+60-64,Male,Did not graduate high school,50k-100k,Asian,0.6452246912421346,5,0
+75-79,Female,Did not graduate high school,50k-100k,NHOPI,0.1710158690452904,5,0
+18-24,Female,Did not graduate high school,15k-25k,Asian,0.0,5,0
+55-59,Female,Did not graduate high school,25k-35k,Other/Multiracial,0.0655000386750799,5,0
+70-74,Female,Graduated high school,200k+,Hispanic,0.7399925725147026,5,0
+80+,Female,Did not graduate high school,50k-100k,Hispanic,0.2789432416016136,5,0
+50-54,Female,Graduated college or technical school,25k-35k,NHOPI,0.5094622804933092,5,0
+18-24,Female,Graduated high school,100k-200k,NHOPI,0.602208514426377,5,0
+60-64,Female,Did not graduate high school,15k-25k,NHOPI,0.9690628232723504,5,0
+75-79,Female,Did not graduate high school,35k-50k,Asian,0.3740733515963412,5,0
+60-64,Male,Did not graduate high school,25k-35k,NHOPI,0.9614824368670368,5,0
+60-64,Male,Did not graduate high school,200k+,Hispanic,0.7498349674441053,5,0
+80+,Female,Did not graduate high school,35k-50k,Asian,0.0,5,0
+18-24,Male,Did not graduate high school,25k-35k,NHOPI,0.3486970601639551,5,0
+50-54,Female,Did not graduate high school,25k-35k,Asian,0.7247541195216458,5,0
+25-29,Male,Did not graduate high school,50k-100k,AIAN,0.392804964809973,5,0
+80+,Female,Did not graduate high school,25k-35k,Asian,0.0,5,0
+80+,Male,Graduated high school,<15k,Asian,0.0,5,0
+40-44,Female,Did not graduate high school,50k-100k,Asian,0.0,5,0
+18-24,Male,Attended college or technical school,200k+,AIAN,0.0,5,0
+30-34,Female,Did not graduate high school,<15k,NHOPI,0.2465585227639803,5,0
+80+,Male,Did not graduate high school,50k-100k,AIAN,0.0,5,0
+50-54,Female,Graduated high school,200k+,NHOPI,0.996003388350318,5,0
+70-74,Male,Graduated high school,200k+,Other/Multiracial,0.7603707709683168,5,0
+30-34,Female,Did not graduate high school,200k+,NH-White,0.0,5,0
+18-24,Female,Did not graduate high school,100k-200k,Asian,0.1163688320934474,5,0
+30-34,Female,Did not graduate high school,50k-100k,Asian,0.5942076818099725,5,0
+75-79,Male,Did not graduate high school,35k-50k,AIAN,0.0075401897746699,5,0
+55-59,Male,Did not graduate high school,25k-35k,Asian,0.0,5,0
+65-69,Male,Graduated high school,200k+,AIAN,0.6933771411553231,5,0
+45-49,Male,Graduated college or technical school,15k-25k,NHOPI,0.8302760052559153,5,0
+35-39,Female,Graduated high school,200k+,NH-Black,0.9119823067100736,5,0
+70-74,Male,Graduated high school,<15k,NHOPI,0.0625914083898924,5,0
+50-54,Female,Attended college or technical school,<15k,NHOPI,0.7861943454753922,5,0
+80+,Female,Attended college or technical school,200k+,NH-Black,0.0156323075868139,5,0
+80+,Male,Attended college or technical school,35k-50k,NHOPI,0.0,5,0
+65-69,Female,Did not graduate high school,50k-100k,Other/Multiracial,0.8456842393396509,5,0
+75-79,Female,Attended college or technical school,15k-25k,NHOPI,0.6633853351797165,5,0
+18-24,Male,Did not graduate high school,15k-25k,Asian,0.0,5,0
+80+,Female,Attended college or technical school,35k-50k,NHOPI,0.0433864197075796,5,0
+65-69,Male,Did not graduate high school,35k-50k,Asian,0.0,5,0
+35-39,Female,Graduated college or technical school,35k-50k,NHOPI,0.1386339097447129,5,0
+80+,Female,Attended college or technical school,<15k,Asian,0.4655213136656414,5,0
+35-39,Female,Did not graduate high school,50k-100k,Other/Multiracial,0.7655573996414478,5,0
+35-39,Female,Did not graduate high school,50k-100k,Asian,0.1741793239148423,5,0
+25-29,Male,Attended college or technical school,15k-25k,NHOPI,0.7956100754154397,5,0
+55-59,Male,Did not graduate high school,200k+,Hispanic,0.7743147096154861,5,0
+50-54,Male,Graduated college or technical school,25k-35k,NHOPI,0.4235235297624303,6,0
+70-74,Female,Graduated college or technical school,25k-35k,NHOPI,0.0,6,0
+18-24,Female,Did not graduate high school,<15k,NHOPI,0.0901088766109703,6,0
+60-64,Male,Graduated high school,200k+,AIAN,0.0071215260301322,6,0
+30-34,Male,Graduated college or technical school,200k+,NHOPI,0.506956767749673,6,0
+75-79,Female,Graduated college or technical school,35k-50k,NHOPI,0.014646927753393,6,0
+25-29,Male,Graduated high school,<15k,NHOPI,0.8869986852206713,6,0
+60-64,Male,Attended college or technical school,25k-35k,NHOPI,0.1160820711962149,6,0
+70-74,Female,Attended college or technical school,25k-35k,NHOPI,0.1525865887961884,6,0
+40-44,Male,Graduated high school,25k-35k,NHOPI,0.3769285797426703,6,0
+45-49,Male,Attended college or technical school,<15k,Asian,0.0357186358249026,6,0
+18-24,Female,Did not graduate high school,50k-100k,AIAN,0.2694876159959232,6,0
+18-24,Female,Did not graduate high school,35k-50k,Asian,0.0110573893871296,6,0
+30-34,Female,Attended college or technical school,200k+,NH-Black,0.2187263874598108,6,0
+45-49,Female,Graduated high school,200k+,NH-Black,0.4932834346502859,6,0
+45-49,Female,Did not graduate high school,50k-100k,AIAN,0.7763207980951353,6,0
+65-69,Male,Attended college or technical school,200k+,Asian,0.3902760767420178,6,0
+25-29,Male,Graduated high school,100k-200k,NHOPI,0.215319082379156,6,0
+50-54,Male,Did not graduate high school,100k-200k,Other/Multiracial,0.1004257939019446,6,0
+30-34,Male,Did not graduate high school,100k-200k,NH-Black,0.4560257656926932,6,0
+55-59,Female,Graduated high school,200k+,Hispanic,0.0121677200425692,6,0
+25-29,Male,Did not graduate high school,<15k,Other/Multiracial,0.381733867850181,6,0
+35-39,Female,Did not graduate high school,25k-35k,Asian,0.0988116872447396,6,0
+75-79,Female,Attended college or technical school,200k+,NH-Black,0.8013244964589082,6,0
+75-79,Female,Did not graduate high school,<15k,Asian,0.0,6,0
+40-44,Male,Did not graduate high school,25k-35k,Asian,0.8378312006117888,6,0
+40-44,Male,Did not graduate high school,15k-25k,NHOPI,0.2016277666937886,6,0
+75-79,Female,Did not graduate high school,200k+,NH-White,0.0127659845013902,6,0
+65-69,Female,Graduated college or technical school,200k+,AIAN,0.8314926452939476,6,0
+18-24,Female,Did not graduate high school,100k-200k,Other/Multiracial,0.0,6,0
+40-44,Male,Did not graduate high school,200k+,Hispanic,0.7583447904243505,6,0
+18-24,Male,Attended college or technical school,100k-200k,NHOPI,0.237936157639695,6,0
+30-34,Female,Graduated college or technical school,<15k,AIAN,0.0549103952030158,6,0
+40-44,Male,Did not graduate high school,100k-200k,NH-Black,0.2146852557207791,6,0
+75-79,Male,Graduated high school,<15k,AIAN,0.1332345142225592,6,0
+80+,Female,Attended college or technical school,15k-25k,NHOPI,0.3400169252915611,6,0
+18-24,Female,Attended college or technical school,<15k,NHOPI,0.2266670247152036,6,0
+40-44,Male,Attended college or technical school,15k-25k,NHOPI,0.4882489297874796,6,0
+50-54,Male,Attended college or technical school,<15k,NHOPI,0.1371764785595494,6,0
+55-59,Male,Did not graduate high school,35k-50k,Other/Multiracial,0.0,6,0
+65-69,Female,Did not graduate high school,50k-100k,AIAN,0.7758802785402296,6,0
+35-39,Female,Did not graduate high school,<15k,NHOPI,0.6069725052881276,6,0
+25-29,Male,Attended college or technical school,100k-200k,NHOPI,0.389088606299247,6,0
+30-34,Male,Attended college or technical school,<15k,AIAN,0.369627320039684,6,0
+80+,Male,Did not graduate high school,100k-200k,NH-Black,0.6807061466383876,6,0
+55-59,Female,Attended college or technical school,<15k,Asian,0.3307973336111428,6,0
+65-69,Female,Did not graduate high school,<15k,NHOPI,0.2872468101251989,6,0
+50-54,Male,Did not graduate high school,15k-25k,Asian,0.1573126343940488,6,0
+50-54,Female,Did not graduate high school,<15k,NHOPI,0.7292528204631972,6,0
+60-64,Male,Did not graduate high school,<15k,NHOPI,0.1885152761805103,6,0
+40-44,Female,Did not graduate high school,50k-100k,AIAN,0.4435930475953161,6,0
+70-74,Male,Did not graduate high school,100k-200k,Hispanic,0.1728177501638632,6,0
+65-69,Male,Graduated high school,100k-200k,NHOPI,0.459905308511907,6,0
+80+,Female,Graduated college or technical school,25k-35k,NHOPI,0.2721315860400718,6,0
+55-59,Male,Graduated college or technical school,35k-50k,NHOPI,0.0,6,0
+40-44,Female,Did not graduate high school,50k-100k,Other/Multiracial,0.1186865405948883,6,0
+80+,Male,Attended college or technical school,100k-200k,AIAN,0.5695382680748511,6,0
+55-59,Male,Did not graduate high school,<15k,NHOPI,0.6569026598398288,6,0
+70-74,Female,Did not graduate high school,35k-50k,NHOPI,0.2070301909783691,6,0
+45-49,Male,Graduated high school,200k+,AIAN,0.6874337762730584,6,0
+30-34,Female,Graduated college or technical school,200k+,AIAN,0.0,6,0
+80+,Female,Graduated high school,15k-25k,NHOPI,0.2397346169712916,6,0
+70-74,Male,Attended college or technical school,200k+,Asian,0.0172492406482336,6,0
+65-69,Female,Attended college or technical school,200k+,Asian,0.0,6,0
+75-79,Female,Attended college or technical school,100k-200k,NHOPI,0.0338885121324949,6,0
+25-29,Female,Attended college or technical school,200k+,Asian,0.0,6,0
+40-44,Female,Attended college or technical school,200k+,AIAN,0.0224518442437424,6,0
+70-74,Male,Attended college or technical school,200k+,AIAN,0.5614687151444169,6,0
+80+,Male,Graduated high school,25k-35k,NHOPI,0.1873249376298556,6,0
+75-79,Male,Attended college or technical school,15k-25k,Asian,0.0213257670225173,6,0
+35-39,Male,Graduated college or technical school,25k-35k,NHOPI,0.6197473488876566,6,0
+35-39,Female,Graduated college or technical school,200k+,NHOPI,0.7537032955795717,6,0
+55-59,Male,Did not graduate high school,<15k,Asian,0.2258458270255592,6,0
+35-39,Male,Did not graduate high school,15k-25k,Asian,0.4500053575562603,6,0
+60-64,Female,Graduated high school,200k+,Hispanic,0.1871825176449844,6,0
+55-59,Female,Attended college or technical school,200k+,NHOPI,0.5003509706907382,6,0
+25-29,Male,Graduated college or technical school,15k-25k,NHOPI,0.044103152178889,6,0
+18-24,Female,Graduated college or technical school,35k-50k,AIAN,0.1868152775775738,6,0
+40-44,Male,Graduated high school,200k+,Asian,0.0,6,0
+70-74,Female,Graduated high school,100k-200k,Asian,0.6462285151407903,6,0
+55-59,Female,Graduated high school,200k+,Other/Multiracial,0.5720529723735879,6,0
+70-74,Female,Attended college or technical school,200k+,Asian,0.0,6,0
+25-29,Male,Graduated college or technical school,25k-35k,NHOPI,0.9966947405283436,6,0
+80+,Male,Did not graduate high school,50k-100k,Asian,0.0,6,0
+55-59,Female,Attended college or technical school,15k-25k,NHOPI,0.4631491578102596,6,0
+50-54,Male,Did not graduate high school,35k-50k,AIAN,0.7454881149489114,6,0
+70-74,Male,Attended college or technical school,15k-25k,NHOPI,0.0065478911226116,6,0
+35-39,Female,Did not graduate high school,35k-50k,AIAN,0.0404428167996922,6,0
+50-54,Male,Attended college or technical school,25k-35k,NHOPI,0.9729897716881934,6,0
+70-74,Male,Graduated college or technical school,<15k,AIAN,0.3675499490821999,6,0
+25-29,Female,Did not graduate high school,35k-50k,NH-Black,0.2695262116026549,6,0
+25-29,Female,Attended college or technical school,50k-100k,NHOPI,0.4341918946603185,6,0
+18-24,Male,Graduated high school,200k+,NHOPI,0.1672738361471186,6,0
+70-74,Male,Did not graduate high school,50k-100k,Other/Multiracial,0.0123253193471953,6,0
+30-34,Male,Graduated high school,200k+,Asian,0.0,6,0
+35-39,Male,Did not graduate high school,100k-200k,NH-Black,0.580253010065393,7,0
+55-59,Male,Attended college or technical school,<15k,NHOPI,0.0272959312088234,7,0
+55-59,Male,Attended college or technical school,35k-50k,NHOPI,0.4624240834435905,7,0
+55-59,Female,Attended college or technical school,<15k,NHOPI,0.2295601176170218,7,0
+30-34,Female,Graduated college or technical school,25k-35k,NHOPI,0.5339386765566514,7,0
+30-34,Female,Did not graduate high school,35k-50k,NH-Black,0.5468778832340542,7,0
+75-79,Male,Attended college or technical school,100k-200k,AIAN,0.0897815683236464,7,0
+30-34,Female,Graduated high school,100k-200k,NHOPI,0.8081438531076939,7,0
+25-29,Male,Did not graduate high school,50k-100k,Asian,0.1593257643638473,7,0
+65-69,Male,Did not graduate high school,<15k,NHOPI,0.0743604812072962,7,0
+80+,Female,Did not graduate high school,200k+,NH-White,0.3301840705176773,7,0
+35-39,Male,Attended college or technical school,200k+,AIAN,0.4971238553375471,7,0
+35-39,Male,Attended college or technical school,15k-25k,NHOPI,0.0387099273853182,7,0
+50-54,Male,Attended college or technical school,15k-25k,NHOPI,0.8240902337110373,7,0
+35-39,Female,Graduated high school,<15k,Asian,0.1870729207433494,7,0
+35-39,Female,Graduated high school,200k+,Other/Multiracial,0.0,7,0
+35-39,Female,Graduated high school,200k+,Asian,0.1820803584651781,7,0
+35-39,Female,Graduated high school,100k-200k,AIAN,0.0485738989434691,7,0
+50-54,Male,Graduated high school,200k+,NHOPI,0.256227542754503,7,0
+35-39,Female,Graduated college or technical school,<15k,AIAN,0.1036453131074266,7,0
+35-39,Male,Attended college or technical school,25k-35k,NHOPI,0.4366214679838562,7,0
+30-34,Female,Did not graduate high school,100k-200k,Hispanic,0.4685597801595948,7,0
+35-39,Female,Attended college or technical school,200k+,Asian,0.0304642808128152,7,0
+65-69,Female,Graduated high school,100k-200k,Asian,0.0262538783509801,7,0
+80+,Female,Attended college or technical school,25k-35k,NHOPI,0.0075232670317317,7,0
+35-39,Male,Did not graduate high school,50k-100k,AIAN,0.3337724412888257,7,0
+80+,Female,Graduated college or technical school,35k-50k,NHOPI,0.0,7,0
+35-39,Male,Did not graduate high school,50k-100k,Asian,0.0229012778925892,7,0
+70-74,Male,Graduated high school,100k-200k,Asian,0.0,7,0
+80+,Female,Graduated high school,100k-200k,NH-Black,0.0390838563679848,7,0
+80+,Female,Graduated college or technical school,<15k,AIAN,0.4625745784475605,7,0
+80+,Female,Graduated college or technical school,100k-200k,AIAN,0.1191501697784453,7,0
+75-79,Female,Did not graduate high school,25k-35k,Asian,0.0,7,0
+65-69,Male,Attended college or technical school,15k-25k,NHOPI,0.2871941653829904,7,0
+80+,Female,Did not graduate high school,50k-100k,AIAN,0.1473274453134503,7,0
+35-39,Female,Attended college or technical school,200k+,Other/Multiracial,0.0010107659046794,7,0
+55-59,Male,Attended college or technical school,200k+,NHOPI,0.1995557972901397,7,0
+65-69,Male,Did not graduate high school,100k-200k,Hispanic,0.5330117682141629,7,0
+35-39,Female,Attended college or technical school,15k-25k,NHOPI,0.9935663886190764,7,0
+65-69,Male,Attended college or technical school,<15k,NHOPI,0.6571894818204423,7,0
+55-59,Female,Graduated college or technical school,25k-35k,NHOPI,0.0339772283295197,7,0
+50-54,Male,Graduated college or technical school,35k-50k,NHOPI,0.1115673775565651,7,0
+30-34,Female,Attended college or technical school,100k-200k,NHOPI,0.3433564474775339,7,0
+75-79,Female,Graduated high school,100k-200k,Hispanic,0.0036743549116954,7,0
+75-79,Male,Graduated high school,15k-25k,NHOPI,0.3887361176543546,7,0
+75-79,Female,Attended college or technical school,50k-100k,NHOPI,0.9331082734914736,7,0
+40-44,Female,Did not graduate high school,35k-50k,Other/Multiracial,0.1212895852080219,7,0
+75-79,Female,Attended college or technical school,<15k,Asian,0.5697539804094933,7,0
+70-74,Female,Graduated high school,100k-200k,Hispanic,0.1651232371447314,7,0
+18-24,Female,Attended college or technical school,15k-25k,NHOPI,0.1669153783230615,7,0
+60-64,Male,Graduated high school,200k+,Other/Multiracial,0.4607703728543948,7,0
+60-64,Male,Did not graduate high school,<15k,Asian,0.0859468367005018,7,0
+25-29,Male,Did not graduate high school,15k-25k,AIAN,0.0655129195916614,7,0
+80+,Male,Graduated college or technical school,15k-25k,AIAN,0.4614477986758889,7,0
+45-49,Male,Did not graduate high school,100k-200k,AIAN,0.3510181408431111,7,0
+60-64,Female,Graduated high school,100k-200k,AIAN,0.0855342760648133,7,0
+50-54,Female,Did not graduate high school,200k+,NH-White,0.5905993856265965,7,0
+18-24,Male,Did not graduate high school,200k+,NH-Black,0.1130927106992859,7,0
+65-69,Male,Graduated high school,<15k,NHOPI,0.3070275363412128,7,0
+80+,Male,Attended college or technical school,<15k,Other/Multiracial,0.0033168137851749,7,0
+80+,Male,Attended college or technical school,50k-100k,NHOPI,0.0,7,0
+45-49,Male,Attended college or technical school,15k-25k,NHOPI,0.1744807588155224,7,0
+80+,Female,Graduated high school,25k-35k,NHOPI,0.8479620107399976,7,0
+70-74,Male,Attended college or technical school,200k+,Hispanic,0.0,7,0
+45-49,Female,Did not graduate high school,25k-35k,Other/Multiracial,0.1549533581343883,7,0
+70-74,Male,Attended college or technical school,200k+,NH-Black,0.4081825868087109,7,0
+18-24,Male,Did not graduate high school,100k-200k,Asian,0.0,7,0
+40-44,Female,Attended college or technical school,15k-25k,NHOPI,0.3577844371894364,7,0
+70-74,Female,Attended college or technical school,100k-200k,AIAN,0.0558720659869909,7,0
+80+,Male,Attended college or technical school,100k-200k,Asian,0.0,7,0
+80+,Female,Graduated high school,35k-50k,NHOPI,0.1447046077456076,7,0
+45-49,Male,Graduated college or technical school,15k-25k,AIAN,0.7093158809733948,7,0
+25-29,Male,Did not graduate high school,25k-35k,Asian,0.1190185701726544,7,0
+75-79,Female,Did not graduate high school,15k-25k,Asian,0.0708203469047292,7,0
+25-29,Male,Did not graduate high school,35k-50k,AIAN,0.1281558667427221,7,0
+55-59,Male,Did not graduate high school,15k-25k,Asian,0.4937878374680097,7,0
+60-64,Female,Did not graduate high school,200k+,NH-White,0.1850378321201236,7,0
+65-69,Male,Graduated college or technical school,200k+,NHOPI,0.0660541790082928,7,0
+60-64,Female,Graduated college or technical school,35k-50k,NHOPI,0.4142370276692012,7,0
+60-64,Female,Did not graduate high school,35k-50k,Other/Multiracial,0.7471940484442899,7,0
+18-24,Male,Attended college or technical school,15k-25k,NHOPI,0.253111936776245,7,0
+65-69,Male,Graduated high school,200k+,Hispanic,0.7065976321970181,7,0
+80+,Female,Graduated high school,100k-200k,Other/Multiracial,0.4342460847532712,7,0
+70-74,Female,Did not graduate high school,100k-200k,NH-Black,0.7277382416505287,7,0
+60-64,Female,Did not graduate high school,<15k,NHOPI,0.7688303141719007,7,0
+60-64,Male,Graduated college or technical school,25k-35k,NHOPI,0.0337817290790193,7,0
+40-44,Male,Graduated college or technical school,<15k,Other/Multiracial,0.7084991333823776,7,0
+80+,Male,Graduated high school,35k-50k,NHOPI,0.144813563475184,7,0
+40-44,Female,Did not graduate high school,200k+,NH-White,0.4240217923432443,7,0
+18-24,Male,Did not graduate high school,<15k,NHOPI,0.3340960710166306,7,0
+80+,Female,Graduated high school,<15k,NHOPI,0.0816671969287316,7,0
+50-54,Female,Attended college or technical school,25k-35k,NHOPI,0.0679421415837384,7,0
+18-24,Male,Graduated college or technical school,15k-25k,AIAN,0.2074763168215715,7,0
+75-79,Male,Attended college or technical school,<15k,AIAN,0.0979240995772993,8,0
+60-64,Male,Graduated college or technical school,15k-25k,NHOPI,0.1355954590479859,8,0
+65-69,Female,Attended college or technical school,200k+,NH-Black,0.6366287891749338,8,0
+65-69,Male,Graduated college or technical school,200k+,AIAN,0.2440861997720773,8,0
+80+,Female,Graduated college or technical school,200k+,Hispanic,0.0,8,0
+65-69,Female,Did not graduate high school,25k-35k,Other/Multiracial,0.4195228145347696,8,0
+55-59,Male,Graduated high school,200k+,AIAN,0.0838265969252787,8,0
+30-34,Male,Attended college or technical school,35k-50k,NHOPI,0.2556963265368729,8,0
+55-59,Female,Did not graduate high school,100k-200k,Hispanic,0.2316567898910533,8,0
+25-29,Male,Attended college or technical school,35k-50k,NHOPI,0.1899172617396526,8,0
+55-59,Female,Did not graduate high school,<15k,NHOPI,0.6475309820407984,8,0
+60-64,Male,Did not graduate high school,100k-200k,AIAN,0.1393719166737116,8,0
+55-59,Female,Did not graduate high school,<15k,Asian,0.0207030272007888,8,0
+75-79,Male,Attended college or technical school,35k-50k,NHOPI,0.530218352548251,8,0
+45-49,Male,Graduated college or technical school,35k-50k,NHOPI,0.9576527965497696,8,0
+75-79,Male,Attended college or technical school,25k-35k,NHOPI,0.9910969835089148,8,0
+75-79,Female,Did not graduate high school,35k-50k,AIAN,0.230529154077748,8,0
+65-69,Male,Did not graduate high school,50k-100k,AIAN,0.5925943307955183,8,0
+35-39,Female,Graduated high school,100k-200k,NHOPI,0.0398025367179942,8,0
+65-69,Female,Did not graduate high school,35k-50k,AIAN,0.1814807991413365,8,0
+30-34,Male,Did not graduate high school,100k-200k,Other/Multiracial,0.3388130666758229,8,0
+65-69,Female,Graduated high school,100k-200k,NHOPI,0.8251329516673634,8,0
+70-74,Male,Graduated college or technical school,200k+,AIAN,0.2127609508643007,8,0
+40-44,Female,Graduated high school,<15k,Asian,0.1025686948783175,8,0
+70-74,Male,Attended college or technical school,200k+,Other/Multiracial,0.0103207034830206,8,0
+25-29,Male,Graduated college or technical school,35k-50k,NHOPI,0.9268234083765244,8,0
+45-49,Male,Graduated high school,25k-35k,NHOPI,0.1748317792131834,8,0
+70-74,Male,Attended college or technical school,25k-35k,NHOPI,0.0,8,0
+50-54,Female,Graduated college or technical school,35k-50k,NHOPI,0.3454564930007645,8,0
+70-74,Female,Did not graduate high school,25k-35k,Asian,0.3516427433820698,8,0
+80+,Female,Did not graduate high school,15k-25k,Asian,0.2928452056365125,8,0
+45-49,Male,Did not graduate high school,35k-50k,AIAN,0.8806259743122438,8,0
+30-34,Female,Did not graduate high school,50k-100k,Other/Multiracial,0.9008694872570372,8,0
+45-49,Male,Did not graduate high school,25k-35k,Asian,0.0,8,0
+80+,Female,Graduated high school,100k-200k,Asian,0.0,8,0
+30-34,Male,Did not graduate high school,35k-50k,AIAN,0.0387560795501754,8,0
+75-79,Female,Graduated college or technical school,200k+,Hispanic,0.0348476479381242,8,0
+25-29,Male,Did not graduate high school,100k-200k,Other/Multiracial,0.2351338580123987,8,0
+65-69,Female,Graduated high school,100k-200k,AIAN,0.7014222733649752,8,0
+75-79,Female,Graduated high school,100k-200k,Other/Multiracial,0.6771281086335286,8,0
+40-44,Male,Attended college or technical school,<15k,Asian,0.5948294930313263,8,0
+80+,Male,Graduated high school,100k-200k,Asian,0.1440904860208612,8,0
+65-69,Female,Did not graduate high school,100k-200k,Hispanic,0.0884457048434487,8,0
+80+,Male,Graduated college or technical school,<15k,NH-Black,0.0739521814260792,8,0
+60-64,Male,Did not graduate high school,15k-25k,NHOPI,0.6469552217545328,8,0
+60-64,Female,Graduated college or technical school,15k-25k,NHOPI,0.462695419572294,8,0
+60-64,Female,Graduated college or technical school,25k-35k,NHOPI,0.771083629016162,8,0
+70-74,Male,Graduated college or technical school,35k-50k,NHOPI,0.1789680550914654,8,0
+45-49,Male,Attended college or technical school,25k-35k,NHOPI,0.0383588496251426,8,0
+65-69,Male,Graduated college or technical school,<15k,AIAN,0.0340756262675601,8,0
+60-64,Male,Did not graduate high school,15k-25k,Asian,0.0588581092965268,8,0
+45-49,Female,Attended college or technical school,<15k,Asian,0.0864424275462988,8,0
+40-44,Male,Did not graduate high school,35k-50k,Asian,0.0586238253844409,8,0
+80+,Male,Did not graduate high school,50k-100k,Other/Multiracial,0.0568640423897018,8,0
+80+,Male,Did not graduate high school,<15k,AIAN,0.2457303965706052,8,0
+50-54,Male,Did not graduate high school,200k+,Hispanic,0.2851541452524149,8,0
+35-39,Male,Graduated college or technical school,15k-25k,AIAN,0.1239504748692194,8,0
+40-44,Male,Graduated college or technical school,15k-25k,AIAN,0.5968627318948718,8,0
+18-24,Male,Did not graduate high school,35k-50k,Asian,0.0,8,0
+55-59,Female,Graduated college or technical school,35k-50k,NHOPI,0.5245563337775623,8,0
+80+,Female,Graduated college or technical school,50k-100k,NHOPI,0.0,8,0
+18-24,Female,Graduated college or technical school,25k-35k,AIAN,0.6636224827199815,8,0
+25-29,Male,Graduated high school,200k+,Other/Multiracial,0.3576391627722523,8,0
+65-69,Male,Attended college or technical school,35k-50k,NHOPI,0.1932088703599835,8,0
+50-54,Male,Did not graduate high school,25k-35k,Asian,0.0,8,0
+65-69,Female,Did not graduate high school,<15k,Asian,0.3534551733570531,8,0
+45-49,Female,Attended college or technical school,15k-25k,NHOPI,0.6881626312593597,8,0
+50-54,Female,Graduated high school,200k+,Other/Multiracial,0.1881131443006058,9,0
+50-54,Female,Graduated high school,200k+,NH-Black,0.497915140745955,9,0
+25-29,Female,Graduated college or technical school,100k-200k,NHOPI,0.0480952025846707,9,0
+40-44,Female,Did not graduate high school,<15k,NHOPI,0.0520066014866684,9,0
+18-24,Male,Did not graduate high school,25k-35k,Asian,0.0321688717232554,9,0
+55-59,Male,Graduated college or technical school,200k+,NHOPI,0.2186745591534277,9,0
+40-44,Female,Did not graduate high school,25k-35k,AIAN,0.5524917776739879,9,0
+80+,Female,Graduated college or technical school,200k+,NH-Black,0.0,9,0
+40-44,Female,Graduated high school,200k+,Other/Multiracial,0.0746938163924443,9,0
+25-29,Male,Did not graduate high school,25k-35k,AIAN,0.2967425756515176,9,0
+75-79,Female,Attended college or technical school,100k-200k,Asian,0.0019345362884871,9,0
+50-54,Female,Did not graduate high school,<15k,Asian,0.2812791193837518,9,0
+40-44,Female,Did not graduate high school,50k-100k,NH-Black,0.7918608024997206,9,0
+80+,Female,Attended college or technical school,<15k,AIAN,0.144603268702951,9,0
+25-29,Female,Did not graduate high school,35k-50k,Other/Multiracial,0.3623778648221097,9,0
+55-59,Male,Graduated college or technical school,15k-25k,AIAN,0.3275975799807619,9,0
+18-24,Male,Graduated college or technical school,25k-35k,AIAN,0.0054869522037178,9,0
+25-29,Female,Graduated college or technical school,25k-35k,NHOPI,0.2449227630999111,9,0
+30-34,Male,Graduated high school,200k+,Other/Multiracial,0.6008409563950438,9,0
+65-69,Female,Did not graduate high school,100k-200k,NH-Black,0.2884253830249209,9,0
+75-79,Male,Graduated college or technical school,<15k,Asian,0.0173429009046381,9,0
+60-64,Female,Attended college or technical school,25k-35k,NHOPI,0.3419578168722449,9,0
+60-64,Female,Graduated high school,100k-200k,Asian,0.0481823370811325,9,0
+60-64,Female,Graduated high school,100k-200k,NHOPI,0.0548811421180336,9,0
+18-24,Female,Graduated college or technical school,15k-25k,AIAN,0.2605056134924638,9,0
+25-29,Male,Graduated college or technical school,200k+,AIAN,0.098351812651817,9,0
+75-79,Male,Graduated high school,35k-50k,NHOPI,0.0,9,0
+75-79,Female,Did not graduate high school,50k-100k,Hispanic,0.0826555483715847,9,0
+55-59,Male,Attended college or technical school,25k-35k,NHOPI,0.2494954296082838,9,0
+18-24,Male,Graduated high school,200k+,AIAN,0.1449089779127347,9,0
+35-39,Male,Did not graduate high school,35k-50k,AIAN,0.79331099416164,9,0
+18-24,Male,Attended college or technical school,25k-35k,NHOPI,0.0776731200880554,9,0
+18-24,Male,Graduated college or technical school,100k-200k,NHOPI,0.8525125917410322,9,0
+45-49,Male,Graduated high school,<15k,Asian,0.2233110681877574,9,0
+65-69,Female,Did not graduate high school,25k-35k,Asian,0.4731655193837978,9,0
+80+,Female,Did not graduate high school,<15k,Asian,0.1404377616567175,9,0
+35-39,Female,Did not graduate high school,35k-50k,Other/Multiracial,0.5665007702057506,9,0
+55-59,Female,Graduated high school,200k+,NH-Black,0.3267119339841012,9,0
+55-59,Male,Did not graduate high school,35k-50k,Asian,0.2702512304819886,9,0
+30-34,Female,Did not graduate high school,35k-50k,Other/Multiracial,0.3036479662074818,9,0
+60-64,Male,Did not graduate high school,35k-50k,Asian,0.0146062152989308,9,0
+30-34,Female,Graduated high school,100k-200k,AIAN,0.4281132292540326,9,0
+55-59,Female,Did not graduate high school,50k-100k,AIAN,0.3409536833684768,9,0
+75-79,Male,Attended college or technical school,200k+,NH-Black,0.750283867469183,9,0
+45-49,Male,Did not graduate high school,100k-200k,Other/Multiracial,0.3287262081372495,9,0
+30-34,Female,Did not graduate high school,15k-25k,Asian,0.1383387669002515,9,0
+65-69,Female,Graduated high school,100k-200k,Other/Multiracial,0.0560684708130702,9,0
+50-54,Male,Did not graduate high school,35k-50k,Asian,0.0,9,0
+45-49,Female,Graduated college or technical school,35k-50k,NHOPI,0.9484997489858852,9,0
+50-54,Female,Did not graduate high school,15k-25k,Other/Multiracial,0.0181787097852319,9,0
+80+,Male,Graduated college or technical school,25k-35k,AIAN,0.1283470439672342,9,0
+25-29,Male,Graduated high school,200k+,NH-Black,0.3212189829429461,9,0
+70-74,Female,Did not graduate high school,25k-35k,AIAN,0.112148910193786,9,0
+75-79,Male,Graduated high school,25k-35k,Asian,0.0398566207725157,9,0
+50-54,Female,Did not graduate high school,35k-50k,AIAN,0.6997179178687263,9,0
+60-64,Male,Attended college or technical school,35k-50k,NHOPI,0.93741523279005,9,0
+30-34,Female,Attended college or technical school,200k+,Other/Multiracial,0.1163166810619625,9,0
+25-29,Female,Attended college or technical school,100k-200k,AIAN,0.0370663246016375,9,0
+65-69,Female,Attended college or technical school,200k+,Other/Multiracial,0.2635172450120335,9,0
+35-39,Male,Did not graduate high school,35k-50k,Asian,0.2015079459031,9,0
+70-74,Female,Graduated high school,<15k,NHOPI,0.169427217786688,9,0
+70-74,Male,Did not graduate high school,35k-50k,AIAN,0.8039523766298121,9,0
+75-79,Male,Graduated high school,<15k,Asian,0.0,9,0
+80+,Female,Did not graduate high school,35k-50k,AIAN,0.0622834914960923,9,0
+75-79,Female,Graduated college or technical school,<15k,AIAN,0.6999108444061447,9,0
+75-79,Female,Attended college or technical school,35k-50k,NHOPI,0.4194832143123056,9,0
+45-49,Male,Did not graduate high school,100k-200k,NH-Black,0.7425656563841893,9,0
+60-64,Male,Did not graduate high school,100k-200k,Other/Multiracial,0.5050078595282755,9,0
+50-54,Male,Graduated college or technical school,<15k,Asian,0.0576609725062134,9,0
+30-34,Male,Did not graduate high school,50k-100k,AIAN,0.7487082942458314,9,0
+50-54,Male,Graduated college or technical school,<15k,AIAN,0.2632421749790427,9,0
+30-34,Female,Attended college or technical school,200k+,Asian,0.0,9,0
+55-59,Female,Did not graduate high school,35k-50k,Other/Multiracial,0.3113789167548123,9,0
+55-59,Male,Graduated high school,100k-200k,NHOPI,0.7158729877690174,9,0
+35-39,Male,Graduated high school,200k+,Asian,0.0441787938034992,9,0
+75-79,Male,Did not graduate high school,25k-35k,AIAN,0.3389661493592967,9,0
+30-34,Male,Graduated high school,200k+,NH-Black,0.8172838618973872,9,0
+25-29,Female,Did not graduate high school,25k-35k,Other/Multiracial,0.624806964888473,9,0
+40-44,Female,Attended college or technical school,100k-200k,NHOPI,0.6957069953628733,9,0
+35-39,Female,Attended college or technical school,<15k,NHOPI,0.2269558007579336,9,0
+80+,Male,Did not graduate high school,35k-50k,AIAN,0.1080919177315729,9,0
+55-59,Male,Did not graduate high school,100k-200k,Other/Multiracial,0.1955823691451619,9,0
+40-44,Male,Graduated high school,<15k,Asian,0.7638296717728937,10,0
+80+,Male,Graduated college or technical school,<15k,Hispanic,0.1379936585958162,10,0
+18-24,Female,Did not graduate high school,50k-100k,Asian,0.40508353355936,10,0
+40-44,Male,Attended college or technical school,15k-25k,Asian,0.7595858251552352,10,0
+40-44,Male,Attended college or technical school,25k-35k,NHOPI,0.7021369518407522,10,0
+75-79,Female,Graduated college or technical school,100k-200k,AIAN,0.078422473297197,10,0
+18-24,Male,Did not graduate high school,50k-100k,Asian,0.0514979551526199,10,0
+35-39,Female,Attended college or technical school,200k+,NH-Black,0.5209714950188927,10,0
+70-74,Male,Attended college or technical school,35k-50k,NHOPI,0.2865064851538694,10,0
+75-79,Female,Did not graduate high school,35k-50k,Other/Multiracial,0.786573118565888,10,0
+45-49,Female,Attended college or technical school,35k-50k,NHOPI,0.8124526552527183,10,0
+80+,Female,Graduated college or technical school,<15k,Other/Multiracial,0.2493825477033914,10,0
+80+,Female,Did not graduate high school,25k-35k,AIAN,0.2224694313882883,10,0
+70-74,Female,Graduated high school,25k-35k,NHOPI,0.1385151315369012,10,0
+75-79,Male,Did not graduate high school,50k-100k,Hispanic,0.2641224813558522,10,0
+40-44,Male,Did not graduate high school,50k-100k,Asian,0.2540089840348074,10,0
+40-44,Female,Graduated college or technical school,200k+,NHOPI,0.1617788465891243,10,0
+30-34,Male,Graduated college or technical school,35k-50k,NHOPI,0.0937466278789648,10,0
+70-74,Female,Did not graduate high school,25k-35k,Other/Multiracial,0.5142352648773204,10,0
+30-34,Female,Graduated high school,100k-200k,Asian,0.0915442777369324,10,0
+35-39,Female,Did not graduate high school,50k-100k,NH-Black,0.3141177214855443,10,0
+45-49,Female,Attended college or technical school,<15k,NHOPI,0.8107727114741964,10,0
+45-49,Female,Did not graduate high school,15k-25k,AIAN,0.0462692598862478,10,0
+18-24,Female,Did not graduate high school,15k-25k,AIAN,0.1483684991986454,10,0
+75-79,Male,Graduated high school,50k-100k,NHOPI,0.0449127656791634,10,0
+75-79,Male,Graduated high school,25k-35k,NHOPI,0.4775700494755091,10,0
+18-24,Female,Did not graduate high school,15k-25k,Other/Multiracial,0.8150403239591503,10,0
+25-29,Female,Did not graduate high school,15k-25k,Other/Multiracial,0.2116703430121956,10,0
+35-39,Female,Graduated high school,35k-50k,NHOPI,0.874981836426738,10,0
+75-79,Male,Graduated college or technical school,100k-200k,NHOPI,0.0646344277864723,10,0
+45-49,Female,Did not graduate high school,35k-50k,Other/Multiracial,0.1304358033306961,10,0
+18-24,Male,Graduated college or technical school,35k-50k,AIAN,0.0723822167176285,10,0
+35-39,Female,Graduated college or technical school,200k+,AIAN,0.085855382157515,10,0
+75-79,Male,Graduated college or technical school,<15k,Other/Multiracial,0.0427175570527029,10,0
+75-79,Male,Graduated college or technical school,<15k,NH-Black,0.0743578173953025,10,0
+80+,Female,Graduated high school,50k-100k,NHOPI,0.4650451800063402,10,0
+75-79,Male,Graduated college or technical school,<15k,Hispanic,0.1240462338492272,10,0
+35-39,Male,Did not graduate high school,35k-50k,Other/Multiracial,0.4145920859329209,10,0
+18-24,Male,Did not graduate high school,<15k,Other/Multiracial,0.0712248124936169,10,0
+25-29,Female,Graduated high school,<15k,NHOPI,0.9666347598524244,10,0
+80+,Male,Did not graduate high school,50k-100k,Hispanic,0.0,10,0
+75-79,Female,Did not graduate high school,100k-200k,NH-White,0.1037610569105739,10,0
+65-69,Male,Attended college or technical school,100k-200k,NHOPI,0.802123519120598,10,0
+65-69,Female,Graduated high school,200k+,NH-Black,0.685108993448846,10,0
+55-59,Male,Attended college or technical school,<15k,Asian,0.0190701367007445,10,0
+55-59,Male,Did not graduate high school,50k-100k,Asian,0.0559150819781706,10,0
+45-49,Male,Graduated college or technical school,25k-35k,AIAN,0.8574637362207492,10,0
+65-69,Female,Attended college or technical school,<15k,NHOPI,0.8016796203515691,10,0
+60-64,Male,Attended college or technical school,200k+,AIAN,0.7431329536298231,10,0
+55-59,Female,Graduated college or technical school,200k+,NHOPI,0.1845914716190816,10,0
+65-69,Male,Attended college or technical school,25k-35k,NHOPI,0.7057185196634467,10,0
+45-49,Male,Graduated high school,<15k,NHOPI,0.6400027203587447,10,0
+70-74,Female,Attended college or technical school,15k-25k,NHOPI,0.1328285784154304,10,0
+55-59,Male,Attended college or technical school,200k+,AIAN,0.5922072855163018,10,0
+50-54,Female,Graduated high school,<15k,Asian,0.0,10,0
+35-39,Female,Did not graduate high school,100k-200k,Hispanic,0.75963239152591,10,0
+50-54,Male,Did not graduate high school,35k-50k,Other/Multiracial,0.2207782122141672,10,0
+55-59,Female,Graduated high school,100k-200k,Asian,0.131479843662043,10,0
+70-74,Female,Attended college or technical school,200k+,NH-Black,0.7541507957445819,10,0
+50-54,Female,Did not graduate high school,25k-35k,Other/Multiracial,0.417583517643823,10,0
+65-69,Male,Did not graduate high school,15k-25k,Asian,0.0,10,0
+55-59,Female,Attended college or technical school,35k-50k,NHOPI,0.0174078616132083,10,0
+50-54,Female,Graduated high school,200k+,Hispanic,0.3060160923913234,10,0
+55-59,Male,Graduated high school,200k+,Other/Multiracial,0.1804334654333626,10,0
+65-69,Male,Did not graduate high school,50k-100k,Asian,0.0171472288217309,10,0
+25-29,Male,Attended college or technical school,25k-35k,NHOPI,0.3334217204171582,10,0
+70-74,Male,Attended college or technical school,<15k,Asian,0.2197416573000741,10,0
+40-44,Female,Did not graduate high school,25k-35k,Other/Multiracial,0.7763239945040113,10,0
+18-24,Male,Attended college or technical school,<15k,AIAN,0.1337660175984972,10,0
+80+,Male,Attended college or technical school,<15k,AIAN,0.0686316155440606,10,0
+80+,Female,Attended college or technical school,100k-200k,Hispanic,0.2563082539872026,10,0
+18-24,Female,Graduated college or technical school,100k-200k,AIAN,0.1545089804565516,10,0
+35-39,Female,Did not graduate high school,35k-50k,NH-Black,0.8161303772537492,10,0
+40-44,Male,Graduated college or technical school,<15k,AIAN,0.316201770727584,10,0
+70-74,Male,Did not graduate high school,<15k,Asian,0.0,10,0
+75-79,Male,Did not graduate high school,25k-35k,Other/Multiracial,0.4893491368542076,10,0
+18-24,Female,Attended college or technical school,100k-200k,AIAN,0.0,10,0
+55-59,Female,Did not graduate high school,200k+,NH-White,0.2337568438807725,10,0
+55-59,Female,Attended college or technical school,200k+,Asian,0.0,10,0
+60-64,Male,Graduated college or technical school,35k-50k,NHOPI,0.7079439116399343,10,0
+75-79,Female,Graduated high school,25k-35k,NHOPI,0.3377080513674549,10,0
+65-69,Male,Graduated high school,200k+,Other/Multiracial,0.154894930800877,10,0
+30-34,Male,Did not graduate high school,35k-50k,Other/Multiracial,0.5622299970649991,11,0
+25-29,Male,Attended college or technical school,200k+,Other/Multiracial,0.1224686650969691,11,0
+25-29,Female,Graduated high school,<15k,Asian,0.5033330905334727,11,0
+40-44,Male,Graduated college or technical school,15k-25k,Other/Multiracial,0.5922234932504553,11,0
+60-64,Male,Did not graduate high school,35k-50k,Other/Multiracial,0.4896718876446294,11,0
+75-79,Male,Graduated high school,100k-200k,Other/Multiracial,0.4513830251195717,11,0
+18-24,Female,Did not graduate high school,200k+,NH-White,0.3562766129638458,11,0
+75-79,Male,Graduated high school,100k-200k,Hispanic,0.5152125287912737,11,0
+80+,Male,Graduated high school,15k-25k,Asian,0.0045148234547842,11,0
+55-59,Male,Did not graduate high school,100k-200k,NH-Black,0.3373259410508344,11,0
+18-24,Female,Did not graduate high school,25k-35k,AIAN,0.2693807574267718,11,0
+45-49,Male,Graduated college or technical school,<15k,Asian,0.0488343549191991,11,0
+60-64,Male,Attended college or technical school,15k-25k,NHOPI,0.1278252394902987,11,0
+25-29,Male,Did not graduate high school,50k-100k,NH-Black,0.1019504276503443,11,0
+40-44,Male,Attended college or technical school,200k+,AIAN,0.3257143971952354,11,0
+30-34,Female,Did not graduate high school,25k-35k,Other/Multiracial,0.597354800574905,11,0
+18-24,Female,Attended college or technical school,200k+,NH-Black,0.0525941183903295,11,0
+18-24,Female,Did not graduate high school,<15k,Other/Multiracial,0.3255681008934151,11,0
+40-44,Male,Did not graduate high school,100k-200k,Other/Multiracial,0.2376990139779257,11,0
+40-44,Male,Did not graduate high school,25k-35k,AIAN,0.4801564165572057,11,0
+60-64,Male,Graduated high school,15k-25k,NHOPI,0.7848837149493911,11,0
+80+,Female,Attended college or technical school,50k-100k,NHOPI,0.0,11,0
+70-74,Female,Graduated college or technical school,100k-200k,NHOPI,0.290594046925315,11,0
+75-79,Male,Did not graduate high school,200k+,NH-White,0.1799094957847679,11,0
+30-34,Male,Did not graduate high school,<15k,AIAN,0.7851135123886894,11,0
+30-34,Female,Did not graduate high school,<15k,Other/Multiracial,0.2876224510238143,11,0
+30-34,Female,Attended college or technical school,15k-25k,NHOPI,0.5433492438496178,11,0
+25-29,Female,Graduated high school,100k-200k,Asian,0.0037091074429786,11,0
+25-29,Female,Graduated college or technical school,15k-25k,AIAN,0.5697627221736142,11,0
+40-44,Male,Graduated high school,<15k,NHOPI,0.3251552094039038,11,0
+25-29,Female,Did not graduate high school,25k-35k,NH-Black,0.5043028501020129,11,0
+70-74,Female,Did not graduate high school,35k-50k,Other/Multiracial,0.3897697746598196,11,0
+45-49,Male,Did not graduate high school,15k-25k,AIAN,0.2907542221640435,11,0
+75-79,Female,Graduated high school,15k-25k,NHOPI,0.6813552069687564,11,0
+40-44,Male,Graduated high school,200k+,AIAN,0.578186615938583,11,0
+18-24,Male,Did not graduate high school,<15k,AIAN,0.1008599952569381,11,0
+25-29,Female,Attended college or technical school,<15k,Asian,0.0583437627353078,11,0
+80+,Male,Attended college or technical school,25k-35k,Asian,0.0387079035278345,11,0
+70-74,Male,Graduated college or technical school,<15k,Asian,0.279047065932601,11,0
+25-29,Female,Did not graduate high school,15k-25k,AIAN,0.7448771839653752,11,0
+18-24,Male,Did not graduate high school,100k-200k,NH-Black,0.0613182966686185,11,0
+18-24,Male,Graduated high school,<15k,NHOPI,0.2852960696913308,11,0
+25-29,Female,Did not graduate high school,100k-200k,NH-White,0.2850880030615034,11,0
+60-64,Female,Did not graduate high school,<15k,Asian,0.5482017201841488,11,0
+60-64,Female,Attended college or technical school,15k-25k,NHOPI,0.0517782784757609,11,0
+50-54,Female,Did not graduate high school,25k-35k,AIAN,0.5505296311206042,11,0
+60-64,Female,Graduated college or technical school,200k+,NHOPI,0.0618087126123161,11,0
+80+,Female,Graduated high school,50k-100k,AIAN,0.4873797330593389,11,0
+50-54,Female,Attended college or technical school,15k-25k,NHOPI,0.8903478213832017,11,0
+30-34,Male,Graduated high school,<15k,Asian,0.0968409733208532,11,0
+65-69,Female,Attended college or technical school,35k-50k,NHOPI,0.0573398307776005,11,0
+50-54,Female,Attended college or technical school,200k+,Asian,0.1634306447581126,11,0
+60-64,Male,Did not graduate high school,100k-200k,Hispanic,0.0386209070365414,11,0
+25-29,Male,Attended college or technical school,<15k,AIAN,0.3404773643055314,11,0
+80+,Male,Attended college or technical school,15k-25k,Asian,0.1653873615843353,11,0
+35-39,Male,Graduated college or technical school,25k-35k,AIAN,0.2133285512395989,11,0
+25-29,Female,Attended college or technical school,<15k,AIAN,0.1428673381088939,11,0
+45-49,Male,Graduated high school,35k-50k,NHOPI,0.1617622319931256,11,0
+35-39,Female,Did not graduate high school,200k+,NH-White,0.1038296710221284,11,0
+50-54,Male,Attended college or technical school,200k+,AIAN,0.6942745905994986,11,0
+35-39,Male,Graduated high school,25k-35k,NHOPI,0.5248321933662369,11,0
+75-79,Male,Graduated college or technical school,15k-25k,AIAN,0.1577485867340256,11,0
+35-39,Male,Graduated college or technical school,<15k,Other/Multiracial,0.2894416569078437,11,0
+35-39,Male,Graduated high school,<15k,Asian,0.0565424897822152,11,0
+75-79,Female,Did not graduate high school,15k-25k,Other/Multiracial,0.6608237519251529,11,0
+40-44,Male,Did not graduate high school,35k-50k,AIAN,0.2380541272333048,12,0
+45-49,Male,Graduated college or technical school,200k+,NHOPI,0.0905428322497696,12,0
+60-64,Male,Attended college or technical school,200k+,Asian,0.0249095974170163,12,0
+80+,Male,Did not graduate high school,<15k,Other/Multiracial,0.4029291082802683,12,0
+40-44,Female,Graduated high school,100k-200k,Asian,0.0,12,0
+55-59,Female,Graduated high school,100k-200k,NHOPI,0.5827796507007208,12,0
+30-34,Female,Attended college or technical school,35k-50k,NHOPI,0.3430225704487452,12,0
+80+,Male,Graduated college or technical school,<15k,Asian,0.013921787582143,12,0
+70-74,Female,Graduated high school,100k-200k,Other/Multiracial,0.2772522604115707,12,0
+40-44,Female,Attended college or technical school,25k-35k,NHOPI,0.1933583520062981,12,0
+80+,Male,Graduated college or technical school,50k-100k,NHOPI,0.4357714521265754,12,0
+40-44,Male,Graduated college or technical school,35k-50k,NHOPI,0.1656248919045795,12,0
+18-24,Female,Did not graduate high school,50k-100k,NH-Black,0.248685375724576,12,0
+60-64,Male,Did not graduate high school,100k-200k,NH-Black,0.8273631984998601,12,0
+45-49,Male,Did not graduate high school,200k+,Hispanic,0.1882075303283712,12,0
+45-49,Female,Graduated high school,<15k,Asian,0.2980183366755524,12,0
+60-64,Female,Did not graduate high school,25k-35k,Other/Multiracial,0.2587334624410553,12,0
+75-79,Male,Did not graduate high school,<15k,Other/Multiracial,0.3842371437415302,12,0
+35-39,Male,Did not graduate high school,25k-35k,AIAN,0.6735839945818466,12,0
+80+,Male,Graduated high school,50k-100k,NHOPI,0.1491501583568242,12,0
+35-39,Male,Graduated high school,15k-25k,NHOPI,0.997465798902572,12,0
+35-39,Male,Graduated high school,200k+,Other/Multiracial,0.3987491215805007,12,0
+35-39,Male,Graduated college or technical school,200k+,NHOPI,0.5147941400583235,12,0
+40-44,Female,Graduated college or technical school,<15k,AIAN,0.4686689799414608,12,0
+70-74,Female,Graduated college or technical school,<15k,AIAN,0.2022869303155418,12,0
+40-44,Female,Graduated college or technical school,15k-25k,AIAN,0.67754949947205,12,0
+30-34,Female,Did not graduate high school,25k-35k,AIAN,0.7953828481993052,12,0
+65-69,Male,Graduated high school,100k-200k,Asian,0.2583729962434039,12,0
+30-34,Male,Attended college or technical school,15k-25k,Asian,0.0032276961518692,12,0
+70-74,Female,Did not graduate high school,<15k,Asian,0.0979724643732403,12,0
+75-79,Male,Did not graduate high school,<15k,AIAN,0.1588123358384182,12,0
+35-39,Female,Graduated high school,<15k,NHOPI,0.1320811895499914,12,0
+55-59,Female,Graduated high school,100k-200k,AIAN,0.213976465236953,12,0
+65-69,Female,Graduated college or technical school,25k-35k,NHOPI,0.5673363954366508,12,0
+65-69,Male,Attended college or technical school,<15k,Asian,0.0,12,0
+25-29,Male,Did not graduate high school,<15k,NH-Black,0.1929353593638377,12,0
+25-29,Male,Did not graduate high school,<15k,AIAN,0.2386273298232675,12,0
+35-39,Female,Graduated high school,200k+,Hispanic,0.0671258364226568,12,0
+18-24,Male,Graduated college or technical school,<15k,Other/Multiracial,0.0,12,0
+75-79,Male,Graduated high school,<15k,Other/Multiracial,0.2521132825226163,12,0
+35-39,Male,Attended college or technical school,<15k,AIAN,0.3864334185009884,12,0
+25-29,Male,Graduated college or technical school,35k-50k,AIAN,0.3547501828658618,12,0
+80+,Female,Attended college or technical school,100k-200k,Asian,0.0032698219302384,12,0
+60-64,Female,Graduated college or technical school,200k+,AIAN,0.047078488172096,12,0
+25-29,Female,Did not graduate high school,<15k,Other/Multiracial,0.2869749883256217,12,0
+75-79,Male,Graduated high school,15k-25k,Asian,0.3038604940275804,12,0
+75-79,Female,Graduated college or technical school,200k+,Other/Multiracial,0.0,12,0
+18-24,Male,Did not graduate high school,100k-200k,Other/Multiracial,0.1092141569504884,12,0
+30-34,Male,Graduated college or technical school,200k+,AIAN,0.1245146569801115,12,0
+25-29,Female,Graduated college or technical school,35k-50k,NHOPI,0.1700538431088549,12,0
+75-79,Female,Did not graduate high school,25k-35k,AIAN,0.3512517397325245,12,0
+25-29,Male,Attended college or technical school,200k+,NH-Black,0.6276767520224735,12,0
+25-29,Female,Attended college or technical school,15k-25k,NHOPI,0.7359145418270867,12,0
+30-34,Male,Graduated college or technical school,25k-35k,AIAN,0.7311291669959488,12,0
+30-34,Female,Attended college or technical school,25k-35k,NHOPI,0.4415401167124169,13,0
+50-54,Male,Attended college or technical school,200k+,Asian,0.0,13,0
+55-59,Male,Graduated high school,<15k,NHOPI,0.1883245725070001,13,0
+65-69,Female,Graduated high school,25k-35k,NHOPI,0.6931256898329767,13,0
+65-69,Male,Did not graduate high school,50k-100k,Other/Multiracial,0.1389438343764069,13,0
+50-54,Male,Attended college or technical school,35k-50k,NHOPI,0.1532703120244292,13,0
+70-74,Female,Did not graduate high school,50k-100k,Hispanic,0.7970051102299014,13,0
+55-59,Male,Graduated high school,200k+,Asian,0.0,13,0
+65-69,Male,Did not graduate high school,35k-50k,AIAN,0.4922080561982547,13,0
+70-74,Female,Did not graduate high school,<15k,Other/Multiracial,0.46398310300923,13,0
+30-34,Female,Graduated college or technical school,35k-50k,NHOPI,0.2641369092826285,13,0
+30-34,Male,Attended college or technical school,100k-200k,NHOPI,0.6233108426062292,13,0
+50-54,Female,Attended college or technical school,35k-50k,NHOPI,0.0498334901339443,13,0
+45-49,Female,Graduated high school,100k-200k,NHOPI,0.5423696168515718,13,0
+35-39,Male,Attended college or technical school,15k-25k,Asian,0.284955290188739,13,0
+18-24,Male,Attended college or technical school,100k-200k,AIAN,0.2163048144693674,13,0
+70-74,Female,Did not graduate high school,35k-50k,AIAN,0.215627066234425,13,0
+30-34,Male,Attended college or technical school,25k-35k,NHOPI,0.2889116791752959,13,0
+50-54,Male,Did not graduate high school,100k-200k,NH-Black,0.5032616149582261,13,0
+35-39,Female,Did not graduate high school,15k-25k,AIAN,0.0696974429826862,13,0
+18-24,Male,Did not graduate high school,15k-25k,AIAN,0.0766151126448435,13,0
+70-74,Male,Did not graduate high school,25k-35k,AIAN,0.7597438028117385,13,0
+55-59,Male,Graduated college or technical school,<15k,Asian,0.308086485098049,13,0
+25-29,Male,Graduated college or technical school,25k-35k,AIAN,0.2213211810533312,13,0
+75-79,Female,Did not graduate high school,<15k,Other/Multiracial,0.619998033761367,13,0
+40-44,Male,Did not graduate high school,15k-25k,AIAN,0.3119158722754045,13,0
+75-79,Female,Graduated high school,50k-100k,NHOPI,0.0244136464938399,13,0
+30-34,Female,Attended college or technical school,<15k,Asian,0.8742746515548205,13,0
+60-64,Male,Graduated high school,25k-35k,NHOPI,0.6705324397842801,13,0
+18-24,Female,Graduated college or technical school,50k-100k,NHOPI,0.1496069730088434,13,0
+75-79,Male,Attended college or technical school,25k-35k,Asian,0.2024145309168385,13,0
+55-59,Male,Graduated college or technical school,<15k,AIAN,0.7169219070556522,13,0
+18-24,Female,Did not graduate high school,100k-200k,Hispanic,0.2246876127683624,13,0
+55-59,Female,Did not graduate high school,35k-50k,AIAN,0.6300610278304346,13,0
+70-74,Female,Attended college or technical school,35k-50k,NHOPI,0.3892065160990639,13,0
+55-59,Female,Attended college or technical school,25k-35k,Asian,0.2055324702413286,13,0
+35-39,Male,Attended college or technical school,200k+,Asian,0.0480228830459157,13,0
+18-24,Female,Did not graduate high school,50k-100k,Other/Multiracial,0.1592800486568913,13,0
+55-59,Female,Did not graduate high school,50k-100k,NH-Black,0.7945573732112874,13,0
+80+,Female,Graduated high school,<15k,AIAN,0.8308499139076326,13,0
+80+,Male,Attended college or technical school,100k-200k,Other/Multiracial,0.1117012851342853,13,0
+70-74,Female,Graduated high school,15k-25k,NHOPI,0.1039227582306542,13,0
+40-44,Male,Graduated high school,35k-50k,NHOPI,0.7512140071565924,13,0
+50-54,Male,Graduated high school,200k+,Other/Multiracial,0.1662593641216713,13,0
+75-79,Female,Graduated college or technical school,50k-100k,NHOPI,0.145780442206834,13,0
+45-49,Female,Attended college or technical school,200k+,Asian,0.2315587987946317,13,0
+55-59,Female,Graduated high school,<15k,Asian,0.112970238848821,13,0
+80+,Male,Graduated college or technical school,35k-50k,AIAN,0.2302736831436844,13,0
+80+,Female,Did not graduate high school,50k-100k,NH-Black,0.0754960829407734,13,0
+18-24,Female,Did not graduate high school,35k-50k,Other/Multiracial,0.123429512230381,14,0
+40-44,Male,Did not graduate high school,50k-100k,AIAN,0.1382745760753363,14,0
+45-49,Male,Did not graduate high school,25k-35k,Other/Multiracial,0.4759090028234243,14,0
+75-79,Female,Graduated high school,100k-200k,NH-Black,0.032941021218725,14,0
+25-29,Female,Graduated high school,100k-200k,NH-Black,0.6668705761395649,14,0
+80+,Female,Graduated college or technical school,<15k,Asian,0.009318057793657,14,0
+18-24,Male,Did not graduate high school,25k-35k,AIAN,0.1238605773069757,14,0
+40-44,Male,Graduated college or technical school,25k-35k,AIAN,0.5466168808301245,14,0
+35-39,Female,Attended college or technical school,35k-50k,NHOPI,0.1602665414484527,14,0
+70-74,Male,Graduated high school,15k-25k,NHOPI,0.0811493776460621,14,0
+50-54,Female,Graduated high school,100k-200k,NHOPI,0.1931266189329245,14,0
+40-44,Male,Did not graduate high school,35k-50k,Other/Multiracial,0.2566713348115666,14,0
+18-24,Female,Graduated high school,200k+,NH-Black,0.4202884454824991,14,0
+60-64,Male,Attended college or technical school,<15k,Asian,0.0642647836728495,14,0
+30-34,Female,Did not graduate high school,15k-25k,Other/Multiracial,0.590818361089822,14,0
+60-64,Female,Graduated high school,15k-25k,NHOPI,0.3856682038147221,14,0
+50-54,Male,Graduated college or technical school,15k-25k,Other/Multiracial,0.1571799426880909,14,0
+45-49,Male,Did not graduate high school,50k-100k,AIAN,0.393825679897124,14,0
+40-44,Male,Did not graduate high school,25k-35k,Other/Multiracial,0.5701998341069143,14,0
+50-54,Female,Graduated college or technical school,200k+,NHOPI,0.2258017588341644,14,0
+30-34,Male,Graduated college or technical school,<15k,Other/Multiracial,0.2649702195440634,14,0
+45-49,Male,Graduated college or technical school,15k-25k,Asian,0.3119151629238865,14,0
+75-79,Female,Graduated college or technical school,25k-35k,AIAN,0.266740604936359,14,0
+60-64,Male,Graduated high school,200k+,NH-Black,0.4148441960697924,14,0
+40-44,Female,Graduated high school,35k-50k,NHOPI,0.1838392816012315,14,0
+50-54,Female,Did not graduate high school,50k-100k,NH-Black,0.4891422123452657,14,0
+80+,Female,Did not graduate high school,35k-50k,Other/Multiracial,0.0506347848291023,14,0
+60-64,Male,Graduated college or technical school,200k+,NHOPI,0.1419530057802749,14,0
+80+,Female,Did not graduate high school,25k-35k,Other/Multiracial,0.430242799307437,14,0
+35-39,Male,Graduated high school,100k-200k,NHOPI,0.116645628015085,14,0
+18-24,Male,Did not graduate high school,200k+,Hispanic,0.2069227650364747,14,0
+30-34,Male,Did not graduate high school,25k-35k,AIAN,0.1468979839046352,14,0
+25-29,Male,Attended college or technical school,<15k,Asian,0.0224908572469018,14,0
+70-74,Female,Did not graduate high school,15k-25k,Asian,0.1317362082610366,14,0
+50-54,Female,Graduated high school,<15k,NHOPI,0.392919323072149,14,0
+55-59,Female,Graduated college or technical school,200k+,AIAN,0.3509871492247355,14,0
+30-34,Male,Did not graduate high school,15k-25k,AIAN,0.7116384247768903,14,0
+75-79,Male,Attended college or technical school,50k-100k,NHOPI,0.4959459610586815,14,0
+45-49,Female,Graduated high school,15k-25k,NHOPI,0.7128340140456643,14,0
+25-29,Male,Did not graduate high school,15k-25k,Other/Multiracial,0.4817139074655929,14,0
+45-49,Female,Did not graduate high school,100k-200k,Hispanic,0.1207100027078303,14,0
+25-29,Male,Did not graduate high school,35k-50k,Other/Multiracial,0.4325230683720534,14,0
+25-29,Male,Did not graduate high school,35k-50k,NH-Black,0.3662664158596809,14,0
+65-69,Female,Graduated high school,<15k,NHOPI,0.1480821726021534,14,0
+70-74,Female,Graduated college or technical school,200k+,Other/Multiracial,0.1310393313657399,14,0
+75-79,Male,Did not graduate high school,15k-25k,Other/Multiracial,0.0630384669716568,14,0
+25-29,Male,Did not graduate high school,25k-35k,Other/Multiracial,0.130994556617474,14,0
+65-69,Female,Attended college or technical school,200k+,Hispanic,0.0877432312710024,14,0
+65-69,Male,Graduated college or technical school,35k-50k,NHOPI,0.1032267916776665,14,0
+18-24,Female,Attended college or technical school,35k-50k,NHOPI,0.072782778554976,14,0
+60-64,Female,Attended college or technical school,200k+,Other/Multiracial,0.2816580084005498,14,0
+70-74,Male,Graduated college or technical school,100k-200k,NHOPI,0.1052229110613676,14,0
+18-24,Male,Did not graduate high school,15k-25k,Other/Multiracial,0.3974246711529072,14,0
+50-54,Male,Attended college or technical school,<15k,Asian,0.0446980395756907,14,0
+40-44,Female,Attended college or technical school,<15k,Asian,0.2201541524129199,14,0
+35-39,Male,Graduated high school,<15k,NHOPI,0.3123315735844867,14,0
+35-39,Female,Did not graduate high school,25k-35k,Other/Multiracial,0.6463091864389745,14,0
+55-59,Male,Graduated high school,15k-25k,Asian,0.0075499752334518,14,0
+40-44,Female,Graduated college or technical school,<15k,Asian,0.0794763246488531,14,0
+25-29,Female,Attended college or technical school,200k+,Hispanic,0.3887005429902797,14,0
+70-74,Male,Did not graduate high school,35k-50k,Other/Multiracial,0.2246497683873786,14,0
+65-69,Male,Attended college or technical school,200k+,Hispanic,0.4289430901997563,14,0
+65-69,Male,Graduated high school,15k-25k,NHOPI,0.622738926405423,15,0
+30-34,Male,Did not graduate high school,<15k,Other/Multiracial,0.4165125881198864,15,0
+50-54,Male,Graduated high school,15k-25k,NHOPI,0.6533810791598004,15,0
+40-44,Female,Graduated high school,200k+,NH-Black,0.3617493270531778,15,0
+45-49,Male,Graduated high school,200k+,Asian,0.2597125978284074,15,0
+50-54,Male,Did not graduate high school,50k-100k,AIAN,0.2836522885887944,15,0
+45-49,Male,Graduated high school,15k-25k,NHOPI,0.0875897837261561,15,0
+40-44,Male,Attended college or technical school,25k-35k,Asian,0.1495318711757734,15,0
+35-39,Male,Did not graduate high school,50k-100k,NH-Black,0.1734799081149228,15,0
+35-39,Male,Attended college or technical school,100k-200k,NHOPI,0.5109525740043822,15,0
+40-44,Female,Did not graduate high school,15k-25k,Other/Multiracial,0.704397452148692,15,0
+50-54,Male,Graduated high school,35k-50k,NHOPI,0.7505466506658807,15,0
+40-44,Female,Attended college or technical school,35k-50k,NHOPI,0.4870543135838499,15,0
+45-49,Male,Did not graduate high school,25k-35k,AIAN,0.3020622827210265,15,0
+30-34,Male,Attended college or technical school,15k-25k,NHOPI,0.5639660703591663,15,0
+45-49,Female,Did not graduate high school,50k-100k,NH-Black,0.4818386305159743,15,0
+45-49,Female,Graduated high school,200k+,Hispanic,0.7876502356463634,15,0
+30-34,Female,Did not graduate high school,15k-25k,AIAN,0.5506621071746082,15,0
+45-49,Male,Attended college or technical school,100k-200k,NHOPI,0.7812135599453253,15,0
+35-39,Female,Graduated high school,100k-200k,Asian,0.2488320753277803,15,0
+30-34,Female,Graduated high school,<15k,Asian,0.0697489057298318,15,0
+35-39,Male,Did not graduate high school,15k-25k,AIAN,0.671898234733925,15,0
+40-44,Female,Graduated high school,100k-200k,NHOPI,0.531152885315059,15,0
+70-74,Female,Graduated college or technical school,35k-50k,NHOPI,0.1235500524479478,15,0
+55-59,Female,Did not graduate high school,15k-25k,Other/Multiracial,0.5175018346792443,15,0
+30-34,Male,Attended college or technical school,<15k,Asian,0.3237619462294762,15,0
+70-74,Male,Attended college or technical school,100k-200k,AIAN,0.5801205337315719,15,0
+65-69,Female,Graduated high school,15k-25k,NHOPI,0.4814010179735805,15,0
+40-44,Female,Attended college or technical school,200k+,NH-Black,0.268406963516442,15,0
+40-44,Female,Attended college or technical school,200k+,Other/Multiracial,0.1186487748331501,15,0
+25-29,Male,Graduated high school,15k-25k,Asian,0.0345623485725516,15,0
+80+,Female,Graduated high school,<15k,Asian,0.009946596697279,15,0
+25-29,Male,Did not graduate high school,15k-25k,NH-Black,0.2857686027693675,15,0
+18-24,Female,Attended college or technical school,25k-35k,NHOPI,0.4467271925234901,15,0
+60-64,Male,Did not graduate high school,50k-100k,Other/Multiracial,0.3225152369644004,15,0
+18-24,Female,Attended college or technical school,50k-100k,NHOPI,0.2753377168737927,15,0
+18-24,Female,Attended college or technical school,<15k,AIAN,0.2291888910298861,15,0
+80+,Male,Did not graduate high school,25k-35k,Other/Multiracial,0.2826449537134112,15,0
+55-59,Male,Attended college or technical school,100k-200k,NHOPI,0.2420217205567135,15,0
+18-24,Male,Attended college or technical school,35k-50k,NHOPI,0.0435237950166381,15,0
+18-24,Male,Did not graduate high school,50k-100k,AIAN,0.5507797976135772,15,0
+18-24,Male,Graduated college or technical school,100k-200k,AIAN,0.070296572779238,15,0
+80+,Male,Graduated high school,50k-100k,AIAN,0.026350408888791,15,0
+25-29,Female,Did not graduate high school,15k-25k,NH-Black,0.4537887478303672,15,0
+60-64,Female,Attended college or technical school,<15k,Asian,0.0309878425612766,15,0
+50-54,Male,Did not graduate high school,25k-35k,AIAN,0.6288357553244533,15,0
+75-79,Female,Graduated college or technical school,<15k,Other/Multiracial,0.4154668411333352,15,0
+35-39,Female,Attended college or technical school,15k-25k,Asian,0.6353979794205427,15,0
+35-39,Male,Attended college or technical school,35k-50k,NHOPI,0.532646492583551,15,0
+75-79,Female,Did not graduate high school,50k-100k,NH-Black,0.2320749672281042,15,0
+25-29,Male,Graduated high school,<15k,Asian,0.5601994683589586,15,0
+65-69,Female,Attended college or technical school,100k-200k,NHOPI,0.1937285952340199,15,0
+25-29,Female,Graduated high school,15k-25k,Asian,0.0735968232586113,15,0
+65-69,Female,Did not graduate high school,15k-25k,Asian,0.0096289706834582,15,0
+75-79,Female,Graduated high school,35k-50k,NHOPI,0.3476639132500758,15,0
+30-34,Male,Graduated high school,100k-200k,NHOPI,0.3598715097569977,15,0
+40-44,Male,Did not graduate high school,<15k,AIAN,0.2899909104519697,16,0
+75-79,Female,Graduated high school,<15k,Asian,0.0169095089279496,16,0
+55-59,Female,Attended college or technical school,15k-25k,Asian,0.0046919410827648,16,0
+18-24,Female,Did not graduate high school,<15k,AIAN,0.4342030414155984,16,0
+75-79,Male,Attended college or technical school,<15k,Other/Multiracial,0.4581126406113013,16,0
+45-49,Female,Attended college or technical school,200k+,Other/Multiracial,0.4726123570538547,16,0
+25-29,Female,Graduated high school,100k-200k,Other/Multiracial,0.3656353285799702,16,0
+60-64,Male,Graduated high school,100k-200k,NHOPI,0.579079844218053,16,0
+55-59,Female,Attended college or technical school,25k-35k,NHOPI,0.2447416636046723,16,0
+50-54,Male,Graduated high school,<15k,Asian,0.406984986647839,16,0
+75-79,Female,Graduated high school,35k-50k,AIAN,0.1124808687627625,16,0
+50-54,Male,Graduated high school,<15k,NHOPI,0.0673594365892041,16,0
+45-49,Female,Attended college or technical school,100k-200k,NHOPI,0.4918256122139012,16,0
+50-54,Male,Graduated high school,100k-200k,NHOPI,0.3991477209530041,16,0
+50-54,Male,Graduated high school,15k-25k,Asian,0.4817931842457583,16,0
+45-49,Female,Graduated high school,100k-200k,AIAN,0.4730889999235842,16,0
+30-34,Male,Did not graduate high school,35k-50k,NH-Black,0.4188671161590256,16,0
+60-64,Female,Graduated high school,<15k,NHOPI,0.5065158281499439,16,0
+18-24,Female,Graduated high school,100k-200k,AIAN,0.0770804808729796,16,0
+55-59,Male,Did not graduate high school,50k-100k,AIAN,0.2588016584157563,16,0
+45-49,Male,Attended college or technical school,15k-25k,Asian,0.2279540851662575,16,0
+45-49,Male,Graduated high school,200k+,Other/Multiracial,0.1366853210632185,16,0
+25-29,Male,Attended college or technical school,<15k,Other/Multiracial,0.1714514755648296,16,0
+80+,Male,Graduated college or technical school,100k-200k,AIAN,0.0760024116904961,16,0
+40-44,Male,Graduated college or technical school,<15k,Asian,0.381698798845424,16,0
+75-79,Male,Did not graduate high school,35k-50k,Other/Multiracial,0.2068221163508787,16,0
+25-29,Male,Did not graduate high school,50k-100k,Other/Multiracial,0.3671360773216001,16,0
+80+,Male,Graduated high school,35k-50k,AIAN,0.0330290785287116,16,0
+40-44,Female,Graduated high school,200k+,Hispanic,0.4132250034713857,16,0
+75-79,Female,Graduated high school,50k-100k,AIAN,0.4077298526569108,16,0
+18-24,Female,Graduated high school,200k+,Other/Multiracial,0.0526450020941768,16,0
+50-54,Female,Attended college or technical school,100k-200k,NHOPI,0.6656090842571872,16,0
+35-39,Male,Attended college or technical school,<15k,Asian,0.1330965370067543,16,0
+50-54,Male,Attended college or technical school,15k-25k,Asian,0.0591802231945412,16,0
+50-54,Female,Attended college or technical school,200k+,Other/Multiracial,0.1907442749538749,16,0
+65-69,Female,Did not graduate high school,25k-35k,AIAN,0.5248092749927687,16,0
+65-69,Male,Did not graduate high school,25k-35k,AIAN,0.8073639072443622,16,0
+75-79,Female,Did not graduate high school,25k-35k,Other/Multiracial,0.1507163592517834,16,0
+70-74,Male,Graduated high school,25k-35k,NHOPI,0.5656769400505556,16,0
+80+,Female,Did not graduate high school,<15k,AIAN,0.35131552943631,16,0
+50-54,Female,Graduated college or technical school,<15k,Asian,0.0074163140547019,16,0
+35-39,Female,Attended college or technical school,100k-200k,NHOPI,0.6871905064198495,16,0
+65-69,Male,Graduated high school,200k+,NH-Black,0.2519470144134866,16,0
+40-44,Female,Did not graduate high school,100k-200k,Hispanic,0.4982797371272653,16,0
+80+,Female,Did not graduate high school,<15k,Other/Multiracial,0.6293015845208699,16,0
+50-54,Male,Attended college or technical school,200k+,Other/Multiracial,0.3486345967974694,16,0
+40-44,Female,Attended college or technical school,200k+,Asian,0.4889607842388742,16,0
+30-34,Male,Graduated high school,15k-25k,NHOPI,0.3861528439916855,16,0
+75-79,Female,Attended college or technical school,15k-25k,Asian,0.0617174777233621,16,0
+55-59,Male,Graduated high school,<15k,Asian,0.4856655610473185,16,0
+35-39,Female,Attended college or technical school,<15k,Asian,0.3038146950918749,16,0
+70-74,Male,Graduated high school,100k-200k,Other/Multiracial,0.4737182862154955,16,0
+55-59,Male,Graduated college or technical school,25k-35k,AIAN,0.5503891421968325,16,0
+35-39,Female,Graduated college or technical school,15k-25k,AIAN,0.2288293439154159,16,0
+80+,Male,Attended college or technical school,100k-200k,Hispanic,0.4447682524589136,16,0
+60-64,Male,Graduated college or technical school,200k+,AIAN,0.4335338421644445,16,0
+65-69,Male,Did not graduate high school,35k-50k,Other/Multiracial,0.3883849134985767,16,0
+50-54,Female,Graduated high school,25k-35k,NHOPI,0.929138443678427,17,0
+50-54,Male,Graduated high school,200k+,AIAN,0.229535212230762,17,0
+75-79,Female,Graduated high school,15k-25k,Asian,0.0249855502131164,17,0
+55-59,Female,Attended college or technical school,100k-200k,NHOPI,0.89221937798616,17,0
+75-79,Female,Graduated college or technical school,<15k,Asian,0.0606415017494755,17,0
+30-34,Male,Did not graduate high school,50k-100k,Other/Multiracial,0.1783878215897989,17,0
+30-34,Female,Graduated high school,50k-100k,NHOPI,0.3182646447634079,17,0
+55-59,Male,Did not graduate high school,35k-50k,AIAN,0.4337832941356858,17,0
+75-79,Female,Graduated high school,35k-50k,Asian,0.0,17,0
+55-59,Male,Did not graduate high school,50k-100k,Other/Multiracial,0.2913410536920252,17,0
+25-29,Female,Graduated college or technical school,<15k,Other/Multiracial,0.3009072611952558,17,0
+75-79,Male,Graduated college or technical school,15k-25k,Asian,0.067621332437309,17,0
+70-74,Female,Did not graduate high school,15k-25k,Other/Multiracial,0.3744558582580308,17,0
+35-39,Female,Attended college or technical school,25k-35k,NHOPI,0.470417164096962,17,0
+60-64,Female,Attended college or technical school,35k-50k,NHOPI,0.681245125140592,17,0
+18-24,Male,Graduated college or technical school,50k-100k,NHOPI,0.1218711559387723,17,0
+75-79,Female,Did not graduate high school,<15k,AIAN,0.3278822678676307,17,0
+60-64,Female,Attended college or technical school,100k-200k,NHOPI,0.4497598533804751,17,0
+25-29,Male,Graduated high school,15k-25k,NHOPI,0.785865787084029,17,0
+80+,Female,Attended college or technical school,100k-200k,Other/Multiracial,0.4578570558685326,17,0
+25-29,Male,Graduated college or technical school,<15k,Other/Multiracial,0.0471620411884501,17,0
+65-69,Female,Graduated college or technical school,35k-50k,NHOPI,0.021046508432624,17,0
+25-29,Female,Graduated college or technical school,25k-35k,AIAN,0.4535002274946466,17,0
+55-59,Male,Attended college or technical school,15k-25k,Asian,0.0816583339645305,17,0
+55-59,Male,Did not graduate high school,100k-200k,Hispanic,0.1443208739099521,17,0
+50-54,Male,Did not graduate high school,25k-35k,Other/Multiracial,0.2819068366086376,17,0
+55-59,Male,Attended college or technical school,200k+,Asian,0.0051424902191311,17,0
+60-64,Male,Graduated college or technical school,<15k,Asian,0.113090047804363,17,0
+55-59,Male,Did not graduate high school,25k-35k,Other/Multiracial,0.126806994653791,17,0
+80+,Male,Attended college or technical school,15k-25k,AIAN,0.0844985376434527,17,0
+80+,Male,Graduated high school,100k-200k,NH-Black,0.1495089763122747,17,0
+18-24,Female,Did not graduate high school,25k-35k,NH-Black,0.3698124455832964,17,0
+45-49,Female,Graduated high school,25k-35k,NHOPI,0.9120526994449916,17,0
+80+,Male,Did not graduate high school,35k-50k,Other/Multiracial,0.1772543932663048,17,0
+18-24,Female,Did not graduate high school,35k-50k,NH-Black,0.1351441494193313,17,0
+80+,Male,Attended college or technical school,35k-50k,Asian,0.0041847614095707,17,0
+35-39,Male,Did not graduate high school,50k-100k,Other/Multiracial,0.3125894067905833,17,0
+70-74,Female,Graduated high school,35k-50k,Asian,0.06668432571912,17,0
+45-49,Female,Graduated high school,100k-200k,Asian,0.4057822670766053,17,0
+40-44,Female,Graduated high school,25k-35k,Asian,0.5350181500222984,17,0
+45-49,Male,Did not graduate high school,50k-100k,Other/Multiracial,0.7817720226005651,17,0
+25-29,Male,Did not graduate high school,100k-200k,Hispanic,0.8596442757082139,17,0
+45-49,Female,Graduated college or technical school,<15k,Asian,0.0223851056523961,17,0
+40-44,Male,Did not graduate high school,<15k,Other/Multiracial,0.0830072435544053,17,0
+80+,Male,Attended college or technical school,25k-35k,AIAN,0.5155910799830149,17,0
+30-34,Male,Graduated high school,100k-200k,AIAN,0.0632401019545551,17,0
+80+,Male,Did not graduate high school,25k-35k,AIAN,0.0,17,0
+70-74,Male,Did not graduate high school,25k-35k,Other/Multiracial,0.1980260653427669,17,0
+80+,Male,Attended college or technical school,<15k,Hispanic,0.3833899504894499,17,0
+18-24,Female,Graduated college or technical school,<15k,Other/Multiracial,0.1770742205873698,17,0
+40-44,Female,Graduated high school,15k-25k,NHOPI,0.3612077605598571,17,0
+65-69,Female,Attended college or technical school,<15k,Asian,0.2522093159065643,18,0
+70-74,Male,Graduated high school,50k-100k,NHOPI,0.0634325168581758,18,0
+65-69,Female,Graduated college or technical school,<15k,Asian,0.1190844154077715,18,0
+50-54,Female,Graduated college or technical school,<15k,AIAN,0.1890662757839154,18,0
+75-79,Female,Attended college or technical school,100k-200k,Hispanic,0.0778732531808615,18,0
+80+,Female,Graduated high school,25k-35k,AIAN,0.2800793581986659,18,0
+35-39,Female,Did not graduate high school,25k-35k,AIAN,0.693867019635192,18,0
+35-39,Male,Did not graduate high school,25k-35k,Other/Multiracial,0.2501871375534701,18,0
+80+,Male,Attended college or technical school,35k-50k,AIAN,0.0154994674060021,18,0
+80+,Female,Did not graduate high school,15k-25k,AIAN,0.1654859402870069,18,0
+80+,Female,Graduated college or technical school,200k+,Asian,0.0155968336859996,18,0
+25-29,Female,Did not graduate high school,<15k,AIAN,0.2408744347723361,18,0
+50-54,Male,Graduated college or technical school,15k-25k,AIAN,0.4629555200596033,18,0
+60-64,Female,Did not graduate high school,25k-35k,AIAN,0.7752382288651813,18,0
+25-29,Male,Attended college or technical school,200k+,Asian,0.0193346895307629,18,0
+65-69,Male,Attended college or technical school,200k+,NH-Black,0.417718898578196,18,0
+18-24,Female,Graduated high school,<15k,NHOPI,0.2873776694289608,18,0
+30-34,Male,Did not graduate high school,50k-100k,NH-Black,0.2814619739187751,18,0
+80+,Male,Did not graduate high school,15k-25k,AIAN,0.3760442241922589,18,0
+65-69,Female,Did not graduate high school,50k-100k,NH-Black,0.4011467447690043,18,0
+65-69,Female,Attended college or technical school,25k-35k,NHOPI,0.3531134224520225,18,0
+30-34,Male,Did not graduate high school,25k-35k,Other/Multiracial,0.4340451458593758,18,0
+45-49,Male,Did not graduate high school,15k-25k,Other/Multiracial,0.4139927689438146,18,0
+45-49,Female,Attended college or technical school,200k+,NH-Black,0.2055114211489291,18,0
+30-34,Female,Attended college or technical school,100k-200k,AIAN,0.5182341319852223,18,0
+75-79,Male,Graduated college or technical school,25k-35k,AIAN,0.5409663172131007,18,0
+18-24,Female,Graduated college or technical school,200k+,Other/Multiracial,0.0673912678567647,18,0
+45-49,Female,Did not graduate high school,15k-25k,Other/Multiracial,0.4469191665927536,18,0
+80+,Male,Graduated college or technical school,15k-25k,Other/Multiracial,0.2613868151947517,18,0
+55-59,Male,Did not graduate high school,25k-35k,AIAN,0.530701897437075,18,0
+45-49,Female,Graduated college or technical school,15k-25k,Asian,0.0087538469069869,18,0
+18-24,Female,Did not graduate high school,<15k,NH-Black,0.4897529861495335,18,0
+45-49,Female,Graduated college or technical school,15k-25k,AIAN,0.6464776076099414,18,0
+45-49,Male,Did not graduate high school,35k-50k,Other/Multiracial,0.2920480616516078,18,0
+45-49,Female,Did not graduate high school,25k-35k,AIAN,0.4775095467982267,18,0
+25-29,Male,Did not graduate high school,25k-35k,NH-Black,0.223962236388885,18,0
+70-74,Female,Graduated high school,35k-50k,NHOPI,0.7776802085555243,18,0
+55-59,Female,Graduated high school,15k-25k,Asian,0.0771819101334409,18,0
+45-49,Female,Graduated high school,35k-50k,NHOPI,0.4392886648864741,18,0
+30-34,Male,Did not graduate high school,15k-25k,Other/Multiracial,0.1009846410644998,18,0
+75-79,Male,Graduated high school,35k-50k,Asian,0.0057378128649018,18,0
+30-34,Male,Attended college or technical school,<15k,Other/Multiracial,0.4776630638607407,18,0
+65-69,Female,Graduated high school,<15k,Asian,0.0401256427628363,18,0
+45-49,Female,Graduated high school,50k-100k,NHOPI,0.8109528757523304,18,0
+25-29,Male,Did not graduate high school,200k+,NH-White,0.2107761778828651,18,0
+80+,Male,Graduated high school,35k-50k,Asian,0.0672604249215482,19,0
+70-74,Female,Attended college or technical school,<15k,Asian,0.0554970820362667,19,0
+70-74,Female,Graduated college or technical school,200k+,Hispanic,0.0313903745814256,19,0
+80+,Male,Graduated college or technical school,200k+,Hispanic,0.3547945966521107,19,0
+70-74,Female,Did not graduate high school,15k-25k,AIAN,0.2451023556273645,19,0
+65-69,Male,Graduated high school,35k-50k,NHOPI,0.464418023481731,19,0
+70-74,Male,Did not graduate high school,200k+,NH-White,0.0833829469565863,19,0
+65-69,Female,Did not graduate high school,15k-25k,Other/Multiracial,0.8271057253454717,19,0
+75-79,Male,Did not graduate high school,50k-100k,NH-Black,0.5526474814552343,19,0
+75-79,Male,Attended college or technical school,100k-200k,Other/Multiracial,0.191713141142944,19,0
+65-69,Male,Attended college or technical school,200k+,Other/Multiracial,0.2254383463415666,19,0
+80+,Female,Graduated college or technical school,50k-100k,AIAN,0.2105668946198557,19,0
+60-64,Male,Graduated high school,200k+,Hispanic,0.5504585128608622,19,0
+65-69,Female,Graduated college or technical school,100k-200k,NHOPI,0.0178758853224728,19,0
+60-64,Male,Graduated college or technical school,50k-100k,NHOPI,0.8229827948983186,19,0
+70-74,Female,Attended college or technical school,100k-200k,Asian,0.0128188627098757,19,0
+70-74,Male,Did not graduate high school,50k-100k,Hispanic,0.2196748895361189,19,0
+70-74,Female,Attended college or technical school,50k-100k,NHOPI,0.339315048133152,19,0
+70-74,Male,Graduated high school,<15k,Asian,0.2883615922631579,19,0
+60-64,Male,Graduated high school,<15k,Asian,0.0624681504271782,19,0
+80+,Female,Did not graduate high school,100k-200k,NH-White,0.1513080265460701,19,0
+75-79,Female,Graduated college or technical school,200k+,Asian,0.0181231926050309,19,0
+80+,Male,Graduated high school,<15k,Other/Multiracial,0.1684210420447475,19,0
+70-74,Female,Did not graduate high school,50k-100k,NH-Black,0.8474544061410054,19,0
+60-64,Male,Did not graduate high school,35k-50k,AIAN,0.3000452882507737,19,0
+55-59,Female,Graduated college or technical school,<15k,Asian,0.4400498928034135,19,0
+50-54,Male,Graduated high school,25k-35k,NHOPI,0.8186785481876948,19,0
+50-54,Female,Graduated high school,15k-25k,NHOPI,0.7106390553518412,19,0
+40-44,Male,Attended college or technical school,100k-200k,NHOPI,0.1316433217994447,19,0
+45-49,Female,Did not graduate high school,<15k,Other/Multiracial,0.4942943273216735,19,0
+25-29,Male,Graduated high school,200k+,Hispanic,0.5956198206190731,19,0
+35-39,Male,Did not graduate high school,15k-25k,Other/Multiracial,0.1587210053479318,19,0
+18-24,Male,Graduated high school,100k-200k,NHOPI,0.0287107869463629,19,0
+60-64,Female,Graduated high school,100k-200k,Other/Multiracial,0.1914806884182919,19,0
+50-54,Female,Graduated college or technical school,15k-25k,Asian,0.030593017802122,19,0
+50-54,Male,Did not graduate high school,50k-100k,Other/Multiracial,0.2559053399347342,19,0
+60-64,Male,Did not graduate high school,50k-100k,AIAN,0.8058128300475238,19,0
+30-34,Female,Graduated college or technical school,100k-200k,NHOPI,0.3838181412849641,19,0
+35-39,Male,Graduated high school,<15k,AIAN,0.4462113555620807,19,0
+30-34,Female,Graduated high school,15k-25k,NHOPI,0.2542213472639339,19,0
+50-54,Male,Graduated college or technical school,25k-35k,AIAN,0.5517898359435234,19,0
+30-34,Male,Graduated high school,25k-35k,NHOPI,0.2570514445976783,19,0
+60-64,Female,Did not graduate high school,35k-50k,AIAN,0.6988817245778307,19,0
+55-59,Male,Attended college or technical school,25k-35k,Asian,0.0125627408908847,19,0
+18-24,Female,Did not graduate high school,25k-35k,Other/Multiracial,0.2241418607799128,19,0
+50-54,Male,Graduated college or technical school,200k+,NHOPI,0.528371960397748,19,0
+50-54,Female,Attended college or technical school,<15k,Asian,0.2459384263528555,19,0
+40-44,Female,Graduated college or technical school,<15k,Other/Multiracial,0.2742375534217747,19,0
+40-44,Female,Graduated high school,25k-35k,NHOPI,0.5918004190720599,20,0
+80+,Male,Graduated college or technical school,15k-25k,Asian,0.0021815578624547,20,0
+18-24,Male,Did not graduate high school,35k-50k,AIAN,0.2177706833625788,20,0
+40-44,Male,Attended college or technical school,35k-50k,NHOPI,0.5207794269989593,20,0
+60-64,Male,Graduated high school,35k-50k,NHOPI,0.435930213698501,20,0
+30-34,Female,Did not graduate high school,100k-200k,NH-White,0.5988402438252007,20,0
+60-64,Female,Graduated high school,35k-50k,NHOPI,0.1740281145290055,20,0
+70-74,Female,Graduated high school,50k-100k,NHOPI,0.1425164360726992,20,0
+75-79,Male,Graduated college or technical school,100k-200k,AIAN,0.1874329857741712,20,0
+70-74,Male,Graduated high school,100k-200k,Hispanic,0.0438645153491365,20,0
+30-34,Female,Graduated high school,35k-50k,NHOPI,0.2455110992004452,20,0
+35-39,Male,Graduated high school,200k+,Hispanic,0.364579299832311,20,0
+18-24,Female,Did not graduate high school,15k-25k,NH-Black,0.6796583173534427,20,0
+80+,Male,Graduated college or technical school,200k+,NH-Black,0.0775433590038062,20,0
+35-39,Male,Did not graduate high school,<15k,Other/Multiracial,0.5159214752348686,20,0
+65-69,Female,Graduated high school,35k-50k,NHOPI,0.5293362808557517,20,0
+55-59,Female,Graduated college or technical school,15k-25k,AIAN,0.2639820104626326,20,0
+60-64,Male,Graduated college or technical school,15k-25k,AIAN,0.1724098675482855,20,0
+70-74,Male,Graduated college or technical school,15k-25k,AIAN,0.2111591773909284,20,0
+35-39,Male,Attended college or technical school,200k+,Other/Multiracial,0.1030997629244823,20,0
+65-69,Male,Graduated high school,100k-200k,AIAN,0.1998358629367473,20,0
+70-74,Male,Graduated high school,35k-50k,NHOPI,0.4014967446334708,20,0
+40-44,Female,Did not graduate high school,15k-25k,AIAN,0.5735357339841789,20,0
+25-29,Male,Graduated high school,25k-35k,NHOPI,0.6186500262434339,20,0
+70-74,Male,Did not graduate high school,<15k,AIAN,0.3074138940291839,20,0
+65-69,Male,Graduated high school,50k-100k,NHOPI,0.5693321179472768,20,0
+35-39,Male,Graduated high school,15k-25k,Asian,0.3385764670189998,20,0
+45-49,Male,Did not graduate high school,<15k,AIAN,0.6673595290531766,20,0
+25-29,Female,Attended college or technical school,35k-50k,NHOPI,0.7452599123131377,20,0
+45-49,Female,Did not graduate high school,35k-50k,NH-Black,0.5171136035454635,20,0
+30-34,Male,Attended college or technical school,200k+,NH-Black,0.6561422192987,20,0
+75-79,Female,Attended college or technical school,<15k,AIAN,0.2646683897041139,20,0
+35-39,Female,Graduated high school,25k-35k,NHOPI,0.1826203537598084,20,0
+30-34,Male,Graduated high school,200k+,Hispanic,0.3474591985973225,20,0
+75-79,Female,Attended college or technical school,<15k,Other/Multiracial,0.6986299967972691,20,0
+60-64,Male,Attended college or technical school,100k-200k,NHOPI,0.469487848571926,20,0
+45-49,Female,Attended college or technical school,15k-25k,Asian,0.5701455939111231,20,0
+80+,Male,Attended college or technical school,<15k,NH-Black,0.3838268783917359,20,0
+40-44,Male,Did not graduate high school,50k-100k,Other/Multiracial,0.5049363628877649,20,0
+30-34,Male,Attended college or technical school,200k+,Asian,0.0718318161744247,20,0
+30-34,Male,Attended college or technical school,200k+,Other/Multiracial,0.236267911823369,20,0
+30-34,Male,Attended college or technical school,15k-25k,AIAN,0.5695568822375575,20,0
+30-34,Female,Graduated high school,100k-200k,NH-Black,0.7302955949809595,20,0
+75-79,Male,Graduated college or technical school,50k-100k,NHOPI,0.0923506968239423,20,0
+75-79,Male,Attended college or technical school,100k-200k,Asian,0.0251252755620556,20,0
+25-29,Male,Graduated college or technical school,100k-200k,NHOPI,0.2427177355195149,20,0
+80+,Female,Graduated college or technical school,25k-35k,AIAN,0.2120580587220716,20,0
+75-79,Male,Graduated high school,100k-200k,NH-Black,0.3970217127209342,20,0
+25-29,Female,Did not graduate high school,50k-100k,Hispanic,0.3776381115535498,20,0
+80+,Female,Attended college or technical school,100k-200k,NH-Black,0.2920619780490632,20,0
+25-29,Male,Attended college or technical school,200k+,Hispanic,0.3374012269351443,20,0
+45-49,Male,Attended college or technical school,200k+,AIAN,0.3946310448662191,20,0
+45-49,Male,Attended college or technical school,200k+,Asian,0.3331089920314459,20,0
+60-64,Female,Graduated college or technical school,<15k,AIAN,0.156887037693074,20,0
+55-59,Female,Graduated high school,<15k,NHOPI,0.5968690512786536,21,0
+80+,Male,Graduated high school,<15k,AIAN,0.0374252561106023,21,0
+40-44,Male,Attended college or technical school,200k+,Asian,0.115992601475629,21,0
+55-59,Female,Graduated college or technical school,<15k,AIAN,0.3545647179485288,21,0
+60-64,Male,Graduated college or technical school,<15k,AIAN,0.3680169800689737,21,0
+60-64,Female,Did not graduate high school,35k-50k,NH-Black,0.5297768887347857,21,0
+40-44,Male,Graduated college or technical school,200k+,NHOPI,0.4892272890632692,21,0
+65-69,Female,Attended college or technical school,100k-200k,AIAN,0.5181328544659237,21,0
+25-29,Female,Graduated high school,35k-50k,NHOPI,0.5826479622152944,21,0
+60-64,Female,Did not graduate high school,15k-25k,Other/Multiracial,0.5522911699973844,21,0
+65-69,Female,Graduated high school,50k-100k,NHOPI,0.479487460671138,21,0
+55-59,Female,Did not graduate high school,15k-25k,AIAN,0.3137304858997903,21,0
+45-49,Male,Attended college or technical school,50k-100k,NHOPI,0.8690280263406961,21,0
+60-64,Male,Did not graduate high school,25k-35k,AIAN,0.7226957131408922,21,0
+55-59,Male,Attended college or technical school,50k-100k,NHOPI,0.3957621825503155,21,0
+70-74,Male,Did not graduate high school,<15k,Other/Multiracial,0.3454147016568014,21,0
+25-29,Female,Graduated high school,25k-35k,NHOPI,0.6550979891695963,21,0
+65-69,Male,Graduated college or technical school,15k-25k,AIAN,0.2619442199569514,21,0
+60-64,Female,Did not graduate high school,50k-100k,NH-Black,0.2620688240421717,21,0
+18-24,Male,Attended college or technical school,50k-100k,NHOPI,0.0405898316582135,21,0
+80+,Female,Attended college or technical school,50k-100k,AIAN,0.662793830498691,21,0
+70-74,Male,Did not graduate high school,50k-100k,NH-Black,0.3645841453097193,21,0
+70-74,Male,Attended college or technical school,<15k,AIAN,0.5048490160535218,21,0
+45-49,Male,Did not graduate high school,<15k,Other/Multiracial,0.3275680748098887,21,0
+25-29,Female,Graduated high school,15k-25k,NHOPI,0.4010764366321455,21,0
+75-79,Male,Graduated college or technical school,35k-50k,AIAN,0.5314316067409455,21,0
+60-64,Male,Graduated college or technical school,100k-200k,NHOPI,0.0566810927856292,21,0
+75-79,Female,Graduated high school,25k-35k,Asian,0.1688991454268214,21,0
+70-74,Male,Graduated college or technical school,<15k,Other/Multiracial,0.4409215657512817,21,0
+40-44,Female,Graduated high school,100k-200k,AIAN,0.2668076195118432,21,0
+50-54,Male,Did not graduate high school,15k-25k,AIAN,0.3141351902592865,21,0
+60-64,Female,Attended college or technical school,200k+,Hispanic,0.2193812558785363,21,0
+45-49,Male,Graduated college or technical school,15k-25k,Other/Multiracial,0.4446235808171145,21,0
+45-49,Female,Graduated high school,25k-35k,Asian,0.0465832956640795,21,0
+35-39,Male,Did not graduate high school,<15k,AIAN,0.3243296065514618,21,0
+60-64,Male,Attended college or technical school,200k+,Other/Multiracial,0.6359190789902702,21,0
+45-49,Female,Graduated high school,15k-25k,Asian,0.1810562655260444,21,0
+30-34,Male,Did not graduate high school,100k-200k,Hispanic,0.5640090332061499,21,0
+30-34,Female,Graduated high school,15k-25k,Asian,0.0229111358131737,21,0
+55-59,Female,Did not graduate high school,<15k,Other/Multiracial,0.688505481888234,21,0
+55-59,Female,Attended college or technical school,200k+,Other/Multiracial,0.2966507742127836,21,0
+75-79,Male,Did not graduate high school,15k-25k,AIAN,0.4129378814156857,21,0
+40-44,Female,Graduated high school,15k-25k,Asian,0.0631652477898013,21,0
+35-39,Male,Graduated high school,200k+,NH-Black,0.3381281563731125,21,0
+55-59,Male,Graduated high school,15k-25k,NHOPI,0.7151184995797321,21,0
+35-39,Female,Did not graduate high school,15k-25k,Other/Multiracial,0.6931621483946687,22,0
+80+,Male,Did not graduate high school,200k+,NH-White,0.0927848715193515,22,0
+35-39,Female,Did not graduate high school,<15k,Other/Multiracial,0.3362617345782178,22,0
+30-34,Male,Graduated college or technical school,35k-50k,AIAN,0.2664576502670795,22,0
+60-64,Male,Graduated high school,15k-25k,Asian,0.2438753747583492,22,0
+30-34,Male,Did not graduate high school,200k+,NH-White,0.2734260212753405,22,0
+40-44,Female,Graduated high school,<15k,NHOPI,0.2719389877370411,22,0
+40-44,Female,Graduated high school,50k-100k,NHOPI,0.2678577558311354,22,0
+55-59,Male,Graduated college or technical school,15k-25k,Asian,0.0010928907533427,22,0
+30-34,Female,Graduated high school,<15k,NHOPI,0.722081918950436,22,0
+55-59,Female,Graduated high school,15k-25k,NHOPI,0.8501939170675236,22,0
+55-59,Male,Graduated college or technical school,50k-100k,NHOPI,0.0957044595555196,22,0
+55-59,Female,Attended college or technical school,200k+,NH-Black,0.5051908613550781,22,0
+50-54,Male,Did not graduate high school,<15k,Other/Multiracial,0.5917315911268171,22,0
+35-39,Male,Did not graduate high school,35k-50k,NH-Black,0.3023062389740493,22,0
+40-44,Male,Graduated college or technical school,35k-50k,AIAN,0.2490399230140516,22,0
+18-24,Male,Did not graduate high school,<15k,NH-Black,0.2440559585967329,22,0
+75-79,Female,Graduated high school,<15k,AIAN,0.7981992014752924,22,0
+30-34,Male,Graduated college or technical school,50k-100k,NHOPI,0.4889481217759984,22,0
+40-44,Male,Did not graduate high school,15k-25k,Other/Multiracial,0.3413817422640059,22,0
+65-69,Male,Graduated college or technical school,100k-200k,NHOPI,0.0590154854056076,22,0
+50-54,Female,Attended college or technical school,200k+,NH-Black,0.5218785720148738,22,0
+18-24,Female,Graduated college or technical school,50k-100k,AIAN,0.2068734507754616,22,0
+50-54,Female,Attended college or technical school,25k-35k,Asian,0.097934145861868,22,0
+18-24,Male,Graduated high school,<15k,AIAN,0.3202570385649126,22,0
+45-49,Female,Graduated college or technical school,<15k,AIAN,0.6013502253638622,22,0
+25-29,Female,Graduated high school,50k-100k,NHOPI,0.4849039037218134,22,0
+45-49,Female,Graduated college or technical school,25k-35k,AIAN,0.4511038140316031,22,0
+25-29,Male,Graduated college or technical school,15k-25k,Other/Multiracial,0.1426476533998417,22,0
+60-64,Male,Graduated high school,<15k,NHOPI,0.3155454920490282,22,0
+60-64,Female,Graduated high school,35k-50k,Asian,0.007073136090812,22,0
+25-29,Female,Graduated college or technical school,100k-200k,AIAN,0.4363977287528576,22,0
+45-49,Female,Graduated high school,<15k,NHOPI,0.7540362465221616,22,0
+70-74,Male,Attended college or technical school,50k-100k,NHOPI,0.0498195965896706,22,0
+50-54,Female,Did not graduate high school,15k-25k,AIAN,0.4895867923694904,22,0
+60-64,Female,Graduated college or technical school,<15k,Asian,0.1095111421387857,22,0
+55-59,Female,Did not graduate high school,25k-35k,AIAN,0.5927212419119071,22,0
+40-44,Female,Graduated college or technical school,15k-25k,Other/Multiracial,0.4508591189533246,22,0
+25-29,Female,Graduated college or technical school,15k-25k,Other/Multiracial,0.2569871389720156,22,0
+80+,Male,Did not graduate high school,50k-100k,NH-Black,0.0335154206751902,22,0
+40-44,Male,Graduated high school,15k-25k,Asian,0.0854378478260522,22,0
+80+,Male,Attended college or technical school,50k-100k,AIAN,0.5312951469400636,22,0
+40-44,Male,Graduated high school,100k-200k,NHOPI,0.2778363065495611,22,0
+55-59,Female,Did not graduate high school,35k-50k,NH-Black,0.6035930609934514,22,0
+65-69,Male,Graduated high school,25k-35k,NHOPI,0.2438717089132975,22,0
+45-49,Male,Graduated high school,15k-25k,Asian,0.2467882729979122,23,0
+80+,Male,Graduated college or technical school,200k+,Other/Multiracial,0.339860135513894,23,0
+40-44,Female,Did not graduate high school,25k-35k,NH-Black,0.3304322240124153,23,0
+30-34,Female,Graduated college or technical school,25k-35k,AIAN,0.8233206252190232,23,0
+35-39,Male,Graduated high school,35k-50k,NHOPI,0.9212419035763222,23,0
+65-69,Female,Graduated high school,35k-50k,Asian,0.0494572446162144,23,0
+40-44,Female,Attended college or technical school,15k-25k,Asian,0.2361735717306981,23,0
+55-59,Female,Attended college or technical school,35k-50k,Asian,0.1760413929868595,23,0
+18-24,Male,Graduated college or technical school,15k-25k,Other/Multiracial,0.1600386471902827,23,0
+75-79,Female,Graduated high school,25k-35k,AIAN,0.3243814722820446,23,0
+50-54,Female,Graduated high school,15k-25k,Asian,0.3187371296867549,23,0
+50-54,Female,Attended college or technical school,15k-25k,Asian,0.0472493765314235,23,0
+50-54,Female,Graduated high school,35k-50k,Asian,0.5100941163165094,23,0
+50-54,Female,Graduated high school,100k-200k,Asian,0.0692389885412376,23,0
+50-54,Female,Graduated high school,100k-200k,AIAN,0.293145160177703,23,0
+45-49,Male,Graduated college or technical school,100k-200k,NHOPI,0.1822447328432457,23,0
+50-54,Female,Graduated college or technical school,<15k,Other/Multiracial,0.6585227116092716,23,0
+80+,Male,Graduated college or technical school,25k-35k,Asian,0.0430467932315939,23,0
+80+,Female,Graduated college or technical school,35k-50k,AIAN,0.0452242899425632,23,0
+80+,Female,Graduated college or technical school,15k-25k,Asian,0.0143749174042727,23,0
+25-29,Male,Graduated college or technical school,50k-100k,NHOPI,0.2221048323810815,23,0
+50-54,Female,Graduated college or technical school,25k-35k,AIAN,0.8537161547543565,23,0
+80+,Female,Graduated high school,35k-50k,AIAN,0.1304965457954481,23,0
+25-29,Male,Graduated high school,100k-200k,AIAN,0.2831134186103171,23,0
+80+,Female,Graduated college or technical school,100k-200k,Hispanic,0.0054919631716452,23,0
+30-34,Male,Graduated college or technical school,15k-25k,Other/Multiracial,0.6074842248838435,23,0
+70-74,Female,Graduated college or technical school,<15k,Asian,0.0218904269413176,23,0
+40-44,Male,Graduated college or technical school,15k-25k,Asian,0.0984933283073348,23,0
+50-54,Male,Graduated high school,200k+,Hispanic,0.5063670245866784,23,0
+35-39,Female,Graduated high school,15k-25k,NHOPI,0.4754010550696277,23,0
+55-59,Female,Graduated high school,35k-50k,NHOPI,0.7533554311131408,23,0
+75-79,Female,Did not graduate high school,15k-25k,AIAN,0.1274888555821918,23,0
+35-39,Female,Graduated high school,50k-100k,NHOPI,0.8399451786445642,23,0
+70-74,Male,Graduated high school,15k-25k,Asian,0.0326420720322308,23,0
+55-59,Female,Graduated high school,25k-35k,Asian,0.0126351350292811,23,0
+50-54,Male,Attended college or technical school,50k-100k,NHOPI,0.4736062023987623,23,0
+45-49,Male,Attended college or technical school,25k-35k,Asian,0.3152487919291902,23,0
+65-69,Male,Attended college or technical school,15k-25k,Asian,0.184922442731108,23,0
+55-59,Female,Graduated high school,35k-50k,Asian,0.0077337862900954,23,0
+30-34,Male,Graduated high school,<15k,Other/Multiracial,0.4130672314808879,23,0
+65-69,Female,Attended college or technical school,50k-100k,NHOPI,0.5162989227461904,23,0
+50-54,Male,Did not graduate high school,100k-200k,Hispanic,0.2159325650164989,23,0
+40-44,Female,Did not graduate high school,<15k,Other/Multiracial,0.3974550262856988,23,0
+75-79,Male,Graduated college or technical school,200k+,Other/Multiracial,0.5864880476153294,23,0
+60-64,Female,Attended college or technical school,200k+,NH-Black,0.5549325234184355,23,0
+40-44,Male,Graduated college or technical school,25k-35k,Other/Multiracial,0.3914434496511134,23,0
+65-69,Male,Attended college or technical school,100k-200k,AIAN,0.534460502897125,23,0
+75-79,Male,Attended college or technical school,15k-25k,AIAN,0.4713140084557572,23,0
+55-59,Male,Graduated high school,200k+,Hispanic,0.1209947574916675,23,0
+45-49,Female,Graduated college or technical school,200k+,AIAN,0.5195957325642574,23,0
+30-34,Female,Attended college or technical school,200k+,Hispanic,0.2627911018010737,23,0
+35-39,Male,Did not graduate high school,<15k,NH-Black,0.2715974093422481,24,0
+35-39,Male,Did not graduate high school,100k-200k,Hispanic,0.3848365954592531,24,0
+30-34,Female,Graduated high school,100k-200k,Other/Multiracial,0.5275888651588996,24,0
+18-24,Male,Did not graduate high school,25k-35k,Other/Multiracial,0.2263619597483355,24,0
+18-24,Female,Graduated high school,200k+,Asian,0.0036559680631387,24,0
+60-64,Male,Did not graduate high school,25k-35k,Other/Multiracial,0.2823866567330549,24,0
+18-24,Male,Attended college or technical school,200k+,NH-Black,0.1638147385058237,24,0
+45-49,Male,Graduated high school,100k-200k,NHOPI,0.586022431878068,24,0
+70-74,Male,Attended college or technical school,15k-25k,Asian,0.0091516928408418,24,0
+75-79,Female,Attended college or technical school,25k-35k,Asian,0.006953804763375,24,0
+35-39,Female,Did not graduate high school,25k-35k,NH-Black,0.3113462175607693,24,0
+50-54,Male,Graduated college or technical school,<15k,Other/Multiracial,0.6034556620257175,24,0
+70-74,Male,Graduated high school,35k-50k,Asian,0.0272395516365227,24,0
+18-24,Female,Graduated college or technical school,200k+,NH-Black,0.2758571705083534,24,0
+35-39,Female,Did not graduate high school,<15k,AIAN,0.6016115299076378,24,0
+60-64,Male,Graduated college or technical school,<15k,Other/Multiracial,0.173884054749297,24,0
+45-49,Male,Graduated college or technical school,35k-50k,AIAN,0.396851834934626,24,0
+50-54,Female,Graduated high school,25k-35k,Asian,0.2721095198266378,24,0
+70-74,Female,Did not graduate high school,100k-200k,NH-White,0.5054313639094509,24,0
+55-59,Male,Attended college or technical school,35k-50k,Asian,0.0797689226389767,24,0
+40-44,Male,Graduated high school,50k-100k,NHOPI,0.5612551262316866,24,0
+75-79,Female,Graduated college or technical school,15k-25k,Asian,0.3051127818656738,24,0
+18-24,Male,Graduated college or technical school,50k-100k,AIAN,0.2643503701508052,24,0
+55-59,Female,Graduated college or technical school,15k-25k,Asian,0.1881180807335182,24,0
+25-29,Female,Graduated high school,200k+,NH-White,0.1909039058589673,24,0
+55-59,Male,Graduated high school,100k-200k,Asian,0.1643015857555293,24,0
+18-24,Male,Attended college or technical school,15k-25k,AIAN,0.1987444451791956,24,0
+80+,Female,Graduated college or technical school,15k-25k,AIAN,0.019950559862475,24,0
+75-79,Female,Graduated college or technical school,15k-25k,AIAN,0.4666589736920095,24,0
+70-74,Male,Graduated college or technical school,50k-100k,NHOPI,0.1076551434628842,24,0
+60-64,Male,Graduated high school,25k-35k,Asian,0.1506412351817613,24,0
+18-24,Female,Graduated college or technical school,15k-25k,Other/Multiracial,0.5114968219142901,24,0
+45-49,Male,Attended college or technical school,200k+,Other/Multiracial,0.3303517441865444,24,0
+45-49,Male,Graduated college or technical school,<15k,Other/Multiracial,0.3484547648136885,24,0
+45-49,Male,Graduated college or technical school,<15k,NH-Black,0.2240427146384629,24,0
+25-29,Male,Graduated high school,<15k,AIAN,0.2719916701993357,24,0
+55-59,Female,Graduated high school,25k-35k,NHOPI,0.5599538292084919,24,0
+18-24,Male,Graduated college or technical school,<15k,NH-Black,0.2513747656551028,24,0
+55-59,Female,Attended college or technical school,50k-100k,NHOPI,0.3603505256775671,24,0
+40-44,Male,Did not graduate high school,35k-50k,NH-Black,0.4299296491732542,24,0
+40-44,Male,Attended college or technical school,<15k,AIAN,0.1391663205739354,24,0
+75-79,Male,Graduated college or technical school,25k-35k,Asian,0.0388991460689842,24,0
+60-64,Male,Attended college or technical school,25k-35k,Asian,0.1433508662216282,25,0
+40-44,Female,Graduated college or technical school,200k+,AIAN,0.0578903026412391,25,0
+65-69,Female,Attended college or technical school,15k-25k,Asian,0.0242469692958889,25,0
+70-74,Male,Did not graduate high school,15k-25k,Other/Multiracial,0.1081833236944264,25,0
+35-39,Male,Graduated college or technical school,200k+,AIAN,0.1592537337784987,25,0
+25-29,Male,Attended college or technical school,15k-25k,AIAN,0.348560891408423,25,0
+75-79,Male,Graduated high school,50k-100k,Asian,0.0506421900040642,25,0
+65-69,Female,Did not graduate high school,50k-100k,Hispanic,0.4755515623904891,25,0
+70-74,Male,Graduated college or technical school,25k-35k,AIAN,0.6427478123690951,25,0
+60-64,Male,Graduated high school,100k-200k,Asian,0.2964745187881175,25,0
+80+,Female,Graduated high school,50k-100k,Hispanic,0.0630393402639828,25,0
+80+,Female,Graduated college or technical school,<15k,Hispanic,0.1939385951268845,25,0
+60-64,Female,Graduated high school,<15k,Asian,0.3177345388207305,25,0
+70-74,Female,Graduated high school,50k-100k,Asian,0.0059963582964443,25,0
+60-64,Female,Graduated college or technical school,100k-200k,NHOPI,0.003939128173188,25,0
+18-24,Male,Did not graduate high school,15k-25k,NH-Black,0.0487770507977155,25,0
+18-24,Male,Graduated college or technical school,200k+,NH-Black,0.0782470965851964,25,0
+45-49,Female,Did not graduate high school,<15k,AIAN,0.6703704086925197,25,0
+50-54,Female,Did not graduate high school,<15k,Other/Multiracial,0.2604538729740178,25,0
+45-49,Female,Graduated high school,50k-100k,Asian,0.3095073585497418,25,0
+40-44,Male,Attended college or technical school,50k-100k,NHOPI,0.60297007083403,25,0
+30-34,Male,Attended college or technical school,50k-100k,NHOPI,0.6125621038552542,25,0
+35-39,Male,Attended college or technical school,25k-35k,Asian,0.3383822329428358,25,0
+50-54,Female,Did not graduate high school,35k-50k,NH-Black,0.2560955017539579,25,0
+60-64,Female,Attended college or technical school,15k-25k,Asian,0.6589675296154324,25,0
+75-79,Male,Attended college or technical school,35k-50k,Asian,0.0979589024484045,25,0
+18-24,Female,Graduated college or technical school,200k+,Hispanic,0.0545298637578183,25,0
+40-44,Female,Attended college or technical school,50k-100k,NHOPI,0.4011629383175389,25,0
+45-49,Female,Graduated college or technical school,<15k,Other/Multiracial,0.4919008983026841,25,0
+30-34,Female,Graduated high school,25k-35k,NHOPI,0.4315029562085436,25,0
+18-24,Male,Did not graduate high school,100k-200k,Hispanic,0.1798642177738295,25,0
+40-44,Male,Graduated college or technical school,50k-100k,NHOPI,0.2236388706403707,25,0
+65-69,Male,Did not graduate high school,15k-25k,Other/Multiracial,0.7786888877809458,25,0
+55-59,Male,Graduated high school,25k-35k,NHOPI,0.3642979767652115,25,0
+30-34,Female,Graduated college or technical school,<15k,Asian,0.0172001904042375,25,0
+30-34,Female,Attended college or technical school,15k-25k,Asian,0.1751746432187457,25,0
+35-39,Female,Attended college or technical school,50k-100k,NHOPI,0.4877835934468914,25,0
+50-54,Female,Graduated high school,50k-100k,Asian,0.2431810708641689,25,0
+80+,Male,Graduated high school,50k-100k,Asian,0.1592310085786336,25,0
+40-44,Male,Graduated high school,200k+,Other/Multiracial,0.4544095264022618,25,0
+60-64,Male,Attended college or technical school,200k+,Hispanic,0.3970677624980515,25,0
+30-34,Female,Graduated college or technical school,<15k,Other/Multiracial,0.1104616346642169,25,0
+45-49,Female,Attended college or technical school,35k-50k,Asian,0.1403935687812365,25,0
+65-69,Male,Did not graduate high school,50k-100k,NH-Black,0.641913648893464,26,0
+35-39,Female,Graduated college or technical school,<15k,Other/Multiracial,0.5766720399435514,26,0
+80+,Female,Attended college or technical school,35k-50k,AIAN,0.3727948851545227,26,0
+50-54,Male,Attended college or technical school,100k-200k,NHOPI,0.2349210865725695,26,0
+18-24,Female,Graduated high school,50k-100k,NHOPI,0.4602656852610642,26,0
+25-29,Female,Attended college or technical school,15k-25k,Asian,0.142481083537221,26,0
+35-39,Female,Graduated college or technical school,<15k,Asian,0.0310813574040561,26,0
+25-29,Male,Graduated high school,35k-50k,NHOPI,0.3841599044399961,26,0
+65-69,Female,Graduated high school,100k-200k,Hispanic,0.0758664321141305,26,0
+45-49,Male,Did not graduate high school,35k-50k,NH-Black,0.3688363595378572,26,0
+60-64,Female,Graduated high school,25k-35k,Asian,0.0225333973523876,26,0
+80+,Female,Attended college or technical school,35k-50k,Asian,0.1083787041008,26,0
+30-34,Female,Did not graduate high school,<15k,AIAN,0.3476778390971722,26,0
+75-79,Male,Attended college or technical school,<15k,Hispanic,0.2945822572999338,26,0
+75-79,Male,Attended college or technical school,<15k,NH-Black,0.1752193695963559,26,0
+80+,Male,Did not graduate high school,15k-25k,Other/Multiracial,0.1024872245027868,26,0
+65-69,Female,Graduated high school,50k-100k,Asian,0.0508608218417311,26,0
+70-74,Male,Attended college or technical school,100k-200k,Asian,0.0999012915837174,26,0
+40-44,Female,Attended college or technical school,25k-35k,Asian,0.1982367599534928,26,0
+70-74,Female,Attended college or technical school,25k-35k,Asian,0.0573060675055448,26,0
+75-79,Male,Graduated high school,50k-100k,AIAN,0.3636559890348532,26,0
+50-54,Female,Graduated college or technical school,15k-25k,AIAN,0.4096549627318412,26,0
+65-69,Male,Did not graduate high school,200k+,NH-White,0.4321140087805861,26,0
+45-49,Male,Graduated college or technical school,200k+,AIAN,0.3359408775752383,26,0
+45-49,Female,Graduated high school,35k-50k,AIAN,0.5065009340182678,26,0
+80+,Female,Attended college or technical school,25k-35k,Asian,0.1755266065498488,26,0
+35-39,Female,Attended college or technical school,200k+,Hispanic,0.3696493992926685,26,0
+35-39,Female,Did not graduate high school,100k-200k,NH-White,0.12073391775202,26,0
+50-54,Male,Graduated college or technical school,35k-50k,AIAN,0.3924293141759441,26,0
+35-39,Male,Graduated high school,15k-25k,AIAN,0.253740237177646,26,0
+30-34,Male,Did not graduate high school,25k-35k,NH-Black,0.2241566866565501,26,0
+70-74,Female,Graduated college or technical school,50k-100k,NHOPI,0.0871209168928573,26,0
+70-74,Female,Did not graduate high school,<15k,AIAN,0.6380635696587593,26,0
+70-74,Male,Graduated college or technical school,15k-25k,Asian,0.0375397847265248,26,0
+65-69,Male,Graduated college or technical school,<15k,Other/Multiracial,0.1605408266424016,26,0
+50-54,Male,Graduated college or technical school,15k-25k,Asian,0.0553749264444081,26,0
+45-49,Male,Graduated high school,200k+,NH-Black,0.389305899434346,26,0
+45-49,Male,Graduated college or technical school,50k-100k,NHOPI,0.5257803086382831,26,0
+75-79,Male,Attended college or technical school,25k-35k,AIAN,0.7476922292203361,26,0
+70-74,Male,Attended college or technical school,25k-35k,Asian,0.0519950841969658,26,0
+40-44,Female,Graduated college or technical school,15k-25k,Asian,0.3634261013227161,26,0
+55-59,Male,Did not graduate high school,15k-25k,AIAN,0.5990942285491582,26,0
+40-44,Female,Did not graduate high school,<15k,AIAN,0.1538013437162406,26,0
+30-34,Male,Graduated high school,<15k,AIAN,0.3303040594560926,26,0
+65-69,Female,Did not graduate high school,100k-200k,NH-White,0.3180244092553992,26,0
+75-79,Male,Attended college or technical school,100k-200k,Hispanic,0.0435738786690877,26,0
+75-79,Female,Graduated college or technical school,200k+,NH-Black,0.2626190769136126,26,0
+30-34,Male,Attended college or technical school,100k-200k,AIAN,0.5855222798771811,26,0
+55-59,Male,Graduated high school,35k-50k,NHOPI,0.8069410578272848,27,0
+45-49,Female,Graduated high school,35k-50k,Asian,0.0519528747715537,27,0
+60-64,Female,Attended college or technical school,100k-200k,AIAN,0.4577369165357687,27,0
+80+,Female,Graduated high school,25k-35k,Asian,0.3199192396064345,27,0
+25-29,Female,Attended college or technical school,100k-200k,Asian,0.1425138802501329,27,0
+30-34,Female,Attended college or technical school,<15k,AIAN,0.537145814100788,27,0
+18-24,Male,Graduated high school,15k-25k,NHOPI,0.2901255095573452,27,0
+50-54,Female,Graduated high school,50k-100k,NHOPI,0.1163000180113391,27,0
+65-69,Female,Attended college or technical school,25k-35k,Asian,0.0984996434983317,27,0
+55-59,Female,Graduated college or technical school,100k-200k,NHOPI,0.3048167254020498,27,0
+50-54,Male,Did not graduate high school,15k-25k,Other/Multiracial,0.4731631052421267,27,0
+70-74,Female,Graduated college or technical school,100k-200k,AIAN,0.0187220442643503,27,0
+18-24,Female,Attended college or technical school,200k+,Other/Multiracial,0.0136521337256932,27,0
+45-49,Female,Graduated college or technical school,25k-35k,Other/Multiracial,0.1086875899755449,27,0
+18-24,Male,Graduated college or technical school,25k-35k,Other/Multiracial,0.0,27,0
+80+,Female,Graduated college or technical school,25k-35k,Asian,0.2161204995449275,27,0
+70-74,Female,Graduated high school,25k-35k,Asian,0.006489267087036,27,0
+40-44,Female,Graduated college or technical school,25k-35k,AIAN,0.6538666521879315,27,0
+75-79,Male,Graduated high school,15k-25k,AIAN,0.1271467749884982,27,0
+80+,Female,Attended college or technical school,15k-25k,Asian,0.0153225764686817,27,0
+65-69,Female,Did not graduate high school,<15k,Other/Multiracial,0.5120273678754711,27,0
+50-54,Male,Attended college or technical school,25k-35k,Asian,0.0613496162442322,27,0
+45-49,Male,Attended college or technical school,<15k,AIAN,0.670845893188724,27,0
+55-59,Male,Graduated college or technical school,35k-50k,AIAN,0.7093337464940531,27,0
+80+,Female,Did not graduate high school,15k-25k,Other/Multiracial,0.2021414063595704,27,0
+70-74,Female,Graduated high school,<15k,Asian,0.0298229282207781,27,0
+65-69,Female,Did not graduate high school,15k-25k,AIAN,0.2450694542985343,27,0
+60-64,Female,Graduated high school,25k-35k,NHOPI,0.3153051487721942,27,0
+35-39,Male,Did not graduate high school,25k-35k,NH-Black,0.4990579712506793,27,0
+50-54,Male,Graduated high school,50k-100k,NHOPI,0.3499757128183272,27,0
+75-79,Female,Graduated high school,50k-100k,Other/Multiracial,0.3832250760018197,27,0
+60-64,Male,Graduated college or technical school,25k-35k,AIAN,0.2437204602446679,27,0
+55-59,Male,Graduated college or technical school,200k+,AIAN,0.0655460375430862,27,0
+55-59,Male,Graduated college or technical school,15k-25k,Other/Multiracial,0.2747668791482517,27,0
+35-39,Male,Attended college or technical school,200k+,NH-Black,0.4086734749881281,27,0
+35-39,Male,Graduated college or technical school,15k-25k,Other/Multiracial,0.1878606673180137,27,0
+30-34,Male,Graduated college or technical school,100k-200k,NHOPI,0.3687936680835235,27,0
+18-24,Male,Did not graduate high school,35k-50k,Other/Multiracial,0.2025700787746436,27,0
+25-29,Male,Attended college or technical school,25k-35k,AIAN,0.2512017824559955,27,0
+25-29,Female,Graduated college or technical school,35k-50k,AIAN,0.422946792948208,28,0
+75-79,Female,Graduated high school,50k-100k,Asian,0.0431343269562321,28,0
+80+,Male,Graduated college or technical school,200k+,Asian,0.0159402101209404,28,0
+30-34,Female,Graduated high school,25k-35k,Asian,0.4879259934161843,28,0
+70-74,Female,Attended college or technical school,15k-25k,Asian,0.0138148140062947,28,0
+45-49,Male,Attended college or technical school,15k-25k,AIAN,0.359531147518808,28,0
+60-64,Male,Attended college or technical school,15k-25k,Asian,0.1854614196325416,28,0
+25-29,Female,Graduated high school,<15k,AIAN,0.399137270653615,28,0
+50-54,Male,Did not graduate high school,35k-50k,NH-Black,0.2645139405905219,28,0
+45-49,Male,Attended college or technical school,35k-50k,Asian,0.0524285577747144,28,0
+25-29,Male,Graduated high school,<15k,Other/Multiracial,0.2724508692868963,28,0
+18-24,Male,Did not graduate high school,50k-100k,NH-Black,0.2621445373587869,28,0
+50-54,Female,Graduated high school,35k-50k,AIAN,0.4974641917467955,28,0
+45-49,Female,Attended college or technical school,100k-200k,AIAN,0.6419112214610626,28,0
+60-64,Female,Graduated college or technical school,50k-100k,NHOPI,0.3934823645215416,28,0
+65-69,Male,Did not graduate high school,25k-35k,Other/Multiracial,0.2257288417657488,28,0
+65-69,Male,Did not graduate high school,<15k,Other/Multiracial,0.2664523741419112,28,0
+65-69,Male,Graduated high school,<15k,Asian,0.2049505890533728,28,0
+30-34,Female,Graduated high school,35k-50k,Asian,0.329070754930761,28,0
+25-29,Male,Attended college or technical school,100k-200k,AIAN,0.2160714430652854,28,0
+35-39,Female,Graduated high school,35k-50k,AIAN,0.3710277017508074,28,0
+80+,Female,Attended college or technical school,<15k,Other/Multiracial,0.1169668345423428,28,0
+45-49,Female,Attended college or technical school,25k-35k,Asian,0.1266927779718016,28,0
+55-59,Female,Graduated college or technical school,50k-100k,NHOPI,0.0278729567265177,28,0
+65-69,Female,Graduated college or technical school,<15k,Other/Multiracial,0.3388795966360279,28,0
+40-44,Male,Attended college or technical school,15k-25k,AIAN,0.5411293290832586,28,0
+50-54,Female,Attended college or technical school,100k-200k,AIAN,0.2492879641987944,28,0
+70-74,Male,Graduated high school,25k-35k,Asian,0.6483285363407757,28,0
+75-79,Female,Attended college or technical school,35k-50k,AIAN,0.409761602606594,28,0
+75-79,Female,Graduated college or technical school,35k-50k,AIAN,0.5766630714046133,28,0
+30-34,Male,Graduated high school,15k-25k,Asian,0.3075701405399653,28,0
+50-54,Male,Graduated high school,100k-200k,AIAN,0.3692868733429942,28,0
+70-74,Female,Graduated high school,100k-200k,NH-Black,0.2371827065667165,28,0
+35-39,Female,Graduated college or technical school,100k-200k,NHOPI,0.2414733594148267,28,0
+35-39,Female,Attended college or technical school,100k-200k,AIAN,0.5535583784968168,28,0
+35-39,Female,Graduated high school,50k-100k,AIAN,0.1694351312934077,28,0
+65-69,Male,Attended college or technical school,25k-35k,Asian,0.665842583163701,28,0
+75-79,Female,Attended college or technical school,100k-200k,Other/Multiracial,0.2879427100472435,28,0
+70-74,Male,Graduated high school,<15k,AIAN,0.0245311498550946,28,0
+30-34,Male,Graduated college or technical school,<15k,Asian,0.1534194267771886,28,0
+35-39,Male,Graduated college or technical school,35k-50k,AIAN,0.0949840944870165,28,0
+40-44,Male,Graduated high school,200k+,NH-Black,0.4260286040817025,28,0
+65-69,Female,Graduated college or technical school,<15k,AIAN,0.0704325242823563,29,0
+55-59,Female,Attended college or technical school,200k+,Hispanic,0.5201419468910785,29,0
+50-54,Male,Graduated high school,35k-50k,Asian,0.0455490332794284,29,0
+60-64,Female,Did not graduate high school,50k-100k,Hispanic,0.1790371058489618,29,0
+18-24,Female,Graduated high school,15k-25k,NHOPI,0.3871541856890811,29,0
+55-59,Female,Graduated high school,100k-200k,Other/Multiracial,0.3308540450723078,29,0
+60-64,Male,Attended college or technical school,35k-50k,Asian,0.0422679141453409,29,0
+65-69,Male,Graduated college or technical school,<15k,Asian,0.0367950609344453,29,0
+70-74,Female,Graduated college or technical school,35k-50k,AIAN,0.127461986951955,29,0
+80+,Male,Attended college or technical school,100k-200k,NH-Black,0.1782846968942838,29,0
+65-69,Female,Graduated high school,25k-35k,Asian,0.018111876304229,29,0
+65-69,Male,Attended college or technical school,50k-100k,NHOPI,0.4445887361098985,29,0
+50-54,Male,Graduated college or technical school,50k-100k,NHOPI,0.3012149358735463,29,0
+55-59,Male,Graduated college or technical school,<15k,Other/Multiracial,0.416659348208017,29,0
+80+,Male,Graduated high school,25k-35k,AIAN,0.0587758687299383,29,0
+45-49,Female,Graduated college or technical school,15k-25k,Other/Multiracial,0.3337988289099028,29,0
+60-64,Male,Graduated college or technical school,15k-25k,Asian,0.1398542300556551,29,0
+45-49,Male,Graduated high school,100k-200k,AIAN,0.6259286961182643,29,0
+35-39,Male,Attended college or technical school,<15k,Other/Multiracial,0.1933638522858867,29,0
+40-44,Female,Attended college or technical school,100k-200k,AIAN,0.2391196403571633,29,0
+18-24,Male,Did not graduate high school,25k-35k,NH-Black,0.1983268355870164,29,0
+40-44,Male,Attended college or technical school,200k+,NH-Black,0.4790054933460219,29,0
+35-39,Male,Attended college or technical school,15k-25k,AIAN,0.5268381234661966,29,0
+25-29,Female,Graduated college or technical school,50k-100k,NHOPI,0.0936137960641751,29,0
+60-64,Male,Graduated high school,35k-50k,Asian,0.0652347910763936,29,0
+50-54,Male,Graduated high school,200k+,NH-Black,0.7373823290505696,29,0
+65-69,Female,Graduated high school,15k-25k,Asian,0.0498441122480425,29,0
+35-39,Female,Graduated college or technical school,15k-25k,Other/Multiracial,0.2141809041013853,29,0
+80+,Female,Graduated college or technical school,<15k,NH-Black,0.0951782313566682,29,0
+50-54,Female,Graduated college or technical school,200k+,AIAN,0.1828304446256278,29,0
+65-69,Male,Did not graduate high school,15k-25k,AIAN,0.5450647444094541,29,0
+40-44,Male,Graduated college or technical school,200k+,AIAN,0.3838544837141945,29,0
+70-74,Male,Did not graduate high school,15k-25k,AIAN,0.1380466012852746,29,0
+25-29,Female,Attended college or technical school,<15k,Other/Multiracial,0.4150484109614993,29,0
+65-69,Male,Graduated college or technical school,50k-100k,NHOPI,0.5775764316104678,29,0
+75-79,Male,Graduated college or technical school,200k+,NH-Black,0.2996675767621036,29,0
+80+,Male,Graduated college or technical school,25k-35k,Other/Multiracial,0.1041020520575563,29,0
+45-49,Male,Did not graduate high school,50k-100k,NH-Black,0.567061417630108,29,0
+45-49,Male,Attended college or technical school,35k-50k,AIAN,0.6195941710043769,29,0
+60-64,Female,Graduated college or technical school,15k-25k,AIAN,0.1444803135290944,29,0
+70-74,Male,Graduated college or technical school,<15k,Hispanic,0.3605878506249657,29,0
+80+,Male,Graduated college or technical school,15k-25k,NH-Black,0.4327596944077877,29,0
+25-29,Female,Graduated high school,35k-50k,Asian,0.2826363326828365,29,0
+60-64,Female,Did not graduate high school,<15k,Other/Multiracial,0.4245545136236414,29,0
+35-39,Male,Graduated college or technical school,<15k,Asian,0.1669312513282545,29,0
+30-34,Male,Did not graduate high school,15k-25k,NH-Black,0.1902576384672741,29,0
