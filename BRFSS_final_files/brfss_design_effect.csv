@@ -1,0 +1,4 @@
+method,deff_estimate,notes
+PSU clustering approximation,0.1768,Unreliable — PSU grouping collapses to single observations
+Kish weight-based approximation,5.1407,Reliable — based on weight coefficient of variation
+Expected BRFSS range (CDC documented),1.5 - 2.5,Typical range for national BRFSS estimates
