@@ -1,6 +1,6 @@
 ## Folder Structure
 
-### notebooks/
+### notebooks
 All preprocessing and analysis notebooks in order of execution:
 
 | Notebook | Description |
