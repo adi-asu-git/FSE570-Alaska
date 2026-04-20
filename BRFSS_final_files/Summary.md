@@ -5,6 +5,15 @@ This folder contains all BRFSS preprocessing, modeling, and analysis outputs for
 
 ---
 
+## Dataset Access
+
+Individual-level cleaned data is hosted on Kaggle due to file size:
+[BRFSS 2020–2024 on Kaggle](https://www.kaggle.com/datasets/adiailsinghani17/brfss-2020-2024?select=brfss_clean_2020_2024.csv)
+
+All summary files and notebooks are in this repository.
+
+---
+
 ## Primary Files
 
 `brfss_clean_2020_2024.csv` — Individual-level cleaned dataset. 1,622,499 respondents across 2020–2024 with harmonized race, income, and BMI variables. Hosted on Kaggle.
