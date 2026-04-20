@@ -1,3 +1,18 @@
+# BRFSS Final Files — Summary
+
+## Overview
+This folder contains all BRFSS preprocessing, modeling, and analysis outputs for the FSE570 capstone project. The goal is county-level obesity estimation using Multilevel Regression and Post-Stratification (MrP). BRFSS provides the outcome variable — weighted obesity rates by demographic cell — which are combined with ACS PUMS county demographic proportions for post-stratification.
+
+---
+
+## Primary Files
+
+`brfss_clean_2020_2024.csv` — Individual-level cleaned dataset. 1,622,499 respondents across 2020–2024 with harmonized race, income, and BMI variables. Hosted on Kaggle.
+
+`brfss_group_summary_modeled.csv` — Primary input for post-stratification. 4,953 demographic cells (age × sex × race × education × income) with three obesity rate columns — raw, smoothed, and modeled — plus cell variance and Brier computability flags.
+
+---
+
 ## Folder Structure
 
 ### notebooks
