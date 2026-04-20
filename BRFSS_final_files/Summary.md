@@ -14,7 +14,7 @@ All preprocessing and analysis notebooks in order of execution:
 
 ---
 
-### state_estimates/
+### state_estimates
 Weighted obesity prevalence estimates at the state level, validated against CDC published rankings.
 
 | File | Description |
@@ -28,7 +28,7 @@ Weighted obesity prevalence estimates at the state level, validated against CDC 
 
 ---
 
-### trend_analysis/
+### trend_analysis
 Obesity trends by demographic group across 2020–2024.
 
 | File | Description |
@@ -44,14 +44,14 @@ Obesity trends by demographic group across 2020–2024.
 
 ---
 
-### cell_variance/
+### cell_variance
 Cell-level variance and Brier computability analysis. Identifies which demographic cells will produce Brier NaN during model evaluation.
 
 ![Cell Variance](cell_variance/brfss_cell_variance_plots.png)
 
 ---
 
-### design_effect/
+### design_effect
 Design effect estimation using Kish approximation and weight distribution analysis.
 
 | File | Description |
