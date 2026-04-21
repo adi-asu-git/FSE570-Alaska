@@ -1,0 +1,4 @@
+,Weighted AUC,Weighted Brier,Pred Std Dev,Pred Mean,Time (sec)
+Logistic Regression,0.6354,0.2135,0.0968,0.341,1.6
+Random Forest,0.6243,0.2171,0.0478,0.3372,7.6
+Gradient Boosting,0.6378,0.2134,0.083,0.3366,76.7
