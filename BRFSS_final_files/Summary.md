@@ -133,6 +133,41 @@ Cell-level calibration slope and MAE analysis comparing predicted vs observed ob
 
 ---
 
+### race_specific_models
+Full investigation into race-specific model performance and minority group AUC improvement.
+See [Race Specific Markdown file](race_specific_models/race_specific_model_analysis.md) for complete details.
+
+| File | Description |
+|------|-------------|
+| `brfss_race_auc.csv` | Baseline AUC per racial group |
+| `brfss_race_auc_plots.png` | AUC by race visualization |
+| `brfss_group_summary_race_models.csv` | Group summary with race-specific modeled obesity rates |
+| `brfss_race_specific_model_plots.png` | Baseline vs race-specific AUC comparison |
+
+**Key findings:**
+
+Three groups were below the 0.60 suppression threshold in the baseline model —
+NHOPI (0.545), Hispanic (0.588), NH-Black (0.596). Two approaches were tested:
+interaction terms (Age×Race, Income×Race, Education×Race) and race-specific models.
+
+| Race Group | Baseline AUC | Race-Specific AUC | Change |
+|------------|-------------|-------------------|--------|
+| NHOPI | 0.5448 | 0.6369 | +0.0921 ⬆️ |
+| Asian | 0.6013 | 0.6277 | +0.0264 ⬆️ |
+| NH-Black | 0.5963 | 0.6193 | +0.0230 ⬆️ |
+| Hispanic | 0.5883 | 0.5913 | +0.0030 ➡️ |
+
+Race-specific models resolved low AUC for NHOPI, Asian, and NH-Black.
+Hispanic remains below 0.60 regardless of modeling approach — a structural
+data limitation. Suppression recommended for counties where Hispanic
+population exceeds 50%.
+
+Race-specific modeled rates available in `brfss_group_summary_race_models.csv`
+as `obesity_rate_race_model` column — recommended over `obesity_rate_modeled`
+for NHOPI, Asian, and NH-Black cells.
+
+---
+
 ## Key Preprocessing Decisions
 
 **Race:** Uses `_RACEPRV` (CDC recommended prevalence variable). In 2022 CDC renamed to `_RACEPR1` — harmonized under unified name. Other and Multiracial collapsed to single category for cross-year consistency. Final 7 categories: NH-White, NH-Black, AIAN, Asian, NHOPI, Other/Multiracial, Hispanic.
