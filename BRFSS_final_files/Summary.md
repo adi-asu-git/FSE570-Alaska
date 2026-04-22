@@ -135,7 +135,7 @@ Cell-level calibration slope and MAE analysis comparing predicted vs observed ob
 
 ### race_specific_models
 Full investigation into race-specific model performance and minority group AUC improvement.
-See [Race Specific Markdown file](race_specific_models/race_specific_model_analysis.md) for complete details.
+See [Race Specific Markdown file](race_specific_models/race-specific_model_analysis.md) for complete details.
 
 | File | Description |
 |------|-------------|
