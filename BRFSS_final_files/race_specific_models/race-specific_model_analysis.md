@@ -44,6 +44,8 @@ logistic regression trained on all groups combined:
 NH-White dominated the combined model with 75% of observations (997,964 respondents),
 suppressing the model's ability to learn demographic patterns specific to minority groups.
 
+![Race AUC Baseline](brfss_race_auc_plots.png)
+
 ---
 
 ### Stage 2 — Interaction Model
@@ -77,6 +79,8 @@ state fixed effects.
 | Hispanic | 121,793 | 0.5883 | 0.5913 | +0.0030 ➡️ |
 | NH-White | 997,964 | 0.6204 | 0.6191 | -0.0013 ➡️ |
 | Other/Multiracial | 38,813 | 0.6150 | 0.6126 | -0.0024 ➡️ |
+
+![Race Specific Model Results](brfss_race_specific_model_plots.png)
 
 ---
 
