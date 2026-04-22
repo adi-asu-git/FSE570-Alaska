@@ -1,0 +1,8 @@
+race_group,n,obesity_rate,auc
+NHOPI,1304,0.4077,0.5448
+Hispanic,24390,0.3716,0.5883
+NH-Black,20152,0.4449,0.5963
+Asian,7037,0.1281,0.6013
+AIAN,4243,0.3725,0.61
+Other/Multiracial,7760,0.3273,0.615
+NH-White,199562,0.3333,0.6204
