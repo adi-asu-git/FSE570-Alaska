@@ -99,7 +99,7 @@ Comparison of logistic regression, random forest, and gradient boosting on indiv
 | `brfss_model_comparison.csv` | AUC, Brier, predicted std dev, and runtime across all three models |
 | `brfss_model_comparison_plots.png` | Three-panel visualization |
 
-![Model Comparison](model_comparison/brfss_model_comparison_plots.png)
+![Model Comparison](model_comparision/brfss_model_comparison_plots.png)
 
 ---
 
