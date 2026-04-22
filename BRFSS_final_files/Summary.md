@@ -35,6 +35,9 @@ All preprocessing and analysis notebooks in order of execution:
 | `brfss_cell_variance.ipynb` | Computes cell-level variance and Brier computability flags |
 | `brfss_designing_effect.ipynb` | Estimates design effect using Kish approximation, documents weight distribution |
 | `brfss_trend_analysis.ipynb` | Computes obesity trends by race, sex, education, income, and age across 2020–2024 |
+| `brfss_model_comparison.ipynb` | Compares logistic regression, random forest, and gradient boosting on AUC, Brier, and cell-level std dev |
+| `brfss_feature_importance.ipynb` | Grouped logistic regression coefficient analysis addressing SHAP fragmentation issue |
+| `brfss_calibration_check.ipynb` | Cell-level calibration slope and MAE analysis on reliable and all cells |
 
 ---
 
@@ -71,6 +74,10 @@ Obesity trends by demographic group across 2020–2024.
 ### cell_variance
 Cell-level variance and Brier computability analysis. Identifies which demographic cells will produce Brier NaN during model evaluation.
 
+| File | Description |
+|------|-------------|
+| `brfss_cell_variance_plots.png` | Three-panel visualization |
+
 ![Cell Variance](cell_variance/brfss_cell_variance_plots.png)
 
 ---
@@ -81,6 +88,48 @@ Design effect estimation using Kish approximation and weight distribution analys
 | File | Description |
 |------|-------------|
 | `brfss_design_effect.csv` | DEFF estimates across methods with notes |
+
+---
+
+### model_comparison
+Comparison of logistic regression, random forest, and gradient boosting on individual-level prediction metrics and cell-level variation.
+
+| File | Description |
+|------|-------------|
+| `brfss_model_comparison.csv` | AUC, Brier, predicted std dev, and runtime across all three models |
+| `brfss_model_comparison_plots.png` | Three-panel visualization |
+
+![Model Comparison](model_comparison/brfss_model_comparison_plots.png)
+
+---
+
+### feature_importance
+Grouped logistic regression coefficient analysis. Addresses the SHAP fragmentation issue where one-hot encoding understates true group-level importance.
+
+| File | Description |
+|------|-------------|
+| `brfss_feature_importance.csv` | Individual feature coefficients with group labels |
+| `brfss_group_importance.csv` | Summed absolute coefficients by feature group |
+| `brfss_feature_importance_plots.png` | Three-panel visualization |
+
+![Feature Importance](feature_importance/brfss_feature_importance_plots.png)
+
+---
+
+### calibration_check
+Cell-level calibration slope and MAE analysis comparing predicted vs observed obesity rates across reliable demographic cells.
+
+| File | Description |
+|------|-------------|
+| `brfss_calibration_results.csv` | Predicted and observed rates per cell with residuals |
+| `brfss_calibration_plots.png` | Three-panel visualization |
+
+| Metric | All Cells | Reliable Only |
+|--------|-----------|---------------|
+| Calibration slope | 0.9505 | 0.9631 |
+| MAE | 13.93pp | 7.84pp |
+
+![Calibration Check](calibration_check/brfss_calibration_plots.png)
 
 ---
 
@@ -96,7 +145,7 @@ Design effect estimation using Kish approximation and weight distribution analys
 
 **Smoothing:** Empirical Bayes shrinkage (k=30) eliminates all 419 cells with 0% or 100% obesity rates. Sparse cells (n<30) account for 41.6% of all cells.
 
-**Modeling:** Weighted logistic regression on 1,322,240 individual records (2021–2024) with state fixed effects. AUC 0.634. Modeled std dev 0.117 vs 0.096 for smoothing.
+**Modeling:** Weighted logistic regression on 1,322,240 individual records (2021–2024) with state fixed effects. AUC 0.634, calibration slope 0.963. Outperforms random forest and gradient boosting on cell-level std dev (0.117 vs 0.063 and 0.102).
 
 ---
 
